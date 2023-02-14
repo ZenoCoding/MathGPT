@@ -12,14 +12,17 @@ import sympy as sp
 
 openai.api_key = "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"
 
+# Function that generates a random coefficient that isn't 1
+def random_coefficient() -> int:
+    return random.choice([i for i in range(-10, 10) if i not in [1, 0]])
 
 # Function that generates simple binomials with variable x
 def generate_binomial(leading_is_one: bool = True) -> str:
-    return f"({random.Random().randint(-10, 10) if not leading_is_one else ''}x {random.Random().choice(['+', '-'])} {random.Random().randint(1, 10)})"
+    return f"({random_coefficient() if not leading_is_one else ''}x {random.Random().choice(['+', '-'])} {random.Random().randint(1, 10)})"
 
 
 # Function that generates simple factor able polynomials with variable x by multiplying two binomials
-def generate_factorable_polynomial(degree: int = 1, leading_is_one: bool = True) -> sp.Expr:
+def generate_factorable_polynomial(degree: int = 1, leading_is_one: bool = True) -> str:
     polynomial = utils.convert_expression(generate_binomial(leading_is_one))
     x = random.Random().randint(0, 5)
     for i in range(degree-1):
@@ -31,13 +34,39 @@ def generate_factorable_polynomial(degree: int = 1, leading_is_one: bool = True)
             if x == 0:
                 pass
             elif x == 1 and not leading_is_one:
-                polynomial *= random.randint(1, 10)
+                polynomial *= random_coefficient()
             else:
                 polynomial = sp.expand(polynomial)
         else:
             polynomial = sp.expand(polynomial)
 
     return str(polynomial)
+
+def generate_random_polynomial(degree: int = 1, leading_is_one: bool = True) -> str:
+
+    r = random.Random()
+    result = []
+    result.append(random_coefficient()) if not leading_is_one else result.append(1)
+    for _ in range(degree):
+        result.append(r.randint(-10, 10))
+    x = sp.symbols('x')
+    result = sp.sympify((sp.Poly.from_list(result, gens=x)).as_expr())
+
+    return str(result)
+
+
+def generate_equation(degree: int = 2, leading_is_one: bool = True) -> sp.Equality:
+    r = random.Random()
+    poly = generate_random_polynomial(degree, leading_is_one)
+    n = r.randint(0, 2)
+    if n == 0:
+        # polynomial on the other side (degree less than or equal to current degree)
+        result = f"{poly} = {generate_random_polynomial(r.randint(1, degree), leading_is_one)}"
+    else:
+        # 0 on the other side
+        result = f"{poly} = 0"
+
+    return result
 
 
 prompts = {
@@ -50,6 +79,14 @@ prompts = {
         f"Factor the polynomial %s",
         f"Please factor the polynomial %s"
     ],
+
+    "solve": [
+        f"Solve for x. %s.",
+        f"Find the roots of %s.",
+        "Solve. %s",
+        "Algebraically solve %s",
+        "%s Solve the equation.",
+    ],
     
     "solve_quadratic": [
         f"Solve for x. %s.",
@@ -58,7 +95,6 @@ prompts = {
         f"Solve. %s.",
         f"%s Solve.",
         f"equate to 0 and solve %s",
-        f"Factor the polynomial %s",
         f"Please factor the polynomial %s",
     ],
 
@@ -95,7 +131,8 @@ class ProblemType(Enum):
             # Replace the placeholder with the expression
             prompt = prompt.replace("%s", expression)
             # Return the prompt and the expression
-            result.append(prompt, f"{expression} | {self.name}")
+            result.append((prompt, expression))
+            print(f"Generating prompt | Type: {self.name.lower()} |  {_ + 1}/{AMOUNT} {round((_ + 1) / AMOUNT * 100, 2)}%")
         return result
 
     def solve(self, expression: str):
@@ -104,31 +141,33 @@ class ProblemType(Enum):
 
     # Degree of two or less
     FACTOR_SIMPLE_POLYNOMIAL = prompts["factor_polynomial"], lambda: generate_factorable_polynomial(2, True), Solver.factor  # x^2 + 3x + 1
-    FACTOR_SIMPLE_NONONE_POLYNOMIAL = prompts["factor_polynomial"], lambda: generate_factorable_polynomial(2, False), Solver.factor # 3x^2 + 3x + 1
+    FACTOR_SIMPLE_NONONE_POLYNOMIAL = prompts["factor_polynomial"], lambda: generate_factorable_polynomial(2, False), Solver.factor  # 3x^2 + 3x + 1
 
     # Degree more than two
     FACTOR_HIGH_DEGREE_POLYNOMIAL = prompts["factor_polynomial"], lambda: generate_factorable_polynomial(random.Random().randint(3, 10), True), Solver.factor  # x^3 + 3x + 1
 
     # Lower than 1 degree polynomial
-    #FACTOR_SIMPLE =   # 2x+2
+    FACTOR_SIMPLE = prompts["factor_polynomial"], lambda: generate_factorable_polynomial(1, False), Solver.factor  # 2x+2
 
-    #QUADRATIC_POLYNOMIAL_ROOT_FACTOR =   # x^2 + 2x + 1
-    #QUADRATIC_POLYNOMIAL_ROOT_QUADRATIC_EQUATION =   # x^2 + 2x + 1 = 0
+    SOLVE_SIMPLE = prompts["solve"], lambda: generate_equation(1, False), Solver.solve  # 2x+2 = 0
+
+    QUADRATIC_POLYNOMIAL_ROOT_QUADRATIC_EQUATION = prompts["solve_quadratic"], lambda: generate_equation(2, False), Solver.solve
+    # x^2 + 2x + 1 = 0
 
 
 
-AMOUNT = 100
+AMOUNT = 50
 
 
 def generate_prompts():
-    for i in range(AMOUNT):
-        leading_is_one = random.Random().randint(0, 1) == 1
-        polynomial = generate_factorable_polynomial(leading_is_one)
-        prompt = create_prompt(polynomial)
-        with jsonlines.open("output/prompts.jsonl", mode="a") as writer:
-            writer.write({"prompt": prompt + "\n\n###\n\n",
-                          "completion": f"{polynomial} | {ProblemType.FACTOR_SIMPLE_POLYNOMIAL if leading_is_one else ProblemType.FACTOR_SIMPLE_NONONE_POLYNOMIAL}###"})
-        print(f"Generating prompt | Type: | ...  {i + 1}/{AMOUNT} {round((i + 1) / AMOUNT * 100, 2)}%")
+    for e in ProblemType:
+        print(f"Generating prompts for {e.name}...")
+        for i in e.generate_problem(AMOUNT):
+            prompt, polynomial = i
+            with jsonlines.open("output/prompts.jsonl", mode="a") as writer:
+                writer.write({"prompt": prompt + "\n\n###\n\n",
+                              "completion": f" {polynomial} | {e.name.lower()}###"})
+
 
 
 # function that takes the prompts and "randomizes" them, converting some "**" to ^ and removing some cases of
@@ -152,18 +191,12 @@ def randomize_prompts():
             new_prompts.append({"prompt": result, "completion": prompt["completion"]})
 
         for prompt in new_prompts:
-            with jsonlines.open("output/prompts.jsonl", mode="a") as writer:
+            with jsonlines.open("output/formatted_prompts.jsonl", mode="a") as writer:
                 writer.write({"prompt": prompt["prompt"], "completion": prompt["completion"]})
 
+randomize_prompts()
 
-print("Factorable quadratic: ", generate_factorable_polynomial(2, True))
-print("Factorable quadratic: ", generate_factorable_polynomial(3, True))
-print("Factorable quadratic: ", generate_factorable_polynomial(4, True))
-print("Factorable quadratic: ", generate_factorable_polynomial(5, True))
-print("Factorable quadratic: ", generate_factorable_polynomial(2, True))
-print("Factorable quadratic: ", generate_factorable_polynomial(3, True))
-print("Factorable quadratic: ", generate_factorable_polynomial(4, True))
-print("Factorable quadratic: ", generate_factorable_polynomial(5, True))
+#export OPENAI_API_KEY="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"
 
 # openai tools fine_tunes.prepare_data -f <LOCAL_FILE>
 # openai api fine_tunes.create -t formatted_prompts.jsonl -m babbage --suffix "recognition"

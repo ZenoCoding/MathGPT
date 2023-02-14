@@ -1,300 +1,299 @@
-{"prompt":"Factorthe polynomial9*x^2+ 42x+ 49.\n\n###\n\n","completion":" 9*x**2 + 42*x + 49 | factor_nonone_polynomial###"}
-{"prompt":"Factor the polynomial 2*x**2 +9*x+9\n\n###\n\n","completion":" 2*x**2 + 9*x + 9 | factor_nonone_polynomial###"}
-{"prompt":"Findthefactorizationofthe polynomialx*2 +13x +42.\n\n###\n\n","completion":" x**2 + 13*x + 42 | factor_simple_polynomial###"}
-{"prompt":"x^*2 + 5*x +4 Factor.\n\n###\n\n","completion":" x**2 + 5*x + 4 | factor_simple_polynomial###"}
-{"prompt":"Factorthepolynomial2*x*2+ 20*x +32\n\n###\n\n","completion":" 2*x**2 + 20*x + 32 | factor_nonone_polynomial###"}
-{"prompt":"Factor x^2 + 14*x + 48\n\n###\n\n","completion":" x**2 + 14*x + 48 | factor_simple_polynomial###"}
-{"prompt":"x**2 + 13x+ 36 Factor.\n\n###\n\n","completion":" x**2 + 13*x + 36 | factor_simple_polynomial###"}
-{"prompt":"x**2+8*x+16Factor.\n\n###\n\n","completion":" x**2 + 8*x + 16 | factor_simple_polynomial###"}
-{"prompt":"Find thefactorsofthepolynomial10*x^2+46x + 48.\n\n###\n\n","completion":" 10*x**2 + 46*x + 48 | factor_nonone_polynomial###"}
-{"prompt":"x^2 + 12x+27Factor.\n\n###\n\n","completion":" x**2 + 12*x + 27 | factor_simple_polynomial###"}
-{"prompt":"Findthefactorsofthe polynomial x^2 +20x+100.\n\n###\n\n","completion":" x**2 + 20*x + 100 | factor_simple_polynomial###"}
-{"prompt":"Factor x^*2 +19x + 90\n\n###\n\n","completion":" x**2 + 19*x + 90 | factor_simple_polynomial###"}
-{"prompt":"Factor12*x**2 + 22x+ 6\n\n###\n\n","completion":" 12*x**2 + 22*x + 6 | factor_nonone_polynomial###"}
-{"prompt":"x^*2+8*x +12 Factor.\n\n###\n\n","completion":" x**2 + 8*x + 12 | factor_simple_polynomial###"}
-{"prompt":"Please factorthe polynomial x*2 +8x + 15\n\n###\n\n","completion":" x**2 + 8*x + 15 | factor_simple_polynomial###"}
-{"prompt":"Find the factors of thepolynomial2x*2 +24*x + 64.\n\n###\n\n","completion":" 2*x**2 + 24*x + 64 | factor_nonone_polynomial###"}
-{"prompt":"Find the factorsofthe polynomialx^*2 +18*x + 80.\n\n###\n\n","completion":" x**2 + 18*x + 80 | factor_simple_polynomial###"}
-{"prompt":"Find thefactorsof the polynomial x*2 + 11x+18.\n\n###\n\n","completion":" x**2 + 11*x + 18 | factor_simple_polynomial###"}
-{"prompt":"Findthefactorsofthepolynomial x**2+ 18*x +81.\n\n###\n\n","completion":" x**2 + 18*x + 81 | factor_simple_polynomial###"}
-{"prompt":"Factor the polynomial 8*x^2 +32x+32\n\n###\n\n","completion":" 8*x**2 + 32*x + 32 | factor_nonone_polynomial###"}
-{"prompt":"Find the factorsofthe polynomial 8x^*2 + 36*x+16.\n\n###\n\n","completion":" 8*x**2 + 36*x + 16 | factor_nonone_polynomial###"}
-{"prompt":"Factorthepolynomial4*x^2 +23x+ 28\n\n###\n\n","completion":" 4*x**2 + 23*x + 28 | factor_nonone_polynomial###"}
-{"prompt":"Factorthe polynomial x**2+17*x + 70 and writeitin the form (ax+b)(cx+d).\n\n###\n\n","completion":" x**2 + 17*x + 70 | factor_simple_polynomial###"}
-{"prompt":"x*2+ 8*x+ 12 Factor.\n\n###\n\n","completion":" x**2 + 8*x + 12 | factor_simple_polynomial###"}
-{"prompt":"Please factorthe polynomial 5x^2+ 39*x+28\n\n###\n\n","completion":" 5*x**2 + 39*x + 28 | factor_nonone_polynomial###"}
-{"prompt":"Please factorthepolynomial x**2 +12*x+ 35\n\n###\n\n","completion":" x**2 + 12*x + 35 | factor_simple_polynomial###"}
-{"prompt":"12x*2+ 34x + 14Factor.\n\n###\n\n","completion":" 12*x**2 + 34*x + 14 | factor_nonone_polynomial###"}
-{"prompt":"Factor 20x*2 +42*x+18\n\n###\n\n","completion":" 20*x**2 + 42*x + 18 | factor_nonone_polynomial###"}
-{"prompt":"Pleasefactor the polynomialx*2 +12*x + 20\n\n###\n\n","completion":" x**2 + 12*x + 20 | factor_simple_polynomial###"}
-{"prompt":"Factor thepolynomial5*x^*2+52*x + 63\n\n###\n\n","completion":" 5*x**2 + 52*x + 63 | factor_nonone_polynomial###"}
-{"prompt":"Pleasefactor thepolynomial 10*x^*2+31x +15\n\n###\n\n","completion":" 10*x**2 + 31*x + 15 | factor_nonone_polynomial###"}
-{"prompt":"Find thefactorization ofthepolynomial20*x^*2+29*x+6.\n\n###\n\n","completion":" 20*x**2 + 29*x + 6 | factor_nonone_polynomial###"}
-{"prompt":"Findthefactors of thepolynomial x^*2+11x +28.\n\n###\n\n","completion":" x**2 + 11*x + 28 | factor_simple_polynomial###"}
-{"prompt":"Factor thepolynomial10x^*2 +54x +20.\n\n###\n\n","completion":" 10*x**2 + 54*x + 20 | factor_nonone_polynomial###"}
-{"prompt":"Find thefactorsof the polynomialx^*2+8x +12.\n\n###\n\n","completion":" x**2 + 8*x + 12 | factor_simple_polynomial###"}
-{"prompt":"Find thefactorization ofthepolynomial 2x**2 +10x + 8.\n\n###\n\n","completion":" 2*x**2 + 10*x + 8 | factor_nonone_polynomial###"}
-{"prompt":"Find thefactorization of thepolynomial 20x^2+42x+16.\n\n###\n\n","completion":" 20*x**2 + 42*x + 16 | factor_nonone_polynomial###"}
-{"prompt":"Pleasefactor the polynomial x^2 +17x + 70\n\n###\n\n","completion":" x**2 + 17*x + 70 | factor_simple_polynomial###"}
-{"prompt":"Factorthe polynomialx^*2 + 18x+ 80.\n\n###\n\n","completion":" x**2 + 18*x + 80 | factor_simple_polynomial###"}
-{"prompt":"Find the factorizationofthe polynomial 3*x^*2 +29x +18.\n\n###\n\n","completion":" 3*x**2 + 29*x + 18 | factor_nonone_polynomial###"}
-{"prompt":"Factor the polynomial x**2+ 13*x + 30 andwriteit intheform(ax+b)(cx+d).\n\n###\n\n","completion":" x**2 + 13*x + 30 | factor_simple_polynomial###"}
-{"prompt":"Factorthe polynomial3*x^*2+ 30*x +48.\n\n###\n\n","completion":" 3*x**2 + 30*x + 48 | factor_nonone_polynomial###"}
-{"prompt":"Factorx**2 + 7*x+ 6\n\n###\n\n","completion":" x**2 + 7*x + 6 | factor_simple_polynomial###"}
-{"prompt":"Factor thepolynomial x^2 +17*x+70and write itin theform(ax+b)(cx+d).\n\n###\n\n","completion":" x**2 + 17*x + 70 | factor_simple_polynomial###"}
-{"prompt":"Find thefactorsofthepolynomial x*2+ 8x + 15.\n\n###\n\n","completion":" x**2 + 8*x + 15 | factor_simple_polynomial###"}
-{"prompt":"Pleasefactorthepolynomial 4*x*2+47*x+70\n\n###\n\n","completion":" 4*x**2 + 47*x + 70 | factor_nonone_polynomial###"}
-{"prompt":"Factorthe polynomial 8x^*2 + 6x +1.\n\n###\n\n","completion":" 8*x**2 + 6*x + 1 | factor_nonone_polynomial###"}
-{"prompt":"Find the factorization ofthe polynomial5*x^*2+ 41x +42.\n\n###\n\n","completion":" 5*x**2 + 41*x + 42 | factor_nonone_polynomial###"}
-{"prompt":"Please factorthepolynomialx**2+10x+ 25\n\n###\n\n","completion":" x**2 + 10*x + 25 | factor_simple_polynomial###"}
-{"prompt":"Factorx^2 + 11x+ 10\n\n###\n\n","completion":" x**2 + 11*x + 10 | factor_nonone_polynomial###"}
-{"prompt":"Find thefactorsof the polynomial 25*x**2+ 30*x+5.\n\n###\n\n","completion":" 25*x**2 + 30*x + 5 | factor_nonone_polynomial###"}
-{"prompt":"Factor the polynomial4x^*2+6x + 2and write itin the form (ax+b)(cx+d).\n\n###\n\n","completion":" 4*x**2 + 6*x + 2 | factor_nonone_polynomial###"}
-{"prompt":"Factorthepolynomial x*2+18*x +80.\n\n###\n\n","completion":" x**2 + 18*x + 80 | factor_simple_polynomial###"}
-{"prompt":"Find thefactors of thepolynomial25*x^2+55x+ 18.\n\n###\n\n","completion":" 25*x**2 + 55*x + 18 | factor_nonone_polynomial###"}
-{"prompt":"Factor thepolynomial x*2+19x +90\n\n###\n\n","completion":" x**2 + 19*x + 90 | factor_simple_polynomial###"}
-{"prompt":"Findthefactorization ofthepolynomial 12x^*2 + 21*x+9.\n\n###\n\n","completion":" 12*x**2 + 21*x + 9 | factor_nonone_polynomial###"}
-{"prompt":"Factorx*2 + 11x+ 28\n\n###\n\n","completion":" x**2 + 11*x + 28 | factor_simple_polynomial###"}
-{"prompt":"10x^*2 +56x +30Factor.\n\n###\n\n","completion":" 10*x**2 + 56*x + 30 | factor_nonone_polynomial###"}
-{"prompt":"Please factor thepolynomial 15x^2 +59x+56\n\n###\n\n","completion":" 15*x**2 + 59*x + 56 | factor_nonone_polynomial###"}
-{"prompt":"Findthe factorsof thepolynomialx**2+6x+ 5.\n\n###\n\n","completion":" x**2 + 6*x + 5 | factor_simple_polynomial###"}
-{"prompt":"Findthefactorizationof the polynomial2x^*2 + 22x + 20.\n\n###\n\n","completion":" 2*x**2 + 22*x + 20 | factor_nonone_polynomial###"}
-{"prompt":"x^*2+8x + 7Factor.\n\n###\n\n","completion":" x**2 + 8*x + 7 | factor_nonone_polynomial###"}
-{"prompt":"Find thefactorsof the polynomial15x^2+ 23x+4.\n\n###\n\n","completion":" 15*x**2 + 23*x + 4 | factor_nonone_polynomial###"}
-{"prompt":"Findthefactorsofthe polynomial 20*x^*2+64*x + 48.\n\n###\n\n","completion":" 20*x**2 + 64*x + 48 | factor_nonone_polynomial###"}
-{"prompt":"Factorthepolynomial 2x**2 +6x + 4.\n\n###\n\n","completion":" 2*x**2 + 6*x + 4 | factor_nonone_polynomial###"}
-{"prompt":"Factor the polynomial 2x*2+ 22x + 48.\n\n###\n\n","completion":" 2*x**2 + 22*x + 48 | factor_nonone_polynomial###"}
-{"prompt":"Factor thepolynomial 2*x**2 + 7*x + 3\n\n###\n\n","completion":" 2*x**2 + 7*x + 3 | factor_nonone_polynomial###"}
-{"prompt":"Pleasefactor thepolynomial 15*x*2 + 42*x +27\n\n###\n\n","completion":" 15*x**2 + 42*x + 27 | factor_nonone_polynomial###"}
-{"prompt":"5x^*2+39x +28Factor.\n\n###\n\n","completion":" 5*x**2 + 39*x + 28 | factor_nonone_polynomial###"}
-{"prompt":"Please factorthepolynomialx^2 +14x+40\n\n###\n\n","completion":" x**2 + 14*x + 40 | factor_simple_polynomial###"}
-{"prompt":"Please factor thepolynomial16*x^*2 + 40*x +21\n\n###\n\n","completion":" 16*x**2 + 40*x + 21 | factor_nonone_polynomial###"}
-{"prompt":"Please factor thepolynomial9*x**2 +42*x +48\n\n###\n\n","completion":" 9*x**2 + 42*x + 48 | factor_nonone_polynomial###"}
-{"prompt":"Find thefactorization of the polynomial 2*x^2+ 17*x+ 8.\n\n###\n\n","completion":" 2*x**2 + 17*x + 8 | factor_nonone_polynomial###"}
-{"prompt":"Find thefactorsofthe polynomial15x**2 + 45x + 30.\n\n###\n\n","completion":" 15*x**2 + 45*x + 30 | factor_nonone_polynomial###"}
-{"prompt":"Factor the polynomial 10x*2 + 24x+ 8.\n\n###\n\n","completion":" 10*x**2 + 24*x + 8 | factor_nonone_polynomial###"}
-{"prompt":"Find the factorsofthe polynomial 15x^2+ 41x+28.\n\n###\n\n","completion":" 15*x**2 + 41*x + 28 | factor_nonone_polynomial###"}
-{"prompt":"Factorthe polynomialx**2 +12*x+36 andwriteitinthe form(ax+b)(cx+d).\n\n###\n\n","completion":" x**2 + 12*x + 36 | factor_simple_polynomial###"}
-{"prompt":"Factorthepolynomial15x^*2 +51x+ 18.\n\n###\n\n","completion":" 15*x**2 + 51*x + 18 | factor_nonone_polynomial###"}
-{"prompt":"Findthe factorizationofthe polynomial4*x*2+ 20*x+24.\n\n###\n\n","completion":" 4*x**2 + 20*x + 24 | factor_nonone_polynomial###"}
-{"prompt":"2x**2 + 23*x +63Factor.\n\n###\n\n","completion":" 2*x**2 + 23*x + 63 | factor_nonone_polynomial###"}
-{"prompt":"Factor thepolynomial 12x^2 + 43x+ 36\n\n###\n\n","completion":" 12*x**2 + 43*x + 36 | factor_nonone_polynomial###"}
-{"prompt":"Factorthe polynomialx^2+ 16*x +64.\n\n###\n\n","completion":" x**2 + 16*x + 64 | factor_simple_polynomial###"}
-{"prompt":"Factorthepolynomial 2*x^2 + 20x+ 42 and writeitintheform (ax+b)(cx+d).\n\n###\n\n","completion":" 2*x**2 + 20*x + 42 | factor_nonone_polynomial###"}
-{"prompt":"Pleasefactor thepolynomialx^*2+9*x +14\n\n###\n\n","completion":" x**2 + 9*x + 14 | factor_simple_polynomial###"}
-{"prompt":"15x^2 +54*x + 27Factor.\n\n###\n\n","completion":" 15*x**2 + 54*x + 27 | factor_nonone_polynomial###"}
-{"prompt":"Find thefactors of thepolynomial6*x^2 + 11x + 4.\n\n###\n\n","completion":" 6*x**2 + 11*x + 4 | factor_nonone_polynomial###"}
-{"prompt":"Factor thepolynomial x**2 +12*x +20\n\n###\n\n","completion":" x**2 + 12*x + 20 | factor_simple_polynomial###"}
-{"prompt":"Find the factorsof thepolynomial x^2+ 19x+90.\n\n###\n\n","completion":" x**2 + 19*x + 90 | factor_simple_polynomial###"}
-{"prompt":"Pleasefactorthepolynomial x^2 +16x+63\n\n###\n\n","completion":" x**2 + 16*x + 63 | factor_simple_polynomial###"}
-{"prompt":"Find the factors ofthepolynomial 15x^2 +53*x + 10.\n\n###\n\n","completion":" 15*x**2 + 53*x + 10 | factor_nonone_polynomial###"}
-{"prompt":"x*2 + 17*x + 70 Factor.\n\n###\n\n","completion":" x**2 + 17*x + 70 | factor_simple_polynomial###"}
-{"prompt":"Find thefactorization of the polynomialx**2+ 11*x + 28.\n\n###\n\n","completion":" x**2 + 11*x + 28 | factor_simple_polynomial###"}
-{"prompt":"Pleasefactorthe polynomialx^2 +6*x +5\n\n###\n\n","completion":" x**2 + 6*x + 5 | factor_simple_polynomial###"}
-{"prompt":"x^2+12x +36 Factor.\n\n###\n\n","completion":" x**2 + 12*x + 36 | factor_simple_polynomial###"}
-{"prompt":"Factorthe polynomial6x*2+14*x +8\n\n###\n\n","completion":" 6*x**2 + 14*x + 8 | factor_nonone_polynomial###"}
-{"prompt":"Factor the polynomial3*x**2 +24*x +45.\n\n###\n\n","completion":" 3*x**2 + 24*x + 45 | factor_nonone_polynomial###"}
-{"prompt":"Factor the polynomial 15*x^2+ 32*x+ 16.\n\n###\n\n","completion":" 15*x**2 + 32*x + 16 | factor_nonone_polynomial###"}
-{"prompt":"Factorx^2+ 6*x+9\n\n###\n\n","completion":" x**2 + 6*x + 9 | factor_simple_polynomial###"}
-{"prompt":"Find the factorizationof the polynomialx*2 + 15*x +50.\n\n###\n\n","completion":" x**2 + 15*x + 50 | factor_simple_polynomial###"}
-{"prompt":"3x^2 + 14*x+ 16Factor.\n\n###\n\n","completion":" 3*x**2 + 14*x + 16 | factor_nonone_polynomial###"}
-{"prompt":"Factor16x*2 +28*x + 6\n\n###\n\n","completion":" 16*x**2 + 28*x + 6 | factor_nonone_polynomial###"}
-{"prompt":"Find thefactorization ofthe polynomialx**2+ 9x+ 20.\n\n###\n\n","completion":" x**2 + 9*x + 20 | factor_simple_polynomial###"}
-{"prompt":"Factorthepolynomialx**2 + 11x+18\n\n###\n\n","completion":" x**2 + 11*x + 18 | factor_simple_polynomial###"}
-{"prompt":"Factor thepolynomial 8*x^2 + 42*x +54\n\n###\n\n","completion":" 8*x**2 + 42*x + 54 | factor_nonone_polynomial###"}
-{"prompt":"Factor thepolynomialx*2 +12x + 27\n\n###\n\n","completion":" x**2 + 12*x + 27 | factor_simple_polynomial###"}
-{"prompt":"Factor thepolynomialx**2+6x+ 9\n\n###\n\n","completion":" x**2 + 6*x + 9 | factor_simple_polynomial###"}
-{"prompt":"Find thefactorization of thepolynomial5x*2 + 34x+ 45.\n\n###\n\n","completion":" 5*x**2 + 34*x + 45 | factor_nonone_polynomial###"}
-{"prompt":"Factorx^*2+ 13*x+ 36\n\n###\n\n","completion":" x**2 + 13*x + 36 | factor_simple_polynomial###"}
-{"prompt":"Findthe factors of thepolynomial3*x**2 +21x+ 36.\n\n###\n\n","completion":" 3*x**2 + 21*x + 36 | factor_nonone_polynomial###"}
-{"prompt":"Pleasefactorthepolynomial 2x*2 + 20x+50\n\n###\n\n","completion":" 2*x**2 + 20*x + 50 | factor_nonone_polynomial###"}
-{"prompt":"Factor thepolynomial x*2+ 11x + 10\n\n###\n\n","completion":" x**2 + 11*x + 10 | factor_nonone_polynomial###"}
-{"prompt":"Factorx*2 +11x+28\n\n###\n\n","completion":" x**2 + 11*x + 28 | factor_simple_polynomial###"}
-{"prompt":"Factor thepolynomial25x^*2+70*x+40and writeit in the form (ax+b)(cx+d).\n\n###\n\n","completion":" 25*x**2 + 70*x + 40 | factor_nonone_polynomial###"}
-{"prompt":"Factor2x*2 + 9x+ 10\n\n###\n\n","completion":" 2*x**2 + 9*x + 10 | factor_nonone_polynomial###"}
-{"prompt":"Please factor thepolynomialx*2 +19*x+ 90\n\n###\n\n","completion":" x**2 + 19*x + 90 | factor_simple_polynomial###"}
-{"prompt":"Find thefactorizationof thepolynomialx**2+16x + 64.\n\n###\n\n","completion":" x**2 + 16*x + 64 | factor_simple_polynomial###"}
-{"prompt":"12*x^*2 + 46x+ 20 Factor.\n\n###\n\n","completion":" 12*x**2 + 46*x + 20 | factor_nonone_polynomial###"}
-{"prompt":"x*2+11*x +30 Factor.\n\n###\n\n","completion":" x**2 + 11*x + 30 | factor_simple_polynomial###"}
-{"prompt":"Findthe factorizationofthepolynomialx*2+10*x+ 9.\n\n###\n\n","completion":" x**2 + 10*x + 9 | factor_simple_polynomial###"}
-{"prompt":"Factor x^2 + 14*x+ 49\n\n###\n\n","completion":" x**2 + 14*x + 49 | factor_simple_polynomial###"}
-{"prompt":"Factorthe polynomial 25*x^*2 +65*x+40.\n\n###\n\n","completion":" 25*x**2 + 65*x + 40 | factor_nonone_polynomial###"}
-{"prompt":"Factor thepolynomial 4x^*2+42x+54\n\n###\n\n","completion":" 4*x**2 + 42*x + 54 | factor_nonone_polynomial###"}
-{"prompt":"Factor x^*2 + 8x+ 16\n\n###\n\n","completion":" x**2 + 8*x + 16 | factor_simple_polynomial###"}
-{"prompt":"Factorx*2 + 9*x +14\n\n###\n\n","completion":" x**2 + 9*x + 14 | factor_simple_polynomial###"}
-{"prompt":"Find the factorizationof thepolynomial 25*x^*2 + 10*x + 1.\n\n###\n\n","completion":" 25*x**2 + 10*x + 1 | factor_nonone_polynomial###"}
-{"prompt":"Pleasefactor the polynomial x**2 + 14*x+45\n\n###\n\n","completion":" x**2 + 14*x + 45 | factor_simple_polynomial###"}
-{"prompt":"Factorthepolynomialx*2+11x+18\n\n###\n\n","completion":" x**2 + 11*x + 18 | factor_simple_polynomial###"}
-{"prompt":"Factor15x**2 + 30*x+15\n\n###\n\n","completion":" 15*x**2 + 30*x + 15 | factor_nonone_polynomial###"}
-{"prompt":"x^2 +16x+ 60Factor.\n\n###\n\n","completion":" x**2 + 16*x + 60 | factor_simple_polynomial###"}
-{"prompt":"Factorthe polynomial 3*x*2+ 31x + 36\n\n###\n\n","completion":" 3*x**2 + 31*x + 36 | factor_nonone_polynomial###"}
-{"prompt":"Factor the polynomial 4x^2+17*x + 15 andwriteit inthe form(ax+b)(cx+d).\n\n###\n\n","completion":" 4*x**2 + 17*x + 15 | factor_nonone_polynomial###"}
-{"prompt":"10*x^*2 + 36*x +32 Factor.\n\n###\n\n","completion":" 10*x**2 + 36*x + 32 | factor_nonone_polynomial###"}
-{"prompt":"Factorthe polynomial x*2+ 10x +9.\n\n###\n\n","completion":" x**2 + 10*x + 9 | factor_simple_polynomial###"}
-{"prompt":"x^2+11*x+ 30 Factor.\n\n###\n\n","completion":" x**2 + 11*x + 30 | factor_simple_polynomial###"}
-{"prompt":"Factor4*x**2 + 25x +6\n\n###\n\n","completion":" 4*x**2 + 25*x + 6 | factor_nonone_polynomial###"}
-{"prompt":"Factor thepolynomial 20x^2+54x+ 10 and writeit inthe form(ax+b)(cx+d).\n\n###\n\n","completion":" 20*x**2 + 54*x + 10 | factor_nonone_polynomial###"}
-{"prompt":"Factor the polynomial16x**2 + 28*x + 10.\n\n###\n\n","completion":" 16*x**2 + 28*x + 10 | factor_nonone_polynomial###"}
-{"prompt":"Find the factorizationof the polynomialx^2 + 15*x + 54.\n\n###\n\n","completion":" x**2 + 15*x + 54 | factor_simple_polynomial###"}
-{"prompt":"Find thefactorizationof thepolynomial x**2 + 10x+9.\n\n###\n\n","completion":" x**2 + 10*x + 9 | factor_simple_polynomial###"}
-{"prompt":"Factor the polynomial x*2 + 13x +36.\n\n###\n\n","completion":" x**2 + 13*x + 36 | factor_simple_polynomial###"}
-{"prompt":"Please factorthe polynomial x*2+13x+42\n\n###\n\n","completion":" x**2 + 13*x + 42 | factor_simple_polynomial###"}
-{"prompt":"Factor8x^2+ 16x+6\n\n###\n\n","completion":" 8*x**2 + 16*x + 6 | factor_nonone_polynomial###"}
-{"prompt":"Find the factors of the polynomialx**2+8x+7.\n\n###\n\n","completion":" x**2 + 8*x + 7 | factor_simple_polynomial###"}
-{"prompt":"Find thefactorization of the polynomial5*x*2 + 11*x + 6.\n\n###\n\n","completion":" 5*x**2 + 11*x + 6 | factor_nonone_polynomial###"}
-{"prompt":"Please factor the polynomial x^*2+11x+10\n\n###\n\n","completion":" x**2 + 11*x + 10 | factor_simple_polynomial###"}
-{"prompt":"Factor3x*2 +24x +36\n\n###\n\n","completion":" 3*x**2 + 24*x + 36 | factor_nonone_polynomial###"}
-{"prompt":"Find thefactorsof the polynomial 6*x^*2 +31*x +18.\n\n###\n\n","completion":" 6*x**2 + 31*x + 18 | factor_nonone_polynomial###"}
-{"prompt":"Findthefactorizationof the polynomial 8*x*2 +38x +42.\n\n###\n\n","completion":" 8*x**2 + 38*x + 42 | factor_nonone_polynomial###"}
-{"prompt":"Find the factorsof thepolynomialx*2 +13*x +36.\n\n###\n\n","completion":" x**2 + 13*x + 36 | factor_simple_polynomial###"}
-{"prompt":"Factorthepolynomialx^*2+10*x+16and writeit inthe form(ax+b)(cx+d).\n\n###\n\n","completion":" x**2 + 10*x + 16 | factor_simple_polynomial###"}
-{"prompt":"Pleasefactorthe polynomial 12x^2 + 42*x + 36\n\n###\n\n","completion":" 12*x**2 + 42*x + 36 | factor_nonone_polynomial###"}
-{"prompt":"Factorthepolynomial 3*x*2 +27*x + 24.\n\n###\n\n","completion":" 3*x**2 + 27*x + 24 | factor_nonone_polynomial###"}
-{"prompt":"Factor 2x^2+ 10x+8\n\n###\n\n","completion":" 2*x**2 + 10*x + 8 | factor_nonone_polynomial###"}
-{"prompt":"Please factorthe polynomial 12x*2 +38*x +30\n\n###\n\n","completion":" 12*x**2 + 38*x + 30 | factor_nonone_polynomial###"}
-{"prompt":"Factor thepolynomial 4*x^2+45x+50.\n\n###\n\n","completion":" 4*x**2 + 45*x + 50 | factor_nonone_polynomial###"}
-{"prompt":"Please factorthe polynomial 5x*2+ 55*x +50\n\n###\n\n","completion":" 5*x**2 + 55*x + 50 | factor_nonone_polynomial###"}
-{"prompt":"Factor x*2+14x +45\n\n###\n\n","completion":" x**2 + 14*x + 45 | factor_simple_polynomial###"}
-{"prompt":"Find thefactors ofthe polynomial x^*2+10x+ 21.\n\n###\n\n","completion":" x**2 + 10*x + 21 | factor_simple_polynomial###"}
-{"prompt":"Factor8x^*2 + 44*x+60\n\n###\n\n","completion":" 8*x**2 + 44*x + 60 | factor_nonone_polynomial###"}
-{"prompt":"Factor the polynomial 4*x^2 +28*x+24andwriteitin the form(ax+b)(cx+d).\n\n###\n\n","completion":" 4*x**2 + 28*x + 24 | factor_nonone_polynomial###"}
-{"prompt":"5x^2 + 53x+ 72Factor.\n\n###\n\n","completion":" 5*x**2 + 53*x + 72 | factor_nonone_polynomial###"}
-{"prompt":"Please factorthepolynomial x^2 + 15*x +56\n\n###\n\n","completion":" x**2 + 15*x + 56 | factor_simple_polynomial###"}
-{"prompt":"Please factor the polynomial x^*2 +11*x + 28\n\n###\n\n","completion":" x**2 + 11*x + 28 | factor_simple_polynomial###"}
-{"prompt":"Factor thepolynomialx*2 + 10x+ 24.\n\n###\n\n","completion":" x**2 + 10*x + 24 | factor_simple_polynomial###"}
-{"prompt":"Factor thepolynomialx^*2+ 3*x+2andwriteit inthe form (ax+b)(cx+d).\n\n###\n\n","completion":" x**2 + 3*x + 2 | factor_simple_polynomial###"}
-{"prompt":"Factor 3*x^*2+ 22x +35\n\n###\n\n","completion":" 3*x**2 + 22*x + 35 | factor_nonone_polynomial###"}
-{"prompt":"Factorthepolynomial 20x*2+ 51*x + 28 andwriteit intheform(ax+b)(cx+d).\n\n###\n\n","completion":" 20*x**2 + 51*x + 28 | factor_nonone_polynomial###"}
-{"prompt":"Factor 20x^*2 +35x + 15\n\n###\n\n","completion":" 20*x**2 + 35*x + 15 | factor_nonone_polynomial###"}
-{"prompt":"Find thefactorizationof thepolynomialx^*2 +8*x+7.\n\n###\n\n","completion":" x**2 + 8*x + 7 | factor_simple_polynomial###"}
-{"prompt":"x^*2+ 7*x + 12 Factor.\n\n###\n\n","completion":" x**2 + 7*x + 12 | factor_simple_polynomial###"}
-{"prompt":"Pleasefactorthe polynomial3x^2 + 17x +24\n\n###\n\n","completion":" 3*x**2 + 17*x + 24 | factor_nonone_polynomial###"}
-{"prompt":"x^*2 + 11x +30 Factor.\n\n###\n\n","completion":" x**2 + 11*x + 30 | factor_simple_polynomial###"}
-{"prompt":"Factor thepolynomial x^*2+17x+70 and write itinthe form (ax+b)(cx+d).\n\n###\n\n","completion":" x**2 + 17*x + 70 | factor_simple_polynomial###"}
-{"prompt":"Factor thepolynomial 20*x^2 + 35x+15\n\n###\n\n","completion":" 20*x**2 + 35*x + 15 | factor_nonone_polynomial###"}
-{"prompt":"Factor x^*2+7x +10\n\n###\n\n","completion":" x**2 + 7*x + 10 | factor_simple_polynomial###"}
-{"prompt":"Find thefactorization ofthepolynomial 5x**2+14*x + 8.\n\n###\n\n","completion":" 5*x**2 + 14*x + 8 | factor_nonone_polynomial###"}
-{"prompt":"Pleasefactor the polynomial x^*2+ 13*x+ 42\n\n###\n\n","completion":" x**2 + 13*x + 42 | factor_simple_polynomial###"}
-{"prompt":"Find the factors of the polynomialx^*2+ 11*x +30.\n\n###\n\n","completion":" x**2 + 11*x + 30 | factor_simple_polynomial###"}
-{"prompt":"Findthefactorizationof the polynomialx**2+ 7x + 10.\n\n###\n\n","completion":" x**2 + 7*x + 10 | factor_simple_polynomial###"}
-{"prompt":"Factorthe polynomial x**2 + 15x +50.\n\n###\n\n","completion":" x**2 + 15*x + 50 | factor_simple_polynomial###"}
-{"prompt":"Findthefactorization ofthe polynomial x**2+ 16x+ 60.\n\n###\n\n","completion":" x**2 + 16*x + 60 | factor_simple_polynomial###"}
-{"prompt":"Factorthepolynomial4x*2 + 25*x+ 36and writeit inthe form (ax+b)(cx+d).\n\n###\n\n","completion":" 4*x**2 + 25*x + 36 | factor_nonone_polynomial###"}
-{"prompt":"Findthe factorization ofthepolynomialx^*2+10*x + 21.\n\n###\n\n","completion":" x**2 + 10*x + 21 | factor_simple_polynomial###"}
-{"prompt":"Factor 12*x**2+ 29x +15\n\n###\n\n","completion":" 12*x**2 + 29*x + 15 | factor_nonone_polynomial###"}
-{"prompt":"Factorx*2+ 15x+ 56\n\n###\n\n","completion":" x**2 + 15*x + 56 | factor_simple_polynomial###"}
-{"prompt":"Please factorthe polynomial 8*x*2 +38x +42\n\n###\n\n","completion":" 8*x**2 + 38*x + 42 | factor_nonone_polynomial###"}
-{"prompt":"Factorthepolynomial x*2 + 11x +10.\n\n###\n\n","completion":" x**2 + 11*x + 10 | factor_simple_polynomial###"}
-{"prompt":"x^*2+ 4*x + 3 Factor.\n\n###\n\n","completion":" x**2 + 4*x + 3 | factor_simple_polynomial###"}
-{"prompt":"Factor5x*2 + 45*x+ 40\n\n###\n\n","completion":" 5*x**2 + 45*x + 40 | factor_nonone_polynomial###"}
-{"prompt":"Please factor thepolynomial5x^*2 +30*x + 25\n\n###\n\n","completion":" 5*x**2 + 30*x + 25 | factor_nonone_polynomial###"}
-{"prompt":"Factor the polynomial25*x^*2 + 80x +60and writeitintheform (ax+b)(cx+d).\n\n###\n\n","completion":" 25*x**2 + 80*x + 60 | factor_nonone_polynomial###"}
-{"prompt":"Find thefactors of the polynomial 5*x*2+ 51*x+ 10.\n\n###\n\n","completion":" 5*x**2 + 51*x + 10 | factor_nonone_polynomial###"}
-{"prompt":"Factorthepolynomial x^*2 + 11*x + 10.\n\n###\n\n","completion":" x**2 + 11*x + 10 | factor_simple_polynomial###"}
-{"prompt":"Factor thepolynomialx**2 +16*x+ 60\n\n###\n\n","completion":" x**2 + 16*x + 60 | factor_simple_polynomial###"}
-{"prompt":"Please factor thepolynomial x**2+15*x + 56\n\n###\n\n","completion":" x**2 + 15*x + 56 | factor_simple_polynomial###"}
-{"prompt":"Please factor thepolynomial 15x^*2+56*x+ 49\n\n###\n\n","completion":" 15*x**2 + 56*x + 49 | factor_nonone_polynomial###"}
-{"prompt":"Factorthepolynomial 2x**2+28*x+ 80\n\n###\n\n","completion":" 2*x**2 + 28*x + 80 | factor_nonone_polynomial###"}
-{"prompt":"Factor the polynomial x*2 + 3x + 2.\n\n###\n\n","completion":" x**2 + 3*x + 2 | factor_simple_polynomial###"}
-{"prompt":"Factor the polynomialx*2 + 17*x+70.\n\n###\n\n","completion":" x**2 + 17*x + 70 | factor_simple_polynomial###"}
-{"prompt":"Findthe factorizationof thepolynomial5*x^*2 + 34*x +45.\n\n###\n\n","completion":" 5*x**2 + 34*x + 45 | factor_nonone_polynomial###"}
-{"prompt":"Factorthe polynomial 4x+9 and writeit inthe form .\n\n###\n\n", "completion":" 4x + 9 | factor_simple###"}
-{"prompt":"2x + 3 Factor.\n\n###\n\n", "completion":" 2x + 3 | factor_simple###"}
-{"prompt":"Factorthe polynomial4x+ 5.\n\n###\n\n", "completion":" 4x + 5 | factor_simple###"}
-{"prompt":"Findthefactors ofthe polynomial1x+ 10.\n\n###\n\n", "completion":" 1x + 10 | factor_simple###"}
-{"prompt":"Factor the polynomial 4x+ 6\n\n###\n\n", "completion":" 4x + 6 | factor_simple###"}
-{"prompt":"Findthe factorizationofthepolynomial1x+ 1.\n\n###\n\n", "completion":" 1x + 1 | factor_simple###"}
-{"prompt":"Factorthe polynomial1x + 10.\n\n###\n\n", "completion":" 1x + 10 | factor_simple###"}
-{"prompt":"Pleasefactor thepolynomial2x+2\n\n###\n\n", "completion":" 2x + 2 | factor_simple###"}
-{"prompt":"5x+10 Factor.\n\n###\n\n", "completion":" 5x + 10 | factor_simple###"}
-{"prompt":"Find the factorization ofthe polynomial4x +10.\n\n###\n\n", "completion":" 4x + 10 | factor_simple###"}
-{"prompt":"Find thefactorsof the polynomial 5x +5.\n\n###\n\n", "completion":" 5x + 5 | factor_simple###"}
-{"prompt":"Factor 5x+1\n\n###\n\n", "completion":" 5x + 1 | factor_simple###"}
-{"prompt":"Find the factorization of the polynomial 5x + 8.\n\n###\n\n", "completion":" 5x + 8 | factor_simple###"}
-{"prompt":"Factorthepolynomial 5x +5andwrite it in theform.\n\n###\n\n", "completion":" 5x + 5 | factor_simple###"}
-{"prompt":"Find the factorization of the polynomial3x+ 2.\n\n###\n\n", "completion":" 3x + 2 | factor_simple###"}
-{"prompt":"Factor 3x +6\n\n###\n\n", "completion":" 3x + 6 | factor_simple###"}
-{"prompt":"Please factor thepolynomial 5x +9\n\n###\n\n", "completion":" 5x + 9 | factor_simple###"}
-{"prompt":"Please factor the polynomial 4x+9\n\n###\n\n", "completion":" 4x + 9 | factor_simple###"}
-{"prompt":"Please factor thepolynomial5x+ 1\n\n###\n\n", "completion":" 5x + 1 | factor_simple###"}
-{"prompt":"4x +3 Factor.\n\n###\n\n", "completion":" 4x + 3 | factor_simple###"}
-{"prompt":"Factor 4x+1\n\n###\n\n", "completion":" 4x + 1 | factor_simple###"}
-{"prompt":"Factor the polynomial4x+2 andwriteit in the form .\n\n###\n\n", "completion":" 4x + 2 | factor_simple###"}
-{"prompt":"Pleasefactor the polynomial 1x+3\n\n###\n\n", "completion":" 1x + 3 | factor_simple###"}
-{"prompt":"3x + 2 Factor.\n\n###\n\n", "completion":" 3x + 2 | factor_simple###"}
-{"prompt":"5x+7Factor.\n\n###\n\n", "completion":" 5x + 7 | factor_simple###"}
-{"prompt":"Factorthepolynomial 2x + 9and write itin the form.\n\n###\n\n", "completion":" 2x + 9 | factor_simple###"}
-{"prompt":"Factor thepolynomial4x +1.\n\n###\n\n", "completion":" 4x + 1 | factor_simple###"}
-{"prompt":"Factorthepolynomial 4x +8.\n\n###\n\n", "completion":" 4x + 8 | factor_simple###"}
-{"prompt":"Factor the polynomial5x+ 10.\n\n###\n\n", "completion":" 5x + 10 | factor_simple###"}
-{"prompt":"Please factor thepolynomial5x + 9\n\n###\n\n", "completion":" 5x + 9 | factor_simple###"}
-{"prompt":"Factorthe polynomial 5x+7 and write it in the form.\n\n###\n\n", "completion":" 5x + 7 | factor_simple###"}
-{"prompt":"Factor 4x+ 3\n\n###\n\n", "completion":" 4x + 3 | factor_simple###"}
-{"prompt":"2x +9Factor.\n\n###\n\n", "completion":" 2x + 9 | factor_simple###"}
-{"prompt":"Please factor the polynomial 2x +7\n\n###\n\n", "completion":" 2x + 7 | factor_simple###"}
-{"prompt":"Find thefactors ofthepolynomial 3x+3.\n\n###\n\n", "completion":" 3x + 3 | factor_simple###"}
-{"prompt":"Find thefactors of thepolynomial4x+ 6.\n\n###\n\n", "completion":" 4x + 6 | factor_simple###"}
-{"prompt":"Factorthepolynomial 3x + 9\n\n###\n\n", "completion":" 3x + 9 | factor_simple###"}
-{"prompt":"Factor thepolynomial3x + 9.\n\n###\n\n", "completion":" 3x + 9 | factor_simple###"}
-{"prompt":"Please factorthepolynomial 1x + 6\n\n###\n\n", "completion":" 1x + 6 | factor_simple###"}
-{"prompt":"Factor4x +7\n\n###\n\n", "completion":" 4x + 7 | factor_simple###"}
-{"prompt":"Factorthe polynomial 1x + 7.\n\n###\n\n", "completion":" 1x + 7 | factor_simple###"}
-{"prompt":"Factor 3x+4\n\n###\n\n", "completion":" 3x + 4 | factor_simple###"}
-{"prompt":"Factor 4x +1\n\n###\n\n", "completion":" 4x + 1 | factor_simple###"}
-{"prompt":"Pleasefactorthe polynomial4x + 9\n\n###\n\n", "completion":" 4x + 9 | factor_simple###"}
-{"prompt":"Factor thepolynomial5x + 9\n\n###\n\n", "completion":" 5x + 9 | factor_simple###"}
-{"prompt":"Findthe factorization ofthepolynomial 4x + 1.\n\n###\n\n", "completion":" 4x + 1 | factor_simple###"}
-{"prompt":"Findthe factors ofthepolynomial2x + 6.\n\n###\n\n", "completion":" 2x + 6 | factor_simple###"}
-{"prompt":"Find thefactorization ofthepolynomial1x +9.\n\n###\n\n", "completion":" 1x + 9 | factor_simple###"}
-{"prompt":"Factorthe polynomial4x+7andwrite itin theform .\n\n###\n\n", "completion":" 4x + 7 | factor_simple###"}
-{"prompt":"Factorthepolynomial 3x+ 6.\n\n###\n\n", "completion":" 3x + 6 | factor_simple###"}
-{"prompt":"Find the factorization ofthe polynomial 2x + 7.\n\n###\n\n", "completion":" 2x + 7 | factor_simple###"}
-{"prompt":"2x +6Factor.\n\n###\n\n", "completion":" 2x + 6 | factor_simple###"}
-{"prompt":"Factorthe polynomial 1x +3.\n\n###\n\n", "completion":" 1x + 3 | factor_simple###"}
-{"prompt":"Factorthepolynomial 4x+8\n\n###\n\n", "completion":" 4x + 8 | factor_simple###"}
-{"prompt":"Factor3x + 6\n\n###\n\n", "completion":" 3x + 6 | factor_simple###"}
-{"prompt":"Factor2x +9\n\n###\n\n", "completion":" 2x + 9 | factor_simple###"}
-{"prompt":"Find the factors of the polynomial2x + 10.\n\n###\n\n", "completion":" 2x + 10 | factor_simple###"}
-{"prompt":"Findthefactorization ofthepolynomial 3x + 5.\n\n###\n\n", "completion":" 3x + 5 | factor_simple###"}
-{"prompt":"Factor thepolynomial2x + 8\n\n###\n\n", "completion":" 2x + 8 | factor_simple###"}
-{"prompt":"Factorthe polynomial 2x+ 1\n\n###\n\n", "completion":" 2x + 1 | factor_simple###"}
-{"prompt":"Find the factorizationofthepolynomial3x + 1.\n\n###\n\n", "completion":" 3x + 1 | factor_simple###"}
-{"prompt":"Factorthe polynomial4x + 1.\n\n###\n\n", "completion":" 4x + 1 | factor_simple###"}
-{"prompt":"Findthefactorization of the polynomial5x+4.\n\n###\n\n", "completion":" 5x + 4 | factor_simple###"}
-{"prompt":"Please factorthe polynomial3x+ 8\n\n###\n\n", "completion":" 3x + 8 | factor_simple###"}
-{"prompt":"Findthe factorsof thepolynomial3x+ 4.\n\n###\n\n", "completion":" 3x + 4 | factor_simple###"}
-{"prompt":"Factorthepolynomial 5x+ 8.\n\n###\n\n", "completion":" 5x + 8 | factor_simple###"}
-{"prompt":"Factorthepolynomial 3x + 4 and write itinthe form .\n\n###\n\n", "completion":" 3x + 4 | factor_simple###"}
-{"prompt":"Factorthe polynomial 2x+ 8 and write it intheform.\n\n###\n\n", "completion":" 2x + 8 | factor_simple###"}
-{"prompt":"Factor thepolynomial 5x+ 9.\n\n###\n\n", "completion":" 5x + 9 | factor_simple###"}
-{"prompt":"Find the factors of thepolynomial1x+ 4.\n\n###\n\n", "completion":" 1x + 4 | factor_simple###"}
-{"prompt":"2x +7Factor.\n\n###\n\n", "completion":" 2x + 7 | factor_simple###"}
-{"prompt":"Pleasefactor thepolynomial4x +4\n\n###\n\n", "completion":" 4x + 4 | factor_simple###"}
-{"prompt":"4x+ 1 Factor.\n\n###\n\n", "completion":" 4x + 1 | factor_simple###"}
-{"prompt":"2x +5 Factor.\n\n###\n\n", "completion":" 2x + 5 | factor_simple###"}
-{"prompt":"Findthefactorsofthepolynomial 2x + 8.\n\n###\n\n", "completion":" 2x + 8 | factor_simple###"}
-{"prompt":"Factor 2x + 5\n\n###\n\n", "completion":" 2x + 5 | factor_simple###"}
-{"prompt":"Factorthe polynomial4x + 2.\n\n###\n\n", "completion":" 4x + 2 | factor_simple###"}
-{"prompt":"Find the factorsofthe polynomial 5x + 6.\n\n###\n\n", "completion":" 5x + 6 | factor_simple###"}
-{"prompt":"Please factor the polynomial 4x+6\n\n###\n\n", "completion":" 4x + 6 | factor_simple###"}
-{"prompt":"Factor the polynomial4x +4 and write it in the form.\n\n###\n\n", "completion":" 4x + 4 | factor_simple###"}
-{"prompt":"Factorthepolynomial4x+5and writeit intheform.\n\n###\n\n", "completion":" 4x + 5 | factor_simple###"}
-{"prompt":"4x+5Factor.\n\n###\n\n", "completion":" 4x + 5 | factor_simple###"}
-{"prompt":"3x +1 Factor.\n\n###\n\n", "completion":" 3x + 1 | factor_simple###"}
-{"prompt":"Factorthepolynomial 1x +2.\n\n###\n\n", "completion":" 1x + 2 | factor_simple###"}
-{"prompt":"Factorthepolynomial1x+ 9andwriteit in the form.\n\n###\n\n", "completion":" 1x + 9 | factor_simple###"}
-{"prompt":"Factor thepolynomial 1x + 4\n\n###\n\n", "completion":" 1x + 4 | factor_simple###"}
-{"prompt":"Findthe factorsof thepolynomial 5x +9.\n\n###\n\n", "completion":" 5x + 9 | factor_simple###"}
-{"prompt":"4x +6Factor.\n\n###\n\n", "completion":" 4x + 6 | factor_simple###"}
-{"prompt":"Find thefactorizationof thepolynomial 1x +9.\n\n###\n\n", "completion":" 1x + 9 | factor_simple###"}
-{"prompt":"Please factor the polynomial 4x+1\n\n###\n\n", "completion":" 4x + 1 | factor_simple###"}
-{"prompt":"Please factor the polynomial 2x +9\n\n###\n\n", "completion":" 2x + 9 | factor_simple###"}
-{"prompt":"Findthefactorizationofthepolynomial 4x+ 3.\n\n###\n\n", "completion":" 4x + 3 | factor_simple###"}
-{"prompt":"Factor thepolynomial4x + 8\n\n###\n\n", "completion":" 4x + 8 | factor_simple###"}
-{"prompt":"5x + 6 Factor.\n\n###\n\n", "completion":" 5x + 6 | factor_simple###"}
-{"prompt":"Pleasefactorthe polynomial5x + 7\n\n###\n\n", "completion":" 5x + 7 | factor_simple###"}
-{"prompt":"Factor 3x+ 6\n\n###\n\n", "completion":" 3x + 6 | factor_simple###"}
-{"prompt":"Find thefactorization ofthepolynomial 1x+ 9.\n\n###\n\n", "completion":" 1x + 9 | factor_simple###"}
-{"prompt":"4x+ 4Factor.\n\n###\n\n", "completion":" 4x + 4 | factor_simple###"}
-{"prompt":"2x +3Factor.\n\n###\n\n", "completion":" 2x + 3 | factor_simple###"}
-{"prompt":"Factor thepolynomial 5x + 4\n\n###\n\n", "completion":" 5x + 4 | factor_simple###"}
+{"prompt":"Factor the polynomial x^*2 - 2x - 35.\n\n###\n\n","completion":" x**2 - 2*x - 35 | factor_simple_polynomial###"}
+{"prompt":"Find the factorization of the polynomial x^*2 - 16x + 60.\n\n###\n\n","completion":" x**2 - 16*x + 60 | factor_simple_polynomial###"}
+{"prompt":"Factor x**2 + 15*x + 56\n\n###\n\n","completion":" x**2 + 15*x + 56 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial (x - 8)*(x + 1).\n\n###\n\n","completion":" (x - 8)*(x + 1) | factor_simple_polynomial###"}
+{"prompt":"x**2 + 7*x - 8 Factor.\n\n###\n\n","completion":" x**2 + 7*x - 8 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial x^*2 - 7x + 6.\n\n###\n\n","completion":" x**2 - 7*x + 6 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial x^*2 - 8x + 7.\n\n###\n\n","completion":" x**2 - 8*x + 7 | factor_simple_polynomial###"}
+{"prompt":"Please factor the polynomial x^*2 + 5x - 36\n\n###\n\n","completion":" x**2 + 5*x - 36 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial x**2 - 3x - 54.\n\n###\n\n","completion":" x**2 - 3*x - 54 | factor_simple_polynomial###"}
+{"prompt":"Factor x**2 - 7*x + 12\n\n###\n\n","completion":" x**2 - 7*x + 12 | factor_simple_polynomial###"}
+{"prompt":"Find the factorization of the polynomial x^*2 + 10*x + 21.\n\n###\n\n","completion":" x**2 + 10*x + 21 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial (x - 2)*(x + 8).\n\n###\n\n","completion":" (x - 2)*(x + 8) | factor_simple_polynomial###"}
+{"prompt":"x^*2 - 7x + 10 Factor.\n\n###\n\n","completion":" x**2 - 7*x + 10 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial x^*2 + 6*x - 7.\n\n###\n\n","completion":" x**2 + 6*x - 7 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial x^*2 - 4*x + 3\n\n###\n\n","completion":" x**2 - 4*x + 3 | factor_simple_polynomial###"}
+{"prompt":"Find the factors of the polynomial x**2 - 15*x + 56.\n\n###\n\n","completion":" x**2 - 15*x + 56 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial x^*2 - 2*x - 24\n\n###\n\n","completion":" x**2 - 2*x - 24 | factor_simple_polynomial###"}
+{"prompt":"Find the factorization of the polynomial x**2 - 14*x + 40.\n\n###\n\n","completion":" x**2 - 14*x + 40 | factor_simple_polynomial###"}
+{"prompt":"x**2 + 15x + 56 Factor.\n\n###\n\n","completion":" x**2 + 15*x + 56 | factor_simple_polynomial###"}
+{"prompt":"Please factor the polynomial x^*2 + 5*x - 24\n\n###\n\n","completion":" x**2 + 5*x - 24 | factor_simple_polynomial###"}
+{"prompt":"x^*2 - 4x - 12 Factor.\n\n###\n\n","completion":" x**2 - 4*x - 12 | factor_simple_polynomial###"}
+{"prompt":"Please factor the polynomial x^*2 + 16*x + 60\n\n###\n\n","completion":" x**2 + 16*x + 60 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial x**2 + 9x + 8.\n\n###\n\n","completion":" x**2 + 9*x + 8 | factor_simple_polynomial###"}
+{"prompt":"Find the factorization of the polynomial x^*2 + x - 42.\n\n###\n\n","completion":" x**2 + x - 42 | factor_simple_polynomial###"}
+{"prompt":"Please factor the polynomial x**2 - 49\n\n###\n\n","completion":" x**2 - 49 | factor_simple_polynomial###"}
+{"prompt":"Find the factors of the polynomial x**2 + 6x + 8.\n\n###\n\n","completion":" x**2 + 6*x + 8 | factor_simple_polynomial###"}
+{"prompt":"Find the factorization of the polynomial x**2 + 7x - 8.\n\n###\n\n","completion":" x**2 + 7*x - 8 | factor_simple_polynomial###"}
+{"prompt":"Factor (x - 6)*(x + 7)\n\n###\n\n","completion":" (x - 6)*(x + 7) | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial (x - 3)(x + 6).\n\n###\n\n","completion":" (x - 3)*(x + 6) | factor_simple_polynomial###"}
+{"prompt":"x**2 - 5x + 6 Factor.\n\n###\n\n","completion":" x**2 - 5*x + 6 | factor_simple_polynomial###"}
+{"prompt":"Please factor the polynomial x^*2 + 8*x + 12\n\n###\n\n","completion":" x**2 + 8*x + 12 | factor_simple_polynomial###"}
+{"prompt":"Please factor the polynomial x**2 + 9x + 8\n\n###\n\n","completion":" x**2 + 9*x + 8 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial x^*2 - 7x - 18.\n\n###\n\n","completion":" x**2 - 7*x - 18 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial (x + 2)(x + 7).\n\n###\n\n","completion":" (x + 2)*(x + 7) | factor_simple_polynomial###"}
+{"prompt":"Please factor the polynomial x^*2 + 2x - 3\n\n###\n\n","completion":" x**2 + 2*x - 3 | factor_simple_polynomial###"}
+{"prompt":"Factor x^*2 + 5*x + 6\n\n###\n\n","completion":" x**2 + 5*x + 6 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial x**2 + 11*x + 24\n\n###\n\n","completion":" x**2 + 11*x + 24 | factor_simple_polynomial###"}
+{"prompt":"Please factor the polynomial x^*2 - 4*x - 45\n\n###\n\n","completion":" x**2 - 4*x - 45 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial x^*2 + 10x + 24.\n\n###\n\n","completion":" x**2 + 10*x + 24 | factor_simple_polynomial###"}
+{"prompt":"Find the factors of the polynomial x^*2 - 12*x + 32.\n\n###\n\n","completion":" x**2 - 12*x + 32 | factor_simple_polynomial###"}
+{"prompt":"Factor x^*2 + 5*x - 50\n\n###\n\n","completion":" x**2 + 5*x - 50 | factor_simple_polynomial###"}
+{"prompt":"x^*2 + 14*x + 48 Factor.\n\n###\n\n","completion":" x**2 + 14*x + 48 | factor_simple_polynomial###"}
+{"prompt":"Find the factorization of the polynomial x^*2 - 13*x + 40.\n\n###\n\n","completion":" x**2 - 13*x + 40 | factor_simple_polynomial###"}
+{"prompt":"Find the factorization of the polynomial x**2 + 20*x + 100.\n\n###\n\n","completion":" x**2 + 20*x + 100 | factor_simple_polynomial###"}
+{"prompt":"x**2 - x - 56 Factor.\n\n###\n\n","completion":" x**2 - x - 56 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial x**2 + 4x - 21.\n\n###\n\n","completion":" x**2 + 4*x - 21 | factor_simple_polynomial###"}
+{"prompt":"Find the factors of the polynomial x^*2 - 15*x + 50.\n\n###\n\n","completion":" x**2 - 15*x + 50 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial (x - 9)(x - 4)\n\n###\n\n","completion":" (x - 9)*(x - 4) | factor_simple_polynomial###"}
+{"prompt":"x^*2 - 8x + 7 Factor.\n\n###\n\n","completion":" x**2 - 8*x + 7 | factor_simple_polynomial###"}
+{"prompt":"Find the factorization of the polynomial x**2 - 4*x - 32.\n\n###\n\n","completion":" x**2 - 4*x - 32 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial 25 - 9x**2.\n\n###\n\n","completion":" 25 - 9*x**2 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor 36*x^*2 - 122*x + 80\n\n###\n\n","completion":" 36*x**2 - 122*x + 80 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor the polynomial 7*x**2 - 67*x - 30.\n\n###\n\n","completion":" 7*x**2 - 67*x - 30 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factors of the polynomial 42x^*2 + 94x + 40.\n\n###\n\n","completion":" 42*x**2 + 94*x + 40 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor -8*x**2 + 4*x + 24\n\n###\n\n","completion":" -8*x**2 + 4*x + 24 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factors of the polynomial -25x^*2 + 5*x + 2.\n\n###\n\n","completion":" -25*x**2 + 5*x + 2 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factorization of the polynomial 27x^*2 + 18x - 9.\n\n###\n\n","completion":" 27*x**2 + 18*x - 9 | factor_simple_nonone_polynomial###"}
+{"prompt":"(-10x - 5)*(2*x + 8) Factor.\n\n###\n\n","completion":" (-10*x - 5)*(2*x + 8) | factor_simple_nonone_polynomial###"}
+{"prompt":"Please factor the polynomial -18x**2 - 32x + 8\n\n###\n\n","completion":" -18*x**2 - 32*x + 8 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor the polynomial -35x^*2 + 25*x + 10.\n\n###\n\n","completion":" -35*x**2 + 25*x + 10 | factor_simple_nonone_polynomial###"}
+{"prompt":"32 - 18*x**2 Factor.\n\n###\n\n","completion":" 32 - 18*x**2 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor the polynomial -21x^*2 - 67*x + 10\n\n###\n\n","completion":" -21*x**2 - 67*x + 10 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factorization of the polynomial -63*x^*2 + 96x - 36.\n\n###\n\n","completion":" -63*x**2 + 96*x - 36 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factors of the polynomial -16x^*2 - 96x - 80.\n\n###\n\n","completion":" -16*x**2 - 96*x - 80 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factors of the polynomial -40*x^*2 - 28x - 4.\n\n###\n\n","completion":" -40*x**2 - 28*x - 4 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor 36x**2 - 7x - 4\n\n###\n\n","completion":" 36*x**2 - 7*x - 4 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor the polynomial 9*(2*x + 10)*(3x + 3)\n\n###\n\n","completion":" 9*(2*x + 10)*(3*x + 3) | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factorization of the polynomial 63x^*2 - 16*x - 60.\n\n###\n\n","completion":" 63*x**2 - 16*x - 60 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor the polynomial 24x**2 + 6*x - 63.\n\n###\n\n","completion":" 24*x**2 + 6*x - 63 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factors of the polynomial -20*x^*2 + 3*x + 2.\n\n###\n\n","completion":" -20*x**2 + 3*x + 2 | factor_simple_nonone_polynomial###"}
+{"prompt":"2*(10 - 10*x)(8*x + 10) Factor.\n\n###\n\n","completion":" 2*(10 - 10*x)*(8*x + 10) | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factors of the polynomial 18*x^*2 + 45*x + 28.\n\n###\n\n","completion":" 18*x**2 + 45*x + 28 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor the polynomial (-5*x - 9)(9x + 3)\n\n###\n\n","completion":" (-5*x - 9)*(9*x + 3) | factor_simple_nonone_polynomial###"}
+{"prompt":"-63*x^*2 + 139x - 70 Factor.\n\n###\n\n","completion":" -63*x**2 + 139*x - 70 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor 10*x**2 + 4*x - 6\n\n###\n\n","completion":" 10*x**2 + 4*x - 6 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor 3*(7 - 2x)(8*x + 2)\n\n###\n\n","completion":" 3*(7 - 2*x)*(8*x + 2) | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factorization of the polynomial -25x**2 - 50*x - 9.\n\n###\n\n","completion":" -25*x**2 - 50*x - 9 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factorization of the polynomial -50x**2 - 20*x + 48.\n\n###\n\n","completion":" -50*x**2 - 20*x + 48 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor the polynomial 56x^*2 - 135*x + 81.\n\n###\n\n","completion":" 56*x**2 - 135*x + 81 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factorization of the polynomial (7 - 7*x)*(5x + 4).\n\n###\n\n","completion":" (7 - 7*x)*(5*x + 4) | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor the polynomial 48*x**2 + 14x - 45\n\n###\n\n","completion":" 48*x**2 + 14*x - 45 | factor_simple_nonone_polynomial###"}
+{"prompt":"Please factor the polynomial -4(6 - 6x)(-5x - 5)\n\n###\n\n","completion":" -4*(6 - 6*x)*(-5*x - 5) | factor_simple_nonone_polynomial###"}
+{"prompt":"-20x^*2 + 62*x - 6 Factor.\n\n###\n\n","completion":" -20*x**2 + 62*x - 6 | factor_simple_nonone_polynomial###"}
+{"prompt":"Please factor the polynomial -15*x^*2 - 24x + 63\n\n###\n\n","completion":" -15*x**2 - 24*x + 63 | factor_simple_nonone_polynomial###"}
+{"prompt":"-72x^*2 + 17x + 72 Factor.\n\n###\n\n","completion":" -72*x**2 + 17*x + 72 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor 4x**2 + 6x - 54\n\n###\n\n","completion":" 4*x**2 + 6*x - 54 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor the polynomial -64*x**2 - 80*x - 25.\n\n###\n\n","completion":" -64*x**2 - 80*x - 25 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor (7 - 9x)*(4x - 9)\n\n###\n\n","completion":" (7 - 9*x)*(4*x - 9) | factor_simple_nonone_polynomial###"}
+{"prompt":"24x^*2 - 77x - 10 Factor.\n\n###\n\n","completion":" 24*x**2 - 77*x - 10 | factor_simple_nonone_polynomial###"}
+{"prompt":"-20x^*2 - 7*x + 40 Factor.\n\n###\n\n","completion":" -20*x**2 - 7*x + 40 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factorization of the polynomial -90*x^*2 + 170x - 80.\n\n###\n\n","completion":" -90*x**2 + 170*x - 80 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor the polynomial 2(5 - 4x)*(-7x - 9).\n\n###\n\n","completion":" 2*(5 - 4*x)*(-7*x - 9) | factor_simple_nonone_polynomial###"}
+{"prompt":"14*x**2 + 59x - 18 Factor.\n\n###\n\n","completion":" 14*x**2 + 59*x - 18 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factorization of the polynomial 28x^*2 + 20*x - 72.\n\n###\n\n","completion":" 28*x**2 + 20*x - 72 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor 36x**2 - 82*x - 20\n\n###\n\n","completion":" 36*x**2 - 82*x - 20 | factor_simple_nonone_polynomial###"}
+{"prompt":"Please factor the polynomial -20x**2 - 22*x - 6\n\n###\n\n","completion":" -20*x**2 - 22*x - 6 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor the polynomial 35*x**2 - 101*x + 72\n\n###\n\n","completion":" 35*x**2 - 101*x + 72 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factors of the polynomial (6 - 10x)(6 - 6*x).\n\n###\n\n","completion":" (6 - 10*x)*(6 - 6*x) | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor the polynomial (10 - 7*x)*(-x - 10).\n\n###\n\n","completion":" (10 - 7*x)*(-x - 10) | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factorization of the polynomial 18*x**2 - 30x + 12.\n\n###\n\n","completion":" 18*x**2 - 30*x + 12 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factorization of the polynomial (x - 8)(x + 4)(x^*8 + 3x^*7 - 204x^*6 - 348x**5 + 13248x**4 + 2640x^*3 - 299200x^*2 + 216000x + 1440000).\n\n###\n\n","completion":" (x - 8)*(x + 4)*(x**8 + 3*x**7 - 204*x**6 - 348*x**5 + 13248*x**4 + 2640*x**3 - 299200*x**2 + 216000*x + 1440000) | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x**5 + 12*x^*4 + 2x^*3 - 264x^*2 - 171*x + 1620.\n\n###\n\n","completion":" x**5 + 12*x**4 + 2*x**3 - 264*x**2 - 171*x + 1620 | factor_high_degree_polynomial###"}
+{"prompt":"x^*10 - 15*x**9 - 48x^*8 + 1618x^*7 - 5931*x^*6 - 11655x**5 + 74738x**4 - 14748x**3 - 164760x**2 + 24800x + 96000 Factor.\n\n###\n\n","completion":" x**10 - 15*x**9 - 48*x**8 + 1618*x**7 - 5931*x**6 - 11655*x**5 + 74738*x**4 - 14748*x**3 - 164760*x**2 + 24800*x + 96000 | factor_high_degree_polynomial###"}
+{"prompt":"Find the factors of the polynomial x**6 - 105*x**4 - 140*x**3 + 1764*x**2 + 1680x - 3200.\n\n###\n\n","completion":" x**6 - 105*x**4 - 140*x**3 + 1764*x**2 + 1680*x - 3200 | factor_high_degree_polynomial###"}
+{"prompt":"(x - 10)(x + 9)(x**4 - 6*x**3 - 36x**2 + 184*x - 192) Factor.\n\n###\n\n","completion":" (x - 10)*(x + 9)*(x**4 - 6*x**3 - 36*x**2 + 184*x - 192) | factor_high_degree_polynomial###"}
+{"prompt":"Please factor the polynomial (x + 7)*(x + 8)*(x^*3 + 11*x^*2 + 14x - 80)\n\n###\n\n","completion":" (x + 7)*(x + 8)*(x**3 + 11*x**2 + 14*x - 80) | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x**3 - 10x^*2 + 13*x + 24\n\n###\n\n","completion":" x**3 - 10*x**2 + 13*x + 24 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x^*3 - 7*x**2 - 36x + 252.\n\n###\n\n","completion":" x**3 - 7*x**2 - 36*x + 252 | factor_high_degree_polynomial###"}
+{"prompt":"Find the factorization of the polynomial x^*5 - 7x^*4 - 27*x^*3 + 203*x^*2 + 22x - 840.\n\n###\n\n","completion":" x**5 - 7*x**4 - 27*x**3 + 203*x**2 + 22*x - 840 | factor_high_degree_polynomial###"}
+{"prompt":"Find the factors of the polynomial x**9 - 23x^*8 + 65x^*7 + 2159*x**6 - 19326*x^*5 + 23028x**4 + 281480x^*3 - 905344x**2 + 112000x + 1254400.\n\n###\n\n","completion":" x**9 - 23*x**8 + 65*x**7 + 2159*x**6 - 19326*x**5 + 23028*x**4 + 281480*x**3 - 905344*x**2 + 112000*x + 1254400 | factor_high_degree_polynomial###"}
+{"prompt":"Find the factors of the polynomial x^*3 + 6*x**2 + 5x - 12.\n\n###\n\n","completion":" x**3 + 6*x**2 + 5*x - 12 | factor_high_degree_polynomial###"}
+{"prompt":"Find the factors of the polynomial x^*3 + 5*x**2 - 33x + 27.\n\n###\n\n","completion":" x**3 + 5*x**2 - 33*x + 27 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x**9 - 13x^*8 - 104*x**7 + 2082*x**6 - 2571*x^*5 - 82197x**4 + 352274*x^*3 + 423808*x^*2 - 4617760*x + 6585600\n\n###\n\n","completion":" x**9 - 13*x**8 - 104*x**7 + 2082*x**6 - 2571*x**5 - 82197*x**4 + 352274*x**3 + 423808*x**2 - 4617760*x + 6585600 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x^*6 + 5x**5 - 32*x**4 - 208x^*3 - 128*x**2 + 752x + 960\n\n###\n\n","completion":" x**6 + 5*x**5 - 32*x**4 - 208*x**3 - 128*x**2 + 752*x + 960 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial (x - 8)*(x + 4)(x^*6 - 5*x^*5 - 127x^*4 + 725x^*3 + 2826*x^*2 - 19620*x + 16200).\n\n###\n\n","completion":" (x - 8)*(x + 4)*(x**6 - 5*x**5 - 127*x**4 + 725*x**3 + 2826*x**2 - 19620*x + 16200) | factor_high_degree_polynomial###"}
+{"prompt":"Please factor the polynomial x**9 - 10x^*8 - 133x**7 + 1580x^*6 + 2435*x^*5 - 60970x**4 + 103573*x^*3 + 357480x**2 - 1038996x + 635040\n\n###\n\n","completion":" x**9 - 10*x**8 - 133*x**7 + 1580*x**6 + 2435*x**5 - 60970*x**4 + 103573*x**3 + 357480*x**2 - 1038996*x + 635040 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x**10 - 11x**9 - 115*x**8 + 1717x**7 + 611x**6 - 73229*x**5 + 202543*x**4 + 547047*x**3 - 2108160*x**2 - 475524x + 1905120\n\n###\n\n","completion":" x**10 - 11*x**9 - 115*x**8 + 1717*x**7 + 611*x**6 - 73229*x**5 + 202543*x**4 + 547047*x**3 - 2108160*x**2 - 475524*x + 1905120 | factor_high_degree_polynomial###"}
+{"prompt":"Please factor the polynomial x**3 + 20x^*2 + 121x + 210\n\n###\n\n","completion":" x**3 + 20*x**2 + 121*x + 210 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x**8 - 12x**7 - 50x**6 + 856*x**5 - 131*x^*4 - 13748*x**3 + 11340*x**2 + 42064*x - 40320\n\n###\n\n","completion":" x**8 - 12*x**7 - 50*x**6 + 856*x**5 - 131*x**4 - 13748*x**3 + 11340*x**2 + 42064*x - 40320 | factor_high_degree_polynomial###"}
+{"prompt":"x**4 + 13*x**3 + 7*x^*2 - 237*x + 216 Factor.\n\n###\n\n","completion":" x**4 + 13*x**3 + 7*x**2 - 237*x + 216 | factor_high_degree_polynomial###"}
+{"prompt":"x**5 + 30*x**4 + 319x^*3 + 1338x^*2 + 1192x - 2880 Factor.\n\n###\n\n","completion":" x**5 + 30*x**4 + 319*x**3 + 1338*x**2 + 1192*x - 2880 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x^*4 - 7x**3 - 47x**2 + 303*x - 378.\n\n###\n\n","completion":" x**4 - 7*x**3 - 47*x**2 + 303*x - 378 | factor_high_degree_polynomial###"}
+{"prompt":"Find the factors of the polynomial (x - 3)*(x + 4)*(x^*5 - 13x**4 - 21*x^*3 + 673*x**2 - 1420*x - 2100).\n\n###\n\n","completion":" (x - 3)*(x + 4)*(x**5 - 13*x**4 - 21*x**3 + 673*x**2 - 1420*x - 2100) | factor_high_degree_polynomial###"}
+{"prompt":"Find the factors of the polynomial x**10 - 14*x^*9 - 62*x^*8 + 1152*x**7 + 2253*x^*6 - 31266x**5 - 80608x^*4 + 234128*x^*3 + 1106576*x**2 + 1428960x + 604800.\n\n###\n\n","completion":" x**10 - 14*x**9 - 62*x**8 + 1152*x**7 + 2253*x**6 - 31266*x**5 - 80608*x**4 + 234128*x**3 + 1106576*x**2 + 1428960*x + 604800 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x**3 + 5x**2 - 22*x - 56.\n\n###\n\n","completion":" x**3 + 5*x**2 - 22*x - 56 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x^*5 + 11*x**4 + 4x^*3 - 244x^*2 - 752*x - 640\n\n###\n\n","completion":" x**5 + 11*x**4 + 4*x**3 - 244*x**2 - 752*x - 640 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x**3 + 8x**2 - 15*x - 54.\n\n###\n\n","completion":" x**3 + 8*x**2 - 15*x - 54 | factor_high_degree_polynomial###"}
+{"prompt":"Find the factorization of the polynomial x^*9 - 15x^*8 - 84x^*7 + 1878*x^*6 + 597*x^*5 - 73263x^*4 + 44414*x**3 + 942312*x**2 - 44928*x - 870912.\n\n###\n\n","completion":" x**9 - 15*x**8 - 84*x**7 + 1878*x**6 + 597*x**5 - 73263*x**4 + 44414*x**3 + 942312*x**2 - 44928*x - 870912 | factor_high_degree_polynomial###"}
+{"prompt":"Factor x**7 + 14x^*6 - 51x**5 - 1430x**4 - 3781*x**3 + 22506*x**2 + 109431*x + 119070\n\n###\n\n","completion":" x**7 + 14*x**6 - 51*x**5 - 1430*x**4 - 3781*x**3 + 22506*x**2 + 109431*x + 119070 | factor_high_degree_polynomial###"}
+{"prompt":"Find the factorization of the polynomial x^*4 + 16*x^*3 + 41*x^*2 - 274*x - 840.\n\n###\n\n","completion":" x**4 + 16*x**3 + 41*x**2 - 274*x - 840 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x**10 + 4*x**9 - 85x**8 - 438*x^*7 + 1819*x^*6 + 13736*x^*5 + 5925x**4 - 107822*x^*3 - 273580x**2 - 255400x - 84000.\n\n###\n\n","completion":" x**10 + 4*x**9 - 85*x**8 - 438*x**7 + 1819*x**6 + 13736*x**5 + 5925*x**4 - 107822*x**3 - 273580*x**2 - 255400*x - 84000 | factor_high_degree_polynomial###"}
+{"prompt":"Please factor the polynomial x^*9 + 39x**8 + 628x^*7 + 5388*x^*6 + 26398x**5 + 72306*x**4 + 92772*x^*3 - 1188x**2 - 119799x - 76545\n\n###\n\n","completion":" x**9 + 39*x**8 + 628*x**7 + 5388*x**6 + 26398*x**5 + 72306*x**4 + 92772*x**3 - 1188*x**2 - 119799*x - 76545 | factor_high_degree_polynomial###"}
+{"prompt":"Factor x**8 + 14x**7 - 64*x**6 - 1662x^*5 - 4421*x^*4 + 26704x**3 + 94244x**2 - 131520x - 403200\n\n###\n\n","completion":" x**8 + 14*x**7 - 64*x**6 - 1662*x**5 - 4421*x**4 + 26704*x**3 + 94244*x**2 - 131520*x - 403200 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial (x + 4)(x + 5)(x**3 + 6*x^*2 - 19x - 84).\n\n###\n\n","completion":" (x + 4)*(x + 5)*(x**3 + 6*x**2 - 19*x - 84) | factor_high_degree_polynomial###"}
+{"prompt":"Factor (x - 4)(x + 1)*(x^*4 - 24x^*3 + 203x^*2 - 696x + 756)\n\n###\n\n","completion":" (x - 4)*(x + 1)*(x**4 - 24*x**3 + 203*x**2 - 696*x + 756) | factor_high_degree_polynomial###"}
+{"prompt":"Find the factors of the polynomial x^*3 - 3x**2 - 6x + 8.\n\n###\n\n","completion":" x**3 - 3*x**2 - 6*x + 8 | factor_high_degree_polynomial###"}
+{"prompt":"x^*9 - 35*x**8 + 466x**7 - 2738x**6 + 3997*x**5 + 31753x**4 - 169056*x**3 + 331308x^*2 - 289008x + 93312 Factor.\n\n###\n\n","completion":" x**9 - 35*x**8 + 466*x**7 - 2738*x**6 + 3997*x**5 + 31753*x**4 - 169056*x**3 + 331308*x**2 - 289008*x + 93312 | factor_high_degree_polynomial###"}
+{"prompt":"Please factor the polynomial x^*10 - 10x**9 - 179x^*8 + 1754x^*7 + 11095x**6 - 104398*x^*5 - 280377*x**4 + 2527254*x**3 + 1781460x^*2 - 21432600*x + 17496000\n\n###\n\n","completion":" x**10 - 10*x**9 - 179*x**8 + 1754*x**7 + 11095*x**6 - 104398*x**5 - 280377*x**4 + 2527254*x**3 + 1781460*x**2 - 21432600*x + 17496000 | factor_high_degree_polynomial###"}
+{"prompt":"Factor x**7 - 9*x**6 - 64x**5 + 716*x^*4 - 96*x^*3 - 9536x^*2 + 6144x + 36864\n\n###\n\n","completion":" x**7 - 9*x**6 - 64*x**5 + 716*x**4 - 96*x**3 - 9536*x**2 + 6144*x + 36864 | factor_high_degree_polynomial###"}
+{"prompt":"x**10 + 35x^*9 + 398x^*8 + 494x**7 - 24091x^*6 - 188545x^*5 - 431348x**4 + 744576*x**3 + 5104800x**2 + 7981200*x + 3888000 Factor.\n\n###\n\n","completion":" x**10 + 35*x**9 + 398*x**8 + 494*x**7 - 24091*x**6 - 188545*x**5 - 431348*x**4 + 744576*x**3 + 5104800*x**2 + 7981200*x + 3888000 | factor_high_degree_polynomial###"}
+{"prompt":"Please factor the polynomial (x - 8)*(x + 7)*(x**2 + 6x + 8)\n\n###\n\n","completion":" (x - 8)*(x + 7)*(x**2 + 6*x + 8) | factor_high_degree_polynomial###"}
+{"prompt":"Please factor the polynomial x**9 + 8*x^*8 - 45x^*7 - 474x**6 - 141*x^*5 + 6612*x^*4 + 16685x^*3 + 6454x**2 - 16500*x - 12600\n\n###\n\n","completion":" x**9 + 8*x**8 - 45*x**7 - 474*x**6 - 141*x**5 + 6612*x**4 + 16685*x**3 + 6454*x**2 - 16500*x - 12600 | factor_high_degree_polynomial###"}
+{"prompt":"x^*4 + x^*3 - 123*x**2 - 81x + 3402 Factor.\n\n###\n\n","completion":" x**4 + x**3 - 123*x**2 - 81*x + 3402 | factor_high_degree_polynomial###"}
+{"prompt":"Please factor the polynomial (x + 1)(x + 3)(x + 7)\n\n###\n\n","completion":" (x + 1)*(x + 3)*(x + 7) | factor_high_degree_polynomial###"}
+{"prompt":"Find the factorization of the polynomial x**4 - 7x^*3 - 90*x^*2 + 700x - 1000.\n\n###\n\n","completion":" x**4 - 7*x**3 - 90*x**2 + 700*x - 1000 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x^*5 + 5*x**4 - 143*x^*3 - 741x**2 + 5022x + 27216.\n\n###\n\n","completion":" x**5 + 5*x**4 - 143*x**3 - 741*x**2 + 5022*x + 27216 | factor_high_degree_polynomial###"}
+{"prompt":"Factor x^*5 - 10*x**4 - 61*x**3 + 766*x**2 - 192x - 8064\n\n###\n\n","completion":" x**5 - 10*x**4 - 61*x**3 + 766*x**2 - 192*x - 8064 | factor_high_degree_polynomial###"}
+{"prompt":"Find the factorization of the polynomial (x - 10)*(x + 2)(x^*5 - 17x**4 - 3x^*3 + 1313x**2 - 6334x + 5040).\n\n###\n\n","completion":" (x - 10)*(x + 2)*(x**5 - 17*x**4 - 3*x**3 + 1313*x**2 - 6334*x + 5040) | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x**4 - 9x^*3 - 10*x^*2 + 228x - 360\n\n###\n\n","completion":" x**4 - 9*x**3 - 10*x**2 + 228*x - 360 | factor_high_degree_polynomial###"}
+{"prompt":"x^*10 + 11*x^*9 - 43x**8 - 781*x^*7 - 469x^*6 + 16709x**5 + 32983x^*4 - 105039x**3 - 259272*x^*2 + 89100*x + 226800 Factor.\n\n###\n\n","completion":" x**10 + 11*x**9 - 43*x**8 - 781*x**7 - 469*x**6 + 16709*x**5 + 32983*x**4 - 105039*x**3 - 259272*x**2 + 89100*x + 226800 | factor_high_degree_polynomial###"}
+{"prompt":"Factor -3*x - 8\n\n###\n\n","completion":" -3*x - 8 | factor_simple###"}
+{"prompt":"Find the factors of the polynomial 4x - 10.\n\n###\n\n","completion":" 4*x - 10 | factor_simple###"}
+{"prompt":"Find the factors of the polynomial -4*x - 4.\n\n###\n\n","completion":" -4*x - 4 | factor_simple###"}
+{"prompt":"Please factor the polynomial 4 - 10*x\n\n###\n\n","completion":" 4 - 10*x | factor_simple###"}
+{"prompt":"8 - 8*x Factor.\n\n###\n\n","completion":" 8 - 8*x | factor_simple###"}
+{"prompt":"Factor the polynomial 2*x - 10.\n\n###\n\n","completion":" 2*x - 10 | factor_simple###"}
+{"prompt":"Factor 7x - 7\n\n###\n\n","completion":" 7*x - 7 | factor_simple###"}
+{"prompt":"Factor the polynomial 6*x - 6\n\n###\n\n","completion":" 6*x - 6 | factor_simple###"}
+{"prompt":"Factor 3x + 1\n\n###\n\n","completion":" 3*x + 1 | factor_simple###"}
+{"prompt":"Find the factors of the polynomial 3 - 3x.\n\n###\n\n","completion":" 3 - 3*x | factor_simple###"}
+{"prompt":"Factor 4 - 5x\n\n###\n\n","completion":" 4 - 5*x | factor_simple###"}
+{"prompt":"Factor 8*x + 2\n\n###\n\n","completion":" 8*x + 2 | factor_simple###"}
+{"prompt":"-5x - 9 Factor.\n\n###\n\n","completion":" -5*x - 9 | factor_simple###"}
+{"prompt":"Find the factors of the polynomial -6*x - 2.\n\n###\n\n","completion":" -6*x - 2 | factor_simple###"}
+{"prompt":"-5x - 3 Factor.\n\n###\n\n","completion":" -5*x - 3 | factor_simple###"}
+{"prompt":"Please factor the polynomial -8x - 6\n\n###\n\n","completion":" -8*x - 6 | factor_simple###"}
+{"prompt":"Find the factors of the polynomial 3*x + 1.\n\n###\n\n","completion":" 3*x + 1 | factor_simple###"}
+{"prompt":"Find the factorization of the polynomial 5*x - 6.\n\n###\n\n","completion":" 5*x - 6 | factor_simple###"}
+{"prompt":"Factor the polynomial 9x + 2.\n\n###\n\n","completion":" 9*x + 2 | factor_simple###"}
+{"prompt":"Find the factorization of the polynomial -x - 1.\n\n###\n\n","completion":" -x - 1 | factor_simple###"}
+{"prompt":"Factor 2*x - 10\n\n###\n\n","completion":" 2*x - 10 | factor_simple###"}
+{"prompt":"Factor the polynomial -10*x - 7.\n\n###\n\n","completion":" -10*x - 7 | factor_simple###"}
+{"prompt":"6x + 3 Factor.\n\n###\n\n","completion":" 6*x + 3 | factor_simple###"}
+{"prompt":"Please factor the polynomial -x - 5\n\n###\n\n","completion":" -x - 5 | factor_simple###"}
+{"prompt":"Please factor the polynomial 8 - 7x\n\n###\n\n","completion":" 8 - 7*x | factor_simple###"}
+{"prompt":"Please factor the polynomial 4x - 10\n\n###\n\n","completion":" 4*x - 10 | factor_simple###"}
+{"prompt":"Factor 9x + 9\n\n###\n\n","completion":" 9*x + 9 | factor_simple###"}
+{"prompt":"Factor -6x - 10\n\n###\n\n","completion":" -6*x - 10 | factor_simple###"}
+{"prompt":"7*x + 5 Factor.\n\n###\n\n","completion":" 7*x + 5 | factor_simple###"}
+{"prompt":"Find the factorization of the polynomial 9x + 6.\n\n###\n\n","completion":" 9*x + 6 | factor_simple###"}
+{"prompt":"Find the factors of the polynomial 3 - 9x.\n\n###\n\n","completion":" 3 - 9*x | factor_simple###"}
+{"prompt":"Please factor the polynomial 1 - x\n\n###\n\n","completion":" 1 - x | factor_simple###"}
+{"prompt":"Please factor the polynomial -7x - 7\n\n###\n\n","completion":" -7*x - 7 | factor_simple###"}
+{"prompt":"9*x + 2 Factor.\n\n###\n\n","completion":" 9*x + 2 | factor_simple###"}
+{"prompt":"Factor the polynomial -9*x - 1.\n\n###\n\n","completion":" -9*x - 1 | factor_simple###"}
+{"prompt":"Factor the polynomial 2*x + 2\n\n###\n\n","completion":" 2*x + 2 | factor_simple###"}
+{"prompt":"Find the factorization of the polynomial 7*x + 6.\n\n###\n\n","completion":" 7*x + 6 | factor_simple###"}
+{"prompt":"Find the factorization of the polynomial 2x + 4.\n\n###\n\n","completion":" 2*x + 4 | factor_simple###"}
+{"prompt":"Factor 8*x + 4\n\n###\n\n","completion":" 8*x + 4 | factor_simple###"}
+{"prompt":"Find the factorization of the polynomial 1 - x.\n\n###\n\n","completion":" 1 - x | factor_simple###"}
+{"prompt":"Factor the polynomial 3*x - 3\n\n###\n\n","completion":" 3*x - 3 | factor_simple###"}
+{"prompt":"Factor the polynomial 4x - 10.\n\n###\n\n","completion":" 4*x - 10 | factor_simple###"}
+{"prompt":"Factor the polynomial -7*x - 6.\n\n###\n\n","completion":" -7*x - 6 | factor_simple###"}
+{"prompt":"Factor the polynomial -8x - 9.\n\n###\n\n","completion":" -8*x - 9 | factor_simple###"}
+{"prompt":"4x - 8 Factor.\n\n###\n\n","completion":" 4*x - 8 | factor_simple###"}
+{"prompt":"Please factor the polynomial 5x + 8\n\n###\n\n","completion":" 5*x + 8 | factor_simple###"}
+{"prompt":"Factor -4x - 10\n\n###\n\n","completion":" -4*x - 10 | factor_simple###"}
+{"prompt":"2*x - 8 Factor.\n\n###\n\n","completion":" 2*x - 8 | factor_simple###"}
+{"prompt":"Please factor the polynomial -2x - 4\n\n###\n\n","completion":" -2*x - 4 | factor_simple###"}
+{"prompt":"Solve. 9x + 3 = -9*x - 2\n\n###\n\n","completion":" 9*x + 3 = -9*x - 2 | solve_simple###"}
+{"prompt":"Algebraically solve 5x - 2 = 5*x + 10\n\n###\n\n","completion":" 5*x - 2 = 5*x + 10 | solve_simple###"}
+{"prompt":"Solve. -10*x - 1 = 0\n\n###\n\n","completion":" -10*x - 1 = 0 | solve_simple###"}
+{"prompt":"Solve. 3 - 10x = 0\n\n###\n\n","completion":" 3 - 10*x = 0 | solve_simple###"}
+{"prompt":"Algebraically solve -3*x - 9 = 0\n\n###\n\n","completion":" -3*x - 9 = 0 | solve_simple###"}
+{"prompt":"Solve for x. 10 - 6*x = 0.\n\n###\n\n","completion":" 10 - 6*x = 0 | solve_simple###"}
+{"prompt":"Solve. -5x - 3 = 8x - 5\n\n###\n\n","completion":" -5*x - 3 = 8*x - 5 | solve_simple###"}
+{"prompt":"Find the roots of 7x - 2 = 0.\n\n###\n\n","completion":" 7*x - 2 = 0 | solve_simple###"}
+{"prompt":"Solve. 4x + 4 = 0\n\n###\n\n","completion":" 4*x + 4 = 0 | solve_simple###"}
+{"prompt":"Solve for x. 2*x - 1 = 0.\n\n###\n\n","completion":" 2*x - 1 = 0 | solve_simple###"}
+{"prompt":"Solve for x. 1 - x = 0.\n\n###\n\n","completion":" 1 - x = 0 | solve_simple###"}
+{"prompt":"Find the roots of -x - 7 = 0.\n\n###\n\n","completion":" -x - 7 = 0 | solve_simple###"}
+{"prompt":"Solve. 9*x - 5 = -8x - 5\n\n###\n\n","completion":" 9*x - 5 = -8*x - 5 | solve_simple###"}
+{"prompt":"Algebraically solve 1 - 3x = 0\n\n###\n\n","completion":" 1 - 3*x = 0 | solve_simple###"}
+{"prompt":"Find the roots of -x - 9 = 0.\n\n###\n\n","completion":" -x - 9 = 0 | solve_simple###"}
+{"prompt":"6 - 9x = 0 Solve the equation.\n\n###\n\n","completion":" 6 - 9*x = 0 | solve_simple###"}
+{"prompt":"Find the roots of 7*x + 5 = 0.\n\n###\n\n","completion":" 7*x + 5 = 0 | solve_simple###"}
+{"prompt":"Algebraically solve 5x - 5 = -7*x - 4\n\n###\n\n","completion":" 5*x - 5 = -7*x - 4 | solve_simple###"}
+{"prompt":"6 - 6*x = 0 Solve the equation.\n\n###\n\n","completion":" 6 - 6*x = 0 | solve_simple###"}
+{"prompt":"Find the roots of -9*x - 4 = 0.\n\n###\n\n","completion":" -9*x - 4 = 0 | solve_simple###"}
+{"prompt":"Solve for x. -9*x = 0.\n\n###\n\n","completion":" -9*x = 0 | solve_simple###"}
+{"prompt":"Solve for x. 9 - 7x = 0.\n\n###\n\n","completion":" 9 - 7*x = 0 | solve_simple###"}
+{"prompt":"Find the roots of 9*x - 4 = 0.\n\n###\n\n","completion":" 9*x - 4 = 0 | solve_simple###"}
+{"prompt":"Algebraically solve 5*x + 5 = 2x - 8\n\n###\n\n","completion":" 5*x + 5 = 2*x - 8 | solve_simple###"}
+{"prompt":"Solve. -7*x - 1 = 0\n\n###\n\n","completion":" -7*x - 1 = 0 | solve_simple###"}
+{"prompt":"Solve for x. 9 - 4x = 0.\n\n###\n\n","completion":" 9 - 4*x = 0 | solve_simple###"}
+{"prompt":"Find the roots of 3x - 4 = 0.\n\n###\n\n","completion":" 3*x - 4 = 0 | solve_simple###"}
+{"prompt":"Solve for x. 6x + 6 = 0.\n\n###\n\n","completion":" 6*x + 6 = 0 | solve_simple###"}
+{"prompt":"Solve. 8*x - 5 = -9*x - 7\n\n###\n\n","completion":" 8*x - 5 = -9*x - 7 | solve_simple###"}
+{"prompt":"Find the roots of 4x - 3 = 1 - x.\n\n###\n\n","completion":" 4*x - 3 = 1 - x | solve_simple###"}
+{"prompt":"Solve for x. -3x - 4 = 8x - 9.\n\n###\n\n","completion":" -3*x - 4 = 8*x - 9 | solve_simple###"}
+{"prompt":"Solve. -6*x - 9 = 0\n\n###\n\n","completion":" -6*x - 9 = 0 | solve_simple###"}
+{"prompt":"2 - 2*x = 0 Solve the equation.\n\n###\n\n","completion":" 2 - 2*x = 0 | solve_simple###"}
+{"prompt":"6 - 10*x = 2x Solve the equation.\n\n###\n\n","completion":" 6 - 10*x = 2*x | solve_simple###"}
+{"prompt":"Solve. -9*x - 8 = 8x - 7\n\n###\n\n","completion":" -9*x - 8 = 8*x - 7 | solve_simple###"}
+{"prompt":"Solve. 4x + 4 = 2 - 3x\n\n###\n\n","completion":" 4*x + 4 = 2 - 3*x | solve_simple###"}
+{"prompt":"-6*x - 10 = 0 Solve the equation.\n\n###\n\n","completion":" -6*x - 10 = 0 | solve_simple###"}
+{"prompt":"-8*x - 6 = 0 Solve the equation.\n\n###\n\n","completion":" -8*x - 6 = 0 | solve_simple###"}
+{"prompt":"Find the roots of 8x - 8 = 0.\n\n###\n\n","completion":" 8*x - 8 = 0 | solve_simple###"}
+{"prompt":"Algebraically solve 6x + 6 = 0\n\n###\n\n","completion":" 6*x + 6 = 0 | solve_simple###"}
+{"prompt":"Solve for x. 5x + 7 = 0.\n\n###\n\n","completion":" 5*x + 7 = 0 | solve_simple###"}
+{"prompt":"-4x - 5 = 8*x + 3 Solve the equation.\n\n###\n\n","completion":" -4*x - 5 = 8*x + 3 | solve_simple###"}
+{"prompt":"9 - 4*x = 0 Solve the equation.\n\n###\n\n","completion":" 9 - 4*x = 0 | solve_simple###"}
+{"prompt":"9*x + 4 = 0 Solve the equation.\n\n###\n\n","completion":" 9*x + 4 = 0 | solve_simple###"}
+{"prompt":"Algebraically solve 6 - 9x = 0\n\n###\n\n","completion":" 6 - 9*x = 0 | solve_simple###"}
+{"prompt":"-5x - 10 = 0 Solve the equation.\n\n###\n\n","completion":" -5*x - 10 = 0 | solve_simple###"}
+{"prompt":"Algebraically solve 9x + 9 = 1 - 3*x\n\n###\n\n","completion":" 9*x + 9 = 1 - 3*x | solve_simple###"}
+{"prompt":"6x - 10 = 0 Solve the equation.\n\n###\n\n","completion":" 6*x - 10 = 0 | solve_simple###"}
+{"prompt":"Algebraically solve 7x - 8 = 3x - 9\n\n###\n\n","completion":" 7*x - 8 = 3*x - 9 | solve_simple###"}
+{"prompt":"Solve. 2 - 10*x = 0\n\n###\n\n","completion":" 2 - 10*x = 0 | solve_simple###"}
+{"prompt":"Please factor the polynomial -7x**2 - 10*x - 9 = 0\n\n###\n\n","completion":" -7*x**2 - 10*x - 9 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Please factor the polynomial -x^*2 + 8*x - 6 = 0\n\n###\n\n","completion":" -x**2 + 8*x - 6 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Find the roots of 4*x**2 + 3*x + 9 = 0.\n\n###\n\n","completion":" 4*x**2 + 3*x + 9 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Use the quadratic equation to solve for x -6x^*2 - 7x - 4 = 0.\n\n###\n\n","completion":" -6*x**2 - 7*x - 4 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve. 4*x^*2 - 7 = 0.\n\n###\n\n","completion":" 4*x**2 - 7 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Use the quadratic equation to solve for x 8x^*2 - 10x - 7 = 0.\n\n###\n\n","completion":" 8*x**2 - 10*x - 7 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Find the roots of -4*x^*2 - 3*x + 10 = 0.\n\n###\n\n","completion":" -4*x**2 - 3*x + 10 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Please factor the polynomial -4x**2 + 8x - 10 = 0\n\n###\n\n","completion":" -4*x**2 + 8*x - 10 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Please factor the polynomial 3*x**2 - 5x - 6 = 0\n\n###\n\n","completion":" 3*x**2 - 5*x - 6 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Find the roots of 7 - 6*x**2 = 6 - 2x.\n\n###\n\n","completion":" 7 - 6*x**2 = 6 - 2*x | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"5x**2 - 2x + 7 = 0 Solve.\n\n###\n\n","completion":" 5*x**2 - 2*x + 7 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve. -8*x**2 + 2x + 6 = 0.\n\n###\n\n","completion":" -8*x**2 + 2*x + 6 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"equate to 0 and solve 8x**2 + 4*x + 10 = 0\n\n###\n\n","completion":" 8*x**2 + 4*x + 10 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve for x. -8x**2 - 10*x - 5 = 0.\n\n###\n\n","completion":" -8*x**2 - 10*x - 5 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve. 3*x^*2 + 3*x - 2 = 0.\n\n###\n\n","completion":" 3*x**2 + 3*x - 2 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Please factor the polynomial -2x**2 + 7x + 3 = 9*x + 3\n\n###\n\n","completion":" -2*x**2 + 7*x + 3 = 9*x + 3 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve for x. -6*x^*2 + 5*x + 5 = 9x^*2 - 6*x - 8.\n\n###\n\n","completion":" -6*x**2 + 5*x + 5 = 9*x**2 - 6*x - 8 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"5x^*2 + 4x = 0 Solve.\n\n###\n\n","completion":" 5*x**2 + 4*x = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"-8x**2 + 4*x + 2 = 4*x + 5 Solve.\n\n###\n\n","completion":" -8*x**2 + 4*x + 2 = 4*x + 5 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve for x. -2*x**2 + 3*x - 8 = 0.\n\n###\n\n","completion":" -2*x**2 + 3*x - 8 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"6x**2 - 10x - 5 = 0 Solve.\n\n###\n\n","completion":" 6*x**2 - 10*x - 5 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve for x. -6*x^*2 - 10*x - 6 = 0.\n\n###\n\n","completion":" -6*x**2 - 10*x - 6 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve for x. -9x**2 - 8*x + 8 = 0.\n\n###\n\n","completion":" -9*x**2 - 8*x + 8 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"-2*x^*2 - 2x + 3 = 0 Solve.\n\n###\n\n","completion":" -2*x**2 - 2*x + 3 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"equate to 0 and solve -6*x^*2 - 3x - 3 = 0\n\n###\n\n","completion":" -6*x**2 - 3*x - 3 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Please factor the polynomial -6x**2 + x - 4 = 0\n\n###\n\n","completion":" -6*x**2 + x - 4 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Please factor the polynomial 6 - 5x**2 = 0\n\n###\n\n","completion":" 6 - 5*x**2 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"4x^*2 - 10*x + 7 = 0 Solve.\n\n###\n\n","completion":" 4*x**2 - 10*x + 7 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"equate to 0 and solve 4*x^*2 + 8x + 10 = -5*x**2 + 7x + 5\n\n###\n\n","completion":" 4*x**2 + 8*x + 10 = -5*x**2 + 7*x + 5 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Please factor the polynomial 9*x**2 - 2*x + 3 = 0\n\n###\n\n","completion":" 9*x**2 - 2*x + 3 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve. 1 - 7*x**2 = 2*x**2 + x + 5.\n\n###\n\n","completion":" 1 - 7*x**2 = 2*x**2 + x + 5 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Use the quadratic equation to solve for x -3*x^*2 - 3x + 7 = 0.\n\n###\n\n","completion":" -3*x**2 - 3*x + 7 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve. -3x^*2 - 3*x + 8 = 0.\n\n###\n\n","completion":" -3*x**2 - 3*x + 8 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Please factor the polynomial 8*x^*2 + 6*x - 10 = 0\n\n###\n\n","completion":" 8*x**2 + 6*x - 10 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve. -10x^*2 - 2*x + 1 = 0.\n\n###\n\n","completion":" -10*x**2 - 2*x + 1 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve for x. -8x^*2 - 6*x + 7 = 0.\n\n###\n\n","completion":" -8*x**2 - 6*x + 7 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"-9*x^*2 + 3*x - 7 = 5*x + 4 Solve.\n\n###\n\n","completion":" -9*x**2 + 3*x - 7 = 5*x + 4 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve for x. -x^*2 - 2x - 6 = 0.\n\n###\n\n","completion":" -x**2 - 2*x - 6 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Use the quadratic equation to solve for x -9*x^*2 - 4*x - 4 = -3x**2 + 6*x + 6.\n\n###\n\n","completion":" -9*x**2 - 4*x - 4 = -3*x**2 + 6*x + 6 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve for x. 9*x**2 - 7x + 7 = 0.\n\n###\n\n","completion":" 9*x**2 - 7*x + 7 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"-8x^*2 - 9*x + 2 = 0 Solve.\n\n###\n\n","completion":" -8*x**2 - 9*x + 2 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Use the quadratic equation to solve for x 3x**2 + 4x - 7 = -5x**2 - 10x - 3.\n\n###\n\n","completion":" 3*x**2 + 4*x - 7 = -5*x**2 - 10*x - 3 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Use the quadratic equation to solve for x -9x^*2 - 5x - 1 = 0.\n\n###\n\n","completion":" -9*x**2 - 5*x - 1 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"-2x^*2 - 2*x - 9 = -8*x^*2 - 10*x - 3 Solve.\n\n###\n\n","completion":" -2*x**2 - 2*x - 9 = -8*x**2 - 10*x - 3 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"equate to 0 and solve -8x**2 + 4x - 2 = 0\n\n###\n\n","completion":" -8*x**2 + 4*x - 2 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve for x. 5*x**2 - 8x - 9 = 0.\n\n###\n\n","completion":" 5*x**2 - 8*x - 9 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Find the roots of 7*x**2 + 6*x + 9 = -x - 7.\n\n###\n\n","completion":" 7*x**2 + 6*x + 9 = -x - 7 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Use the quadratic equation to solve for x 4x**2 - 7x - 10 = 0.\n\n###\n\n","completion":" 4*x**2 - 7*x - 10 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Find the roots of -7*x**2 - 2 = 0.\n\n###\n\n","completion":" -7*x**2 - 2 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"3x**2 + 3x + 5 = 0 Solve.\n\n###\n\n","completion":" 3*x**2 + 3*x + 5 = 0 | quadratic_polynomial_root_quadratic_equation###"}

@@ -3,13 +3,8 @@ from aiohttp.client_exceptions import ClientConnectorError
 import os
 import openai
 import logging
-import datetime
-
-import sympy as sp
-from sympy.abc import _clash1
 
 import discord
-from discord import option
 
 import utils
 

@@ -2,6 +2,8 @@ import discord
 from discord.ext import commands
 
 import openai
+
+import generator
 import main
 from main import logger
 import views
@@ -67,41 +69,52 @@ class Math(commands.Cog):
         start_time = datetime.datetime.now()
 
         # run the prompt through the recognition model
-        completion = openai.Completion.create(engine="babbage:ft-personal:recognition-2023-01-19-06-09-11", prompt=prompt + "\n\n###\n\n", max_tokens=20, temperature=0.0, top_p=1.0, frequency_penalty=0.0, presence_penalty=0.0, stop=["###"])
+        completion = openai.Completion.create(engine="babbage:ft-personal:recognition-2023-02-13-07-36-19", prompt=prompt + "\n\n###\n\n", max_tokens=60, temperature=0.0, top_p=1.0, frequency_penalty=0.0, presence_penalty=0.0, stop=["###"])
         # remove the "###" from the end of the response and split it into two variables with the "|" indice
-        completion = completion["choices"][0]["text"].replace("###", "")
+        completion = completion["choices"][0]["text"]
         print(completion)
-        problem, type = completion.split("|")
+        problem, problem_type = completion.split("|")
 
-        type = type.strip()
+        problem_type = problem_type.strip()
 
-        # identify the type as a ProblemType (StrEnum)
-        type = utils.ProblemType(type)
+        # identify the problem_type as a Problemproblem_type
+        problem_type = generator.ProblemType[problem_type.upper()]
+
+        response = ""
 
         # solve the problem
         try:
-            solution = type.solve(problem)
+            solution = problem_type.solver(problem)
         except sp.SympifyError as e:
             response = "Invalid equation - " + str(e)
-        else:
-            # depending on the type of solution, produce a different output
+        if response is "":
+            # depending on the problem_type of solution, produce a different output
             if isinstance(solution, sp.Expr):
                 response = str(solution)
             elif isinstance(solution, list):
                 response = ", ".join(solution)
-            elif isinstance(solution, sp.Set):
-                for i in range(len(solution[0])):
-                    response += str(solution[0][i]) + "="
-                    for j in solution[1]:
+            elif isinstance(solution, tuple):
+                print(f"Solution Vars: {solution[0]} | Sets: {solution[1]}")
+                variables = solution[0]
+                sets = solution[1]
+
+                for i in range(len(variables)):
+                    print("i: " + str(i))
+                    print(variables[i])
+                    response += (str(variables[i]) + "=")
+                    for j in sets:
                         for k in j:
                             # Check if k is a real number
                             if k.is_real or imaginary:
                                 response += str(k) + ", "
                     response += "\n"
+                # response = str(solution)
+            else:
+                response = "Invalid equation - " + str(type(solution))
 
         embed = utils.create_embed(title="CAS Response", description=f"`{response}`")
         embed.add_field(name="Prompt", value=f"`{prompt}`")
-        embed.add_field(name="Type", value=f"`{type}`")
+        embed.add_field(name="problem_type", value=f"`{problem_type}`")
         embed.set_footer(text=f"MathGPT • {(datetime.datetime.now() - start_time).total_seconds().__round__(2)}s",
                          icon_url=self.bot.user.display_avatar.url)
 

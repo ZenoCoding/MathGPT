@@ -19,7 +19,7 @@ class MathView(discord.ui.View):
         start_time = datetime.datetime.now()
 
         # Graph the equation
-        equation = utils.rewrite_implicit_multiplication(interaction.message.embeds[0].description[1:-1])
+        equation = utils.rewrite_implicit_multiplication(interaction.message.embeds[0].fields[0][1:-1])
         equation = sp.sympify(equation, convert_xor=True)
         sp.plot(equation, show=False).save("output/graph.png")
 
