@@ -8,7 +8,8 @@ class Solver(Enum):
 
     # Simple Method to evaluate an expression:
     @staticmethod
-    def evaluate(expression: str) -> sp.Expr:
+    def evaluate(parameters: list) -> sp.Expr:
+        expression = parameters[0]
         # Convert it to a sympy expression
         utils.convert_expression(expression)
         # Evaluate it
@@ -16,7 +17,8 @@ class Solver(Enum):
 
     # Factor an expression:
     @staticmethod
-    def factor(expression: str) -> sp.Expr:
+    def factor(parameters: list) -> sp.Expr:
+        expression = parameters[0]
         # Convert it to a sympy expression
         utils.convert_expression(expression)
         # Factor it
@@ -24,7 +26,8 @@ class Solver(Enum):
 
     # Expand an expression:
     @staticmethod
-    def expand(expression: str) -> sp.Expr:
+    def expand(parameters: list) -> sp.Expr:
+        expression = parameters[0]
         # Convert it to a sympy expression
         utils.convert_expression(expression)
         # Expand it
@@ -32,7 +35,8 @@ class Solver(Enum):
 
     # Simplify an expression:
     @staticmethod
-    def simplify(expression: str) -> sp.Expr:
+    def simplify(parameters: list) -> sp.Expr:
+        expression = parameters[0]
         # Convert it to a sympy expression
         utils.convert_expression(expression)
         # Simplify it
@@ -40,7 +44,8 @@ class Solver(Enum):
 
     # Find roots of an expression:
     @staticmethod
-    def roots(expression: str) -> sp.Set:
+    def roots(parameters: list) -> sp.Set:
+        expression = parameters[0]
         # Convert it to a sympy expression
         utils.convert_expression(expression)
         # Find the roots
@@ -48,7 +53,9 @@ class Solver(Enum):
 
     # Solve for a variable in an expression:
     @staticmethod
-    def solve(equation: str) -> sp.Set:
+    def solve(parameters: list) -> sp.Set:
+        equation = parameters[0]
+
         # Find both sides of the equation
         if "=" not in equation:
             left = equation

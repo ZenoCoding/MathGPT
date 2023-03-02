@@ -1,0 +1,37 @@
+{
+    "text-davinci-003": {
+        "id": "text-davinci-003",
+        "desc": "Base davinci model for text",
+        "scores": {}
+    },
+    "babbage:ft-personal:recognition-2023-01-19-06-09-11": {
+        "id": "babbage:ft-personal:recognition-2023-01-19-06-09-11",
+        "desc": "v0.1 Basic Polynomials",
+        "scores": {}
+    },
+    "babbage:ft-personal:recognition-2023-02-13-07-36-19": {
+        "id": "babbage:ft-personal:recognition-2023-02-13-07-36-19",
+        "desc": "v0.1.1 - Polynomial Revisions",
+        "scores": {}
+    },
+    "ada:ft-mathgpt:recognition-2023-03-02-07-16-10": {
+        "id": "ada:ft-mathgpt:recognition-2023-03-02-07-16-10",
+        "desc": "v0.2.x | base: ada- polynomials v2 + arithmetic - trained on 1000 lines",
+        "scores": {}
+    },
+    "babbage:ft-mathgpt:recognition-2023-03-02-07-27-11": {
+        "id": "babbage:ft-mathgpt:recognition-2023-03-02-07-27-11",
+        "desc": "v0.2.x | base: babbage- polynomials v2 + arithmetic - trained on 1000 lines",
+        "scores": {}
+    },
+    "curie:ft-mathgpt:recognition-2023-03-02-07-36-58": {
+        "id": "curie:ft-mathgpt:recognition-2023-03-02-07-36-58",
+        "desc": "v0.2.x | base: curie- polynomials v2 + arithmetic - trained on 1000 lines",
+        "scores": {}
+    },
+    "davinci:ft-personal:8i7whOpysDVljeckgYHvwpPH": {
+        "id": "davinci:ft-mathgpt:recognition-",
+        "desc": "v0.2.x | base: davinci- polynomials v2 + arithmetic - trained on 1000 lines",
+        "scores": {}
+    }
+}

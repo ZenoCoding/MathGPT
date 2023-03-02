@@ -1,300 +1,1000 @@
-{"prompt": "Factor the polynomial x**2 - 2*x - 35.\n\n###\n\n", "completion": " x**2 - 2*x - 35 | factor_simple_polynomial###"}
-{"prompt": "Find the factorization of the polynomial x**2 - 16*x + 60.\n\n###\n\n", "completion": " x**2 - 16*x + 60 | factor_simple_polynomial###"}
-{"prompt": "Factor x**2 + 15*x + 56\n\n###\n\n", "completion": " x**2 + 15*x + 56 | factor_simple_polynomial###"}
-{"prompt": "Factor the polynomial (x - 8)*(x + 1).\n\n###\n\n", "completion": " (x - 8)*(x + 1) | factor_simple_polynomial###"}
-{"prompt": "x**2 + 7*x - 8 Factor.\n\n###\n\n", "completion": " x**2 + 7*x - 8 | factor_simple_polynomial###"}
-{"prompt": "Factor the polynomial x**2 - 7*x + 6.\n\n###\n\n", "completion": " x**2 - 7*x + 6 | factor_simple_polynomial###"}
-{"prompt": "Factor the polynomial x**2 - 8*x + 7.\n\n###\n\n", "completion": " x**2 - 8*x + 7 | factor_simple_polynomial###"}
-{"prompt": "Please factor the polynomial x**2 + 5*x - 36\n\n###\n\n", "completion": " x**2 + 5*x - 36 | factor_simple_polynomial###"}
-{"prompt": "Factor the polynomial x**2 - 3*x - 54.\n\n###\n\n", "completion": " x**2 - 3*x - 54 | factor_simple_polynomial###"}
-{"prompt": "Factor x**2 - 7*x + 12\n\n###\n\n", "completion": " x**2 - 7*x + 12 | factor_simple_polynomial###"}
-{"prompt": "Find the factorization of the polynomial x**2 + 10*x + 21.\n\n###\n\n", "completion": " x**2 + 10*x + 21 | factor_simple_polynomial###"}
-{"prompt": "Factor the polynomial (x - 2)*(x + 8).\n\n###\n\n", "completion": " (x - 2)*(x + 8) | factor_simple_polynomial###"}
-{"prompt": "x**2 - 7*x + 10 Factor.\n\n###\n\n", "completion": " x**2 - 7*x + 10 | factor_simple_polynomial###"}
-{"prompt": "Factor the polynomial x**2 + 6*x - 7.\n\n###\n\n", "completion": " x**2 + 6*x - 7 | factor_simple_polynomial###"}
-{"prompt": "Factor the polynomial x**2 - 4*x + 3\n\n###\n\n", "completion": " x**2 - 4*x + 3 | factor_simple_polynomial###"}
-{"prompt": "Find the factors of the polynomial x**2 - 15*x + 56.\n\n###\n\n", "completion": " x**2 - 15*x + 56 | factor_simple_polynomial###"}
-{"prompt": "Factor the polynomial x**2 - 2*x - 24\n\n###\n\n", "completion": " x**2 - 2*x - 24 | factor_simple_polynomial###"}
-{"prompt": "Find the factorization of the polynomial x**2 - 14*x + 40.\n\n###\n\n", "completion": " x**2 - 14*x + 40 | factor_simple_polynomial###"}
-{"prompt": "x**2 + 15*x + 56 Factor.\n\n###\n\n", "completion": " x**2 + 15*x + 56 | factor_simple_polynomial###"}
-{"prompt": "Please factor the polynomial x**2 + 5*x - 24\n\n###\n\n", "completion": " x**2 + 5*x - 24 | factor_simple_polynomial###"}
-{"prompt": "x**2 - 4*x - 12 Factor.\n\n###\n\n", "completion": " x**2 - 4*x - 12 | factor_simple_polynomial###"}
-{"prompt": "Please factor the polynomial x**2 + 16*x + 60\n\n###\n\n", "completion": " x**2 + 16*x + 60 | factor_simple_polynomial###"}
-{"prompt": "Factor the polynomial x**2 + 9*x + 8.\n\n###\n\n", "completion": " x**2 + 9*x + 8 | factor_simple_polynomial###"}
-{"prompt": "Find the factorization of the polynomial x**2 + x - 42.\n\n###\n\n", "completion": " x**2 + x - 42 | factor_simple_polynomial###"}
-{"prompt": "Please factor the polynomial x**2 - 49\n\n###\n\n", "completion": " x**2 - 49 | factor_simple_polynomial###"}
-{"prompt": "Find the factors of the polynomial x**2 + 6*x + 8.\n\n###\n\n", "completion": " x**2 + 6*x + 8 | factor_simple_polynomial###"}
-{"prompt": "Find the factorization of the polynomial x**2 + 7*x - 8.\n\n###\n\n", "completion": " x**2 + 7*x - 8 | factor_simple_polynomial###"}
-{"prompt": "Factor (x - 6)*(x + 7)\n\n###\n\n", "completion": " (x - 6)*(x + 7) | factor_simple_polynomial###"}
-{"prompt": "Factor the polynomial (x - 3)*(x + 6).\n\n###\n\n", "completion": " (x - 3)*(x + 6) | factor_simple_polynomial###"}
-{"prompt": "x**2 - 5*x + 6 Factor.\n\n###\n\n", "completion": " x**2 - 5*x + 6 | factor_simple_polynomial###"}
-{"prompt": "Please factor the polynomial x**2 + 8*x + 12\n\n###\n\n", "completion": " x**2 + 8*x + 12 | factor_simple_polynomial###"}
-{"prompt": "Please factor the polynomial x**2 + 9*x + 8\n\n###\n\n", "completion": " x**2 + 9*x + 8 | factor_simple_polynomial###"}
-{"prompt": "Factor the polynomial x**2 - 7*x - 18.\n\n###\n\n", "completion": " x**2 - 7*x - 18 | factor_simple_polynomial###"}
-{"prompt": "Factor the polynomial (x + 2)*(x + 7).\n\n###\n\n", "completion": " (x + 2)*(x + 7) | factor_simple_polynomial###"}
-{"prompt": "Please factor the polynomial x**2 + 2*x - 3\n\n###\n\n", "completion": " x**2 + 2*x - 3 | factor_simple_polynomial###"}
-{"prompt": "Factor x**2 + 5*x + 6\n\n###\n\n", "completion": " x**2 + 5*x + 6 | factor_simple_polynomial###"}
-{"prompt": "Factor the polynomial x**2 + 11*x + 24\n\n###\n\n", "completion": " x**2 + 11*x + 24 | factor_simple_polynomial###"}
-{"prompt": "Please factor the polynomial x**2 - 4*x - 45\n\n###\n\n", "completion": " x**2 - 4*x - 45 | factor_simple_polynomial###"}
-{"prompt": "Factor the polynomial x**2 + 10*x + 24.\n\n###\n\n", "completion": " x**2 + 10*x + 24 | factor_simple_polynomial###"}
-{"prompt": "Find the factors of the polynomial x**2 - 12*x + 32.\n\n###\n\n", "completion": " x**2 - 12*x + 32 | factor_simple_polynomial###"}
-{"prompt": "Factor x**2 + 5*x - 50\n\n###\n\n", "completion": " x**2 + 5*x - 50 | factor_simple_polynomial###"}
-{"prompt": "x**2 + 14*x + 48 Factor.\n\n###\n\n", "completion": " x**2 + 14*x + 48 | factor_simple_polynomial###"}
-{"prompt": "Find the factorization of the polynomial x**2 - 13*x + 40.\n\n###\n\n", "completion": " x**2 - 13*x + 40 | factor_simple_polynomial###"}
-{"prompt": "Find the factorization of the polynomial x**2 + 20*x + 100.\n\n###\n\n", "completion": " x**2 + 20*x + 100 | factor_simple_polynomial###"}
-{"prompt": "x**2 - x - 56 Factor.\n\n###\n\n", "completion": " x**2 - x - 56 | factor_simple_polynomial###"}
-{"prompt": "Factor the polynomial x**2 + 4*x - 21.\n\n###\n\n", "completion": " x**2 + 4*x - 21 | factor_simple_polynomial###"}
-{"prompt": "Find the factors of the polynomial x**2 - 15*x + 50.\n\n###\n\n", "completion": " x**2 - 15*x + 50 | factor_simple_polynomial###"}
-{"prompt": "Factor the polynomial (x - 9)*(x - 4)\n\n###\n\n", "completion": " (x - 9)*(x - 4) | factor_simple_polynomial###"}
-{"prompt": "x**2 - 8*x + 7 Factor.\n\n###\n\n", "completion": " x**2 - 8*x + 7 | factor_simple_polynomial###"}
-{"prompt": "Find the factorization of the polynomial x**2 - 4*x - 32.\n\n###\n\n", "completion": " x**2 - 4*x - 32 | factor_simple_polynomial###"}
-{"prompt": "Factor the polynomial 25 - 9*x**2.\n\n###\n\n", "completion": " 25 - 9*x**2 | factor_simple_nonone_polynomial###"}
-{"prompt": "Factor 36*x**2 - 122*x + 80\n\n###\n\n", "completion": " 36*x**2 - 122*x + 80 | factor_simple_nonone_polynomial###"}
-{"prompt": "Factor the polynomial 7*x**2 - 67*x - 30.\n\n###\n\n", "completion": " 7*x**2 - 67*x - 30 | factor_simple_nonone_polynomial###"}
-{"prompt": "Find the factors of the polynomial 42*x**2 + 94*x + 40.\n\n###\n\n", "completion": " 42*x**2 + 94*x + 40 | factor_simple_nonone_polynomial###"}
-{"prompt": "Factor -8*x**2 + 4*x + 24\n\n###\n\n", "completion": " -8*x**2 + 4*x + 24 | factor_simple_nonone_polynomial###"}
-{"prompt": "Find the factors of the polynomial -25*x**2 + 5*x + 2.\n\n###\n\n", "completion": " -25*x**2 + 5*x + 2 | factor_simple_nonone_polynomial###"}
-{"prompt": "Find the factorization of the polynomial 27*x**2 + 18*x - 9.\n\n###\n\n", "completion": " 27*x**2 + 18*x - 9 | factor_simple_nonone_polynomial###"}
-{"prompt": "(-10*x - 5)*(2*x + 8) Factor.\n\n###\n\n", "completion": " (-10*x - 5)*(2*x + 8) | factor_simple_nonone_polynomial###"}
-{"prompt": "Please factor the polynomial -18*x**2 - 32*x + 8\n\n###\n\n", "completion": " -18*x**2 - 32*x + 8 | factor_simple_nonone_polynomial###"}
-{"prompt": "Factor the polynomial -35*x**2 + 25*x + 10.\n\n###\n\n", "completion": " -35*x**2 + 25*x + 10 | factor_simple_nonone_polynomial###"}
-{"prompt": "32 - 18*x**2 Factor.\n\n###\n\n", "completion": " 32 - 18*x**2 | factor_simple_nonone_polynomial###"}
-{"prompt": "Factor the polynomial -21*x**2 - 67*x + 10\n\n###\n\n", "completion": " -21*x**2 - 67*x + 10 | factor_simple_nonone_polynomial###"}
-{"prompt": "Find the factorization of the polynomial -63*x**2 + 96*x - 36.\n\n###\n\n", "completion": " -63*x**2 + 96*x - 36 | factor_simple_nonone_polynomial###"}
-{"prompt": "Find the factors of the polynomial -16*x**2 - 96*x - 80.\n\n###\n\n", "completion": " -16*x**2 - 96*x - 80 | factor_simple_nonone_polynomial###"}
-{"prompt": "Find the factors of the polynomial -40*x**2 - 28*x - 4.\n\n###\n\n", "completion": " -40*x**2 - 28*x - 4 | factor_simple_nonone_polynomial###"}
-{"prompt": "Factor 36*x**2 - 7*x - 4\n\n###\n\n", "completion": " 36*x**2 - 7*x - 4 | factor_simple_nonone_polynomial###"}
-{"prompt": "Factor the polynomial 9*(2*x + 10)*(3*x + 3)\n\n###\n\n", "completion": " 9*(2*x + 10)*(3*x + 3) | factor_simple_nonone_polynomial###"}
-{"prompt": "Find the factorization of the polynomial 63*x**2 - 16*x - 60.\n\n###\n\n", "completion": " 63*x**2 - 16*x - 60 | factor_simple_nonone_polynomial###"}
-{"prompt": "Factor the polynomial 24*x**2 + 6*x - 63.\n\n###\n\n", "completion": " 24*x**2 + 6*x - 63 | factor_simple_nonone_polynomial###"}
-{"prompt": "Find the factors of the polynomial -20*x**2 + 3*x + 2.\n\n###\n\n", "completion": " -20*x**2 + 3*x + 2 | factor_simple_nonone_polynomial###"}
-{"prompt": "2*(10 - 10*x)*(8*x + 10) Factor.\n\n###\n\n", "completion": " 2*(10 - 10*x)*(8*x + 10) | factor_simple_nonone_polynomial###"}
-{"prompt": "Find the factors of the polynomial 18*x**2 + 45*x + 28.\n\n###\n\n", "completion": " 18*x**2 + 45*x + 28 | factor_simple_nonone_polynomial###"}
-{"prompt": "Factor the polynomial (-5*x - 9)*(9*x + 3)\n\n###\n\n", "completion": " (-5*x - 9)*(9*x + 3) | factor_simple_nonone_polynomial###"}
-{"prompt": "-63*x**2 + 139*x - 70 Factor.\n\n###\n\n", "completion": " -63*x**2 + 139*x - 70 | factor_simple_nonone_polynomial###"}
-{"prompt": "Factor 10*x**2 + 4*x - 6\n\n###\n\n", "completion": " 10*x**2 + 4*x - 6 | factor_simple_nonone_polynomial###"}
-{"prompt": "Factor 3*(7 - 2*x)*(8*x + 2)\n\n###\n\n", "completion": " 3*(7 - 2*x)*(8*x + 2) | factor_simple_nonone_polynomial###"}
-{"prompt": "Find the factorization of the polynomial -25*x**2 - 50*x - 9.\n\n###\n\n", "completion": " -25*x**2 - 50*x - 9 | factor_simple_nonone_polynomial###"}
-{"prompt": "Find the factorization of the polynomial -50*x**2 - 20*x + 48.\n\n###\n\n", "completion": " -50*x**2 - 20*x + 48 | factor_simple_nonone_polynomial###"}
-{"prompt": "Factor the polynomial 56*x**2 - 135*x + 81.\n\n###\n\n", "completion": " 56*x**2 - 135*x + 81 | factor_simple_nonone_polynomial###"}
-{"prompt": "Find the factorization of the polynomial (7 - 7*x)*(5*x + 4).\n\n###\n\n", "completion": " (7 - 7*x)*(5*x + 4) | factor_simple_nonone_polynomial###"}
-{"prompt": "Factor the polynomial 48*x**2 + 14*x - 45\n\n###\n\n", "completion": " 48*x**2 + 14*x - 45 | factor_simple_nonone_polynomial###"}
-{"prompt": "Please factor the polynomial -4*(6 - 6*x)*(-5*x - 5)\n\n###\n\n", "completion": " -4*(6 - 6*x)*(-5*x - 5) | factor_simple_nonone_polynomial###"}
-{"prompt": "-20*x**2 + 62*x - 6 Factor.\n\n###\n\n", "completion": " -20*x**2 + 62*x - 6 | factor_simple_nonone_polynomial###"}
-{"prompt": "Please factor the polynomial -15*x**2 - 24*x + 63\n\n###\n\n", "completion": " -15*x**2 - 24*x + 63 | factor_simple_nonone_polynomial###"}
-{"prompt": "-72*x**2 + 17*x + 72 Factor.\n\n###\n\n", "completion": " -72*x**2 + 17*x + 72 | factor_simple_nonone_polynomial###"}
-{"prompt": "Factor 4*x**2 + 6*x - 54\n\n###\n\n", "completion": " 4*x**2 + 6*x - 54 | factor_simple_nonone_polynomial###"}
-{"prompt": "Factor the polynomial -64*x**2 - 80*x - 25.\n\n###\n\n", "completion": " -64*x**2 - 80*x - 25 | factor_simple_nonone_polynomial###"}
-{"prompt": "Factor (7 - 9*x)*(4*x - 9)\n\n###\n\n", "completion": " (7 - 9*x)*(4*x - 9) | factor_simple_nonone_polynomial###"}
-{"prompt": "24*x**2 - 77*x - 10 Factor.\n\n###\n\n", "completion": " 24*x**2 - 77*x - 10 | factor_simple_nonone_polynomial###"}
-{"prompt": "-20*x**2 - 7*x + 40 Factor.\n\n###\n\n", "completion": " -20*x**2 - 7*x + 40 | factor_simple_nonone_polynomial###"}
-{"prompt": "Find the factorization of the polynomial -90*x**2 + 170*x - 80.\n\n###\n\n", "completion": " -90*x**2 + 170*x - 80 | factor_simple_nonone_polynomial###"}
-{"prompt": "Factor the polynomial 2*(5 - 4*x)*(-7*x - 9).\n\n###\n\n", "completion": " 2*(5 - 4*x)*(-7*x - 9) | factor_simple_nonone_polynomial###"}
-{"prompt": "14*x**2 + 59*x - 18 Factor.\n\n###\n\n", "completion": " 14*x**2 + 59*x - 18 | factor_simple_nonone_polynomial###"}
-{"prompt": "Find the factorization of the polynomial 28*x**2 + 20*x - 72.\n\n###\n\n", "completion": " 28*x**2 + 20*x - 72 | factor_simple_nonone_polynomial###"}
-{"prompt": "Factor 36*x**2 - 82*x - 20\n\n###\n\n", "completion": " 36*x**2 - 82*x - 20 | factor_simple_nonone_polynomial###"}
-{"prompt": "Please factor the polynomial -20*x**2 - 22*x - 6\n\n###\n\n", "completion": " -20*x**2 - 22*x - 6 | factor_simple_nonone_polynomial###"}
-{"prompt": "Factor the polynomial 35*x**2 - 101*x + 72\n\n###\n\n", "completion": " 35*x**2 - 101*x + 72 | factor_simple_nonone_polynomial###"}
-{"prompt": "Find the factors of the polynomial (6 - 10*x)*(6 - 6*x).\n\n###\n\n", "completion": " (6 - 10*x)*(6 - 6*x) | factor_simple_nonone_polynomial###"}
-{"prompt": "Factor the polynomial (10 - 7*x)*(-x - 10).\n\n###\n\n", "completion": " (10 - 7*x)*(-x - 10) | factor_simple_nonone_polynomial###"}
-{"prompt": "Find the factorization of the polynomial 18*x**2 - 30*x + 12.\n\n###\n\n", "completion": " 18*x**2 - 30*x + 12 | factor_simple_nonone_polynomial###"}
-{"prompt": "Find the factorization of the polynomial (x - 8)*(x + 4)*(x**8 + 3*x**7 - 204*x**6 - 348*x**5 + 13248*x**4 + 2640*x**3 - 299200*x**2 + 216000*x + 1440000).\n\n###\n\n", "completion": " (x - 8)*(x + 4)*(x**8 + 3*x**7 - 204*x**6 - 348*x**5 + 13248*x**4 + 2640*x**3 - 299200*x**2 + 216000*x + 1440000) | factor_high_degree_polynomial###"}
-{"prompt": "Factor the polynomial x**5 + 12*x**4 + 2*x**3 - 264*x**2 - 171*x + 1620.\n\n###\n\n", "completion": " x**5 + 12*x**4 + 2*x**3 - 264*x**2 - 171*x + 1620 | factor_high_degree_polynomial###"}
-{"prompt": "x**10 - 15*x**9 - 48*x**8 + 1618*x**7 - 5931*x**6 - 11655*x**5 + 74738*x**4 - 14748*x**3 - 164760*x**2 + 24800*x + 96000 Factor.\n\n###\n\n", "completion": " x**10 - 15*x**9 - 48*x**8 + 1618*x**7 - 5931*x**6 - 11655*x**5 + 74738*x**4 - 14748*x**3 - 164760*x**2 + 24800*x + 96000 | factor_high_degree_polynomial###"}
-{"prompt": "Find the factors of the polynomial x**6 - 105*x**4 - 140*x**3 + 1764*x**2 + 1680*x - 3200.\n\n###\n\n", "completion": " x**6 - 105*x**4 - 140*x**3 + 1764*x**2 + 1680*x - 3200 | factor_high_degree_polynomial###"}
-{"prompt": "(x - 10)*(x + 9)*(x**4 - 6*x**3 - 36*x**2 + 184*x - 192) Factor.\n\n###\n\n", "completion": " (x - 10)*(x + 9)*(x**4 - 6*x**3 - 36*x**2 + 184*x - 192) | factor_high_degree_polynomial###"}
-{"prompt": "Please factor the polynomial (x + 7)*(x + 8)*(x**3 + 11*x**2 + 14*x - 80)\n\n###\n\n", "completion": " (x + 7)*(x + 8)*(x**3 + 11*x**2 + 14*x - 80) | factor_high_degree_polynomial###"}
-{"prompt": "Factor the polynomial x**3 - 10*x**2 + 13*x + 24\n\n###\n\n", "completion": " x**3 - 10*x**2 + 13*x + 24 | factor_high_degree_polynomial###"}
-{"prompt": "Factor the polynomial x**3 - 7*x**2 - 36*x + 252.\n\n###\n\n", "completion": " x**3 - 7*x**2 - 36*x + 252 | factor_high_degree_polynomial###"}
-{"prompt": "Find the factorization of the polynomial x**5 - 7*x**4 - 27*x**3 + 203*x**2 + 22*x - 840.\n\n###\n\n", "completion": " x**5 - 7*x**4 - 27*x**3 + 203*x**2 + 22*x - 840 | factor_high_degree_polynomial###"}
-{"prompt": "Find the factors of the polynomial x**9 - 23*x**8 + 65*x**7 + 2159*x**6 - 19326*x**5 + 23028*x**4 + 281480*x**3 - 905344*x**2 + 112000*x + 1254400.\n\n###\n\n", "completion": " x**9 - 23*x**8 + 65*x**7 + 2159*x**6 - 19326*x**5 + 23028*x**4 + 281480*x**3 - 905344*x**2 + 112000*x + 1254400 | factor_high_degree_polynomial###"}
-{"prompt": "Find the factors of the polynomial x**3 + 6*x**2 + 5*x - 12.\n\n###\n\n", "completion": " x**3 + 6*x**2 + 5*x - 12 | factor_high_degree_polynomial###"}
-{"prompt": "Find the factors of the polynomial x**3 + 5*x**2 - 33*x + 27.\n\n###\n\n", "completion": " x**3 + 5*x**2 - 33*x + 27 | factor_high_degree_polynomial###"}
-{"prompt": "Factor the polynomial x**9 - 13*x**8 - 104*x**7 + 2082*x**6 - 2571*x**5 - 82197*x**4 + 352274*x**3 + 423808*x**2 - 4617760*x + 6585600\n\n###\n\n", "completion": " x**9 - 13*x**8 - 104*x**7 + 2082*x**6 - 2571*x**5 - 82197*x**4 + 352274*x**3 + 423808*x**2 - 4617760*x + 6585600 | factor_high_degree_polynomial###"}
-{"prompt": "Factor the polynomial x**6 + 5*x**5 - 32*x**4 - 208*x**3 - 128*x**2 + 752*x + 960\n\n###\n\n", "completion": " x**6 + 5*x**5 - 32*x**4 - 208*x**3 - 128*x**2 + 752*x + 960 | factor_high_degree_polynomial###"}
-{"prompt": "Factor the polynomial (x - 8)*(x + 4)*(x**6 - 5*x**5 - 127*x**4 + 725*x**3 + 2826*x**2 - 19620*x + 16200).\n\n###\n\n", "completion": " (x - 8)*(x + 4)*(x**6 - 5*x**5 - 127*x**4 + 725*x**3 + 2826*x**2 - 19620*x + 16200) | factor_high_degree_polynomial###"}
-{"prompt": "Please factor the polynomial x**9 - 10*x**8 - 133*x**7 + 1580*x**6 + 2435*x**5 - 60970*x**4 + 103573*x**3 + 357480*x**2 - 1038996*x + 635040\n\n###\n\n", "completion": " x**9 - 10*x**8 - 133*x**7 + 1580*x**6 + 2435*x**5 - 60970*x**4 + 103573*x**3 + 357480*x**2 - 1038996*x + 635040 | factor_high_degree_polynomial###"}
-{"prompt": "Factor the polynomial x**10 - 11*x**9 - 115*x**8 + 1717*x**7 + 611*x**6 - 73229*x**5 + 202543*x**4 + 547047*x**3 - 2108160*x**2 - 475524*x + 1905120\n\n###\n\n", "completion": " x**10 - 11*x**9 - 115*x**8 + 1717*x**7 + 611*x**6 - 73229*x**5 + 202543*x**4 + 547047*x**3 - 2108160*x**2 - 475524*x + 1905120 | factor_high_degree_polynomial###"}
-{"prompt": "Please factor the polynomial x**3 + 20*x**2 + 121*x + 210\n\n###\n\n", "completion": " x**3 + 20*x**2 + 121*x + 210 | factor_high_degree_polynomial###"}
-{"prompt": "Factor the polynomial x**8 - 12*x**7 - 50*x**6 + 856*x**5 - 131*x**4 - 13748*x**3 + 11340*x**2 + 42064*x - 40320\n\n###\n\n", "completion": " x**8 - 12*x**7 - 50*x**6 + 856*x**5 - 131*x**4 - 13748*x**3 + 11340*x**2 + 42064*x - 40320 | factor_high_degree_polynomial###"}
-{"prompt": "x**4 + 13*x**3 + 7*x**2 - 237*x + 216 Factor.\n\n###\n\n", "completion": " x**4 + 13*x**3 + 7*x**2 - 237*x + 216 | factor_high_degree_polynomial###"}
-{"prompt": "x**5 + 30*x**4 + 319*x**3 + 1338*x**2 + 1192*x - 2880 Factor.\n\n###\n\n", "completion": " x**5 + 30*x**4 + 319*x**3 + 1338*x**2 + 1192*x - 2880 | factor_high_degree_polynomial###"}
-{"prompt": "Factor the polynomial x**4 - 7*x**3 - 47*x**2 + 303*x - 378.\n\n###\n\n", "completion": " x**4 - 7*x**3 - 47*x**2 + 303*x - 378 | factor_high_degree_polynomial###"}
-{"prompt": "Find the factors of the polynomial (x - 3)*(x + 4)*(x**5 - 13*x**4 - 21*x**3 + 673*x**2 - 1420*x - 2100).\n\n###\n\n", "completion": " (x - 3)*(x + 4)*(x**5 - 13*x**4 - 21*x**3 + 673*x**2 - 1420*x - 2100) | factor_high_degree_polynomial###"}
-{"prompt": "Find the factors of the polynomial x**10 - 14*x**9 - 62*x**8 + 1152*x**7 + 2253*x**6 - 31266*x**5 - 80608*x**4 + 234128*x**3 + 1106576*x**2 + 1428960*x + 604800.\n\n###\n\n", "completion": " x**10 - 14*x**9 - 62*x**8 + 1152*x**7 + 2253*x**6 - 31266*x**5 - 80608*x**4 + 234128*x**3 + 1106576*x**2 + 1428960*x + 604800 | factor_high_degree_polynomial###"}
-{"prompt": "Factor the polynomial x**3 + 5*x**2 - 22*x - 56.\n\n###\n\n", "completion": " x**3 + 5*x**2 - 22*x - 56 | factor_high_degree_polynomial###"}
-{"prompt": "Factor the polynomial x**5 + 11*x**4 + 4*x**3 - 244*x**2 - 752*x - 640\n\n###\n\n", "completion": " x**5 + 11*x**4 + 4*x**3 - 244*x**2 - 752*x - 640 | factor_high_degree_polynomial###"}
-{"prompt": "Factor the polynomial x**3 + 8*x**2 - 15*x - 54.\n\n###\n\n", "completion": " x**3 + 8*x**2 - 15*x - 54 | factor_high_degree_polynomial###"}
-{"prompt": "Find the factorization of the polynomial x**9 - 15*x**8 - 84*x**7 + 1878*x**6 + 597*x**5 - 73263*x**4 + 44414*x**3 + 942312*x**2 - 44928*x - 870912.\n\n###\n\n", "completion": " x**9 - 15*x**8 - 84*x**7 + 1878*x**6 + 597*x**5 - 73263*x**4 + 44414*x**3 + 942312*x**2 - 44928*x - 870912 | factor_high_degree_polynomial###"}
-{"prompt": "Factor x**7 + 14*x**6 - 51*x**5 - 1430*x**4 - 3781*x**3 + 22506*x**2 + 109431*x + 119070\n\n###\n\n", "completion": " x**7 + 14*x**6 - 51*x**5 - 1430*x**4 - 3781*x**3 + 22506*x**2 + 109431*x + 119070 | factor_high_degree_polynomial###"}
-{"prompt": "Find the factorization of the polynomial x**4 + 16*x**3 + 41*x**2 - 274*x - 840.\n\n###\n\n", "completion": " x**4 + 16*x**3 + 41*x**2 - 274*x - 840 | factor_high_degree_polynomial###"}
-{"prompt": "Factor the polynomial x**10 + 4*x**9 - 85*x**8 - 438*x**7 + 1819*x**6 + 13736*x**5 + 5925*x**4 - 107822*x**3 - 273580*x**2 - 255400*x - 84000.\n\n###\n\n", "completion": " x**10 + 4*x**9 - 85*x**8 - 438*x**7 + 1819*x**6 + 13736*x**5 + 5925*x**4 - 107822*x**3 - 273580*x**2 - 255400*x - 84000 | factor_high_degree_polynomial###"}
-{"prompt": "Please factor the polynomial x**9 + 39*x**8 + 628*x**7 + 5388*x**6 + 26398*x**5 + 72306*x**4 + 92772*x**3 - 1188*x**2 - 119799*x - 76545\n\n###\n\n", "completion": " x**9 + 39*x**8 + 628*x**7 + 5388*x**6 + 26398*x**5 + 72306*x**4 + 92772*x**3 - 1188*x**2 - 119799*x - 76545 | factor_high_degree_polynomial###"}
-{"prompt": "Factor x**8 + 14*x**7 - 64*x**6 - 1662*x**5 - 4421*x**4 + 26704*x**3 + 94244*x**2 - 131520*x - 403200\n\n###\n\n", "completion": " x**8 + 14*x**7 - 64*x**6 - 1662*x**5 - 4421*x**4 + 26704*x**3 + 94244*x**2 - 131520*x - 403200 | factor_high_degree_polynomial###"}
-{"prompt": "Factor the polynomial (x + 4)*(x + 5)*(x**3 + 6*x**2 - 19*x - 84).\n\n###\n\n", "completion": " (x + 4)*(x + 5)*(x**3 + 6*x**2 - 19*x - 84) | factor_high_degree_polynomial###"}
-{"prompt": "Factor (x - 4)*(x + 1)*(x**4 - 24*x**3 + 203*x**2 - 696*x + 756)\n\n###\n\n", "completion": " (x - 4)*(x + 1)*(x**4 - 24*x**3 + 203*x**2 - 696*x + 756) | factor_high_degree_polynomial###"}
-{"prompt": "Find the factors of the polynomial x**3 - 3*x**2 - 6*x + 8.\n\n###\n\n", "completion": " x**3 - 3*x**2 - 6*x + 8 | factor_high_degree_polynomial###"}
-{"prompt": "x**9 - 35*x**8 + 466*x**7 - 2738*x**6 + 3997*x**5 + 31753*x**4 - 169056*x**3 + 331308*x**2 - 289008*x + 93312 Factor.\n\n###\n\n", "completion": " x**9 - 35*x**8 + 466*x**7 - 2738*x**6 + 3997*x**5 + 31753*x**4 - 169056*x**3 + 331308*x**2 - 289008*x + 93312 | factor_high_degree_polynomial###"}
-{"prompt": "Please factor the polynomial x**10 - 10*x**9 - 179*x**8 + 1754*x**7 + 11095*x**6 - 104398*x**5 - 280377*x**4 + 2527254*x**3 + 1781460*x**2 - 21432600*x + 17496000\n\n###\n\n", "completion": " x**10 - 10*x**9 - 179*x**8 + 1754*x**7 + 11095*x**6 - 104398*x**5 - 280377*x**4 + 2527254*x**3 + 1781460*x**2 - 21432600*x + 17496000 | factor_high_degree_polynomial###"}
-{"prompt": "Factor x**7 - 9*x**6 - 64*x**5 + 716*x**4 - 96*x**3 - 9536*x**2 + 6144*x + 36864\n\n###\n\n", "completion": " x**7 - 9*x**6 - 64*x**5 + 716*x**4 - 96*x**3 - 9536*x**2 + 6144*x + 36864 | factor_high_degree_polynomial###"}
-{"prompt": "x**10 + 35*x**9 + 398*x**8 + 494*x**7 - 24091*x**6 - 188545*x**5 - 431348*x**4 + 744576*x**3 + 5104800*x**2 + 7981200*x + 3888000 Factor.\n\n###\n\n", "completion": " x**10 + 35*x**9 + 398*x**8 + 494*x**7 - 24091*x**6 - 188545*x**5 - 431348*x**4 + 744576*x**3 + 5104800*x**2 + 7981200*x + 3888000 | factor_high_degree_polynomial###"}
-{"prompt": "Please factor the polynomial (x - 8)*(x + 7)*(x**2 + 6*x + 8)\n\n###\n\n", "completion": " (x - 8)*(x + 7)*(x**2 + 6*x + 8) | factor_high_degree_polynomial###"}
-{"prompt": "Please factor the polynomial x**9 + 8*x**8 - 45*x**7 - 474*x**6 - 141*x**5 + 6612*x**4 + 16685*x**3 + 6454*x**2 - 16500*x - 12600\n\n###\n\n", "completion": " x**9 + 8*x**8 - 45*x**7 - 474*x**6 - 141*x**5 + 6612*x**4 + 16685*x**3 + 6454*x**2 - 16500*x - 12600 | factor_high_degree_polynomial###"}
-{"prompt": "x**4 + x**3 - 123*x**2 - 81*x + 3402 Factor.\n\n###\n\n", "completion": " x**4 + x**3 - 123*x**2 - 81*x + 3402 | factor_high_degree_polynomial###"}
-{"prompt": "Please factor the polynomial (x + 1)*(x + 3)*(x + 7)\n\n###\n\n", "completion": " (x + 1)*(x + 3)*(x + 7) | factor_high_degree_polynomial###"}
-{"prompt": "Find the factorization of the polynomial x**4 - 7*x**3 - 90*x**2 + 700*x - 1000.\n\n###\n\n", "completion": " x**4 - 7*x**3 - 90*x**2 + 700*x - 1000 | factor_high_degree_polynomial###"}
-{"prompt": "Factor the polynomial x**5 + 5*x**4 - 143*x**3 - 741*x**2 + 5022*x + 27216.\n\n###\n\n", "completion": " x**5 + 5*x**4 - 143*x**3 - 741*x**2 + 5022*x + 27216 | factor_high_degree_polynomial###"}
-{"prompt": "Factor x**5 - 10*x**4 - 61*x**3 + 766*x**2 - 192*x - 8064\n\n###\n\n", "completion": " x**5 - 10*x**4 - 61*x**3 + 766*x**2 - 192*x - 8064 | factor_high_degree_polynomial###"}
-{"prompt": "Find the factorization of the polynomial (x - 10)*(x + 2)*(x**5 - 17*x**4 - 3*x**3 + 1313*x**2 - 6334*x + 5040).\n\n###\n\n", "completion": " (x - 10)*(x + 2)*(x**5 - 17*x**4 - 3*x**3 + 1313*x**2 - 6334*x + 5040) | factor_high_degree_polynomial###"}
-{"prompt": "Factor the polynomial x**4 - 9*x**3 - 10*x**2 + 228*x - 360\n\n###\n\n", "completion": " x**4 - 9*x**3 - 10*x**2 + 228*x - 360 | factor_high_degree_polynomial###"}
-{"prompt": "x**10 + 11*x**9 - 43*x**8 - 781*x**7 - 469*x**6 + 16709*x**5 + 32983*x**4 - 105039*x**3 - 259272*x**2 + 89100*x + 226800 Factor.\n\n###\n\n", "completion": " x**10 + 11*x**9 - 43*x**8 - 781*x**7 - 469*x**6 + 16709*x**5 + 32983*x**4 - 105039*x**3 - 259272*x**2 + 89100*x + 226800 | factor_high_degree_polynomial###"}
-{"prompt": "Factor -3*x - 8\n\n###\n\n", "completion": " -3*x - 8 | factor_simple###"}
-{"prompt": "Find the factors of the polynomial 4*x - 10.\n\n###\n\n", "completion": " 4*x - 10 | factor_simple###"}
-{"prompt": "Find the factors of the polynomial -4*x - 4.\n\n###\n\n", "completion": " -4*x - 4 | factor_simple###"}
-{"prompt": "Please factor the polynomial 4 - 10*x\n\n###\n\n", "completion": " 4 - 10*x | factor_simple###"}
-{"prompt": "8 - 8*x Factor.\n\n###\n\n", "completion": " 8 - 8*x | factor_simple###"}
-{"prompt": "Factor the polynomial 2*x - 10.\n\n###\n\n", "completion": " 2*x - 10 | factor_simple###"}
-{"prompt": "Factor 7*x - 7\n\n###\n\n", "completion": " 7*x - 7 | factor_simple###"}
-{"prompt": "Factor the polynomial 6*x - 6\n\n###\n\n", "completion": " 6*x - 6 | factor_simple###"}
-{"prompt": "Factor 3*x + 1\n\n###\n\n", "completion": " 3*x + 1 | factor_simple###"}
-{"prompt": "Find the factors of the polynomial 3 - 3*x.\n\n###\n\n", "completion": " 3 - 3*x | factor_simple###"}
-{"prompt": "Factor 4 - 5*x\n\n###\n\n", "completion": " 4 - 5*x | factor_simple###"}
-{"prompt": "Factor 8*x + 2\n\n###\n\n", "completion": " 8*x + 2 | factor_simple###"}
-{"prompt": "-5*x - 9 Factor.\n\n###\n\n", "completion": " -5*x - 9 | factor_simple###"}
-{"prompt": "Find the factors of the polynomial -6*x - 2.\n\n###\n\n", "completion": " -6*x - 2 | factor_simple###"}
-{"prompt": "-5*x - 3 Factor.\n\n###\n\n", "completion": " -5*x - 3 | factor_simple###"}
-{"prompt": "Please factor the polynomial -8*x - 6\n\n###\n\n", "completion": " -8*x - 6 | factor_simple###"}
-{"prompt": "Find the factors of the polynomial 3*x + 1.\n\n###\n\n", "completion": " 3*x + 1 | factor_simple###"}
-{"prompt": "Find the factorization of the polynomial 5*x - 6.\n\n###\n\n", "completion": " 5*x - 6 | factor_simple###"}
-{"prompt": "8 - 8*x Factor.\n\n###\n\n", "completion": " 8 - 8*x | factor_simple###"}
-{"prompt": "Factor the polynomial 9*x + 2.\n\n###\n\n", "completion": " 9*x + 2 | factor_simple###"}
-{"prompt": "Find the factorization of the polynomial -x - 1.\n\n###\n\n", "completion": " -x - 1 | factor_simple###"}
-{"prompt": "Factor 2*x - 10\n\n###\n\n", "completion": " 2*x - 10 | factor_simple###"}
-{"prompt": "Factor the polynomial -10*x - 7.\n\n###\n\n", "completion": " -10*x - 7 | factor_simple###"}
-{"prompt": "6*x + 3 Factor.\n\n###\n\n", "completion": " 6*x + 3 | factor_simple###"}
-{"prompt": "Please factor the polynomial -x - 5\n\n###\n\n", "completion": " -x - 5 | factor_simple###"}
-{"prompt": "Please factor the polynomial 8 - 7*x\n\n###\n\n", "completion": " 8 - 7*x | factor_simple###"}
-{"prompt": "Please factor the polynomial 4*x - 10\n\n###\n\n", "completion": " 4*x - 10 | factor_simple###"}
-{"prompt": "Factor 9*x + 9\n\n###\n\n", "completion": " 9*x + 9 | factor_simple###"}
-{"prompt": "Factor -6*x - 10\n\n###\n\n", "completion": " -6*x - 10 | factor_simple###"}
-{"prompt": "7*x + 5 Factor.\n\n###\n\n", "completion": " 7*x + 5 | factor_simple###"}
-{"prompt": "Find the factorization of the polynomial 9*x + 6.\n\n###\n\n", "completion": " 9*x + 6 | factor_simple###"}
-{"prompt": "Find the factors of the polynomial 3 - 9*x.\n\n###\n\n", "completion": " 3 - 9*x | factor_simple###"}
-{"prompt": "Please factor the polynomial 1 - x\n\n###\n\n", "completion": " 1 - x | factor_simple###"}
-{"prompt": "Please factor the polynomial -7*x - 7\n\n###\n\n", "completion": " -7*x - 7 | factor_simple###"}
-{"prompt": "9*x + 2 Factor.\n\n###\n\n", "completion": " 9*x + 2 | factor_simple###"}
-{"prompt": "Factor the polynomial -9*x - 1.\n\n###\n\n", "completion": " -9*x - 1 | factor_simple###"}
-{"prompt": "Factor the polynomial 2*x + 2\n\n###\n\n", "completion": " 2*x + 2 | factor_simple###"}
-{"prompt": "Find the factorization of the polynomial 7*x + 6.\n\n###\n\n", "completion": " 7*x + 6 | factor_simple###"}
-{"prompt": "Find the factorization of the polynomial 2*x + 4.\n\n###\n\n", "completion": " 2*x + 4 | factor_simple###"}
-{"prompt": "Factor 8*x + 4\n\n###\n\n", "completion": " 8*x + 4 | factor_simple###"}
-{"prompt": "Find the factorization of the polynomial 1 - x.\n\n###\n\n", "completion": " 1 - x | factor_simple###"}
-{"prompt": "Factor the polynomial 3*x - 3\n\n###\n\n", "completion": " 3*x - 3 | factor_simple###"}
-{"prompt": "Factor the polynomial 4*x - 10.\n\n###\n\n", "completion": " 4*x - 10 | factor_simple###"}
-{"prompt": "Factor the polynomial -7*x - 6.\n\n###\n\n", "completion": " -7*x - 6 | factor_simple###"}
-{"prompt": "Factor the polynomial -8*x - 9.\n\n###\n\n", "completion": " -8*x - 9 | factor_simple###"}
-{"prompt": "4*x - 8 Factor.\n\n###\n\n", "completion": " 4*x - 8 | factor_simple###"}
-{"prompt": "Please factor the polynomial 5*x + 8\n\n###\n\n", "completion": " 5*x + 8 | factor_simple###"}
-{"prompt": "Factor -4*x - 10\n\n###\n\n", "completion": " -4*x - 10 | factor_simple###"}
-{"prompt": "2*x - 8 Factor.\n\n###\n\n", "completion": " 2*x - 8 | factor_simple###"}
-{"prompt": "Please factor the polynomial -2*x - 4\n\n###\n\n", "completion": " -2*x - 4 | factor_simple###"}
-{"prompt": "Solve. 9*x + 3 = -9*x - 2\n\n###\n\n", "completion": " 9*x + 3 = -9*x - 2 | solve_simple###"}
-{"prompt": "Algebraically solve 5*x - 2 = 5*x + 10\n\n###\n\n", "completion": " 5*x - 2 = 5*x + 10 | solve_simple###"}
-{"prompt": "Solve. -10*x - 1 = 0\n\n###\n\n", "completion": " -10*x - 1 = 0 | solve_simple###"}
-{"prompt": "Solve. 3 - 10*x = 0\n\n###\n\n", "completion": " 3 - 10*x = 0 | solve_simple###"}
-{"prompt": "Algebraically solve -3*x - 9 = 0\n\n###\n\n", "completion": " -3*x - 9 = 0 | solve_simple###"}
-{"prompt": "Solve for x. 10 - 6*x = 0.\n\n###\n\n", "completion": " 10 - 6*x = 0 | solve_simple###"}
-{"prompt": "Solve. -5*x - 3 = 8*x - 5\n\n###\n\n", "completion": " -5*x - 3 = 8*x - 5 | solve_simple###"}
-{"prompt": "Find the roots of 7*x - 2 = 0.\n\n###\n\n", "completion": " 7*x - 2 = 0 | solve_simple###"}
-{"prompt": "Solve. 4*x + 4 = 0\n\n###\n\n", "completion": " 4*x + 4 = 0 | solve_simple###"}
-{"prompt": "Solve for x. 2*x - 1 = 0.\n\n###\n\n", "completion": " 2*x - 1 = 0 | solve_simple###"}
-{"prompt": "Solve for x. 1 - x = 0.\n\n###\n\n", "completion": " 1 - x = 0 | solve_simple###"}
-{"prompt": "Find the roots of -x - 7 = 0.\n\n###\n\n", "completion": " -x - 7 = 0 | solve_simple###"}
-{"prompt": "Solve. 9*x - 5 = -8*x - 5\n\n###\n\n", "completion": " 9*x - 5 = -8*x - 5 | solve_simple###"}
-{"prompt": "Algebraically solve 1 - 3*x = 0\n\n###\n\n", "completion": " 1 - 3*x = 0 | solve_simple###"}
-{"prompt": "Find the roots of -x - 9 = 0.\n\n###\n\n", "completion": " -x - 9 = 0 | solve_simple###"}
-{"prompt": "6 - 9*x = 0 Solve the equation.\n\n###\n\n", "completion": " 6 - 9*x = 0 | solve_simple###"}
-{"prompt": "Find the roots of 7*x + 5 = 0.\n\n###\n\n", "completion": " 7*x + 5 = 0 | solve_simple###"}
-{"prompt": "Algebraically solve 5*x - 5 = -7*x - 4\n\n###\n\n", "completion": " 5*x - 5 = -7*x - 4 | solve_simple###"}
-{"prompt": "6 - 6*x = 0 Solve the equation.\n\n###\n\n", "completion": " 6 - 6*x = 0 | solve_simple###"}
-{"prompt": "Find the roots of -9*x - 4 = 0.\n\n###\n\n", "completion": " -9*x - 4 = 0 | solve_simple###"}
-{"prompt": "Solve for x. -9*x = 0.\n\n###\n\n", "completion": " -9*x = 0 | solve_simple###"}
-{"prompt": "Solve for x. 9 - 7*x = 0.\n\n###\n\n", "completion": " 9 - 7*x = 0 | solve_simple###"}
-{"prompt": "Find the roots of 9*x - 4 = 0.\n\n###\n\n", "completion": " 9*x - 4 = 0 | solve_simple###"}
-{"prompt": "Algebraically solve 5*x + 5 = 2*x - 8\n\n###\n\n", "completion": " 5*x + 5 = 2*x - 8 | solve_simple###"}
-{"prompt": "Solve. -7*x - 1 = 0\n\n###\n\n", "completion": " -7*x - 1 = 0 | solve_simple###"}
-{"prompt": "Solve for x. 9 - 4*x = 0.\n\n###\n\n", "completion": " 9 - 4*x = 0 | solve_simple###"}
-{"prompt": "Find the roots of 3*x - 4 = 0.\n\n###\n\n", "completion": " 3*x - 4 = 0 | solve_simple###"}
-{"prompt": "Solve for x. 6*x + 6 = 0.\n\n###\n\n", "completion": " 6*x + 6 = 0 | solve_simple###"}
-{"prompt": "Solve. 8*x - 5 = -9*x - 7\n\n###\n\n", "completion": " 8*x - 5 = -9*x - 7 | solve_simple###"}
-{"prompt": "Find the roots of 4*x - 3 = 1 - x.\n\n###\n\n", "completion": " 4*x - 3 = 1 - x | solve_simple###"}
-{"prompt": "Solve for x. -3*x - 4 = 8*x - 9.\n\n###\n\n", "completion": " -3*x - 4 = 8*x - 9 | solve_simple###"}
-{"prompt": "Solve. -6*x - 9 = 0\n\n###\n\n", "completion": " -6*x - 9 = 0 | solve_simple###"}
-{"prompt": "2 - 2*x = 0 Solve the equation.\n\n###\n\n", "completion": " 2 - 2*x = 0 | solve_simple###"}
-{"prompt": "6 - 10*x = 2*x Solve the equation.\n\n###\n\n", "completion": " 6 - 10*x = 2*x | solve_simple###"}
-{"prompt": "Solve. -9*x - 8 = 8*x - 7\n\n###\n\n", "completion": " -9*x - 8 = 8*x - 7 | solve_simple###"}
-{"prompt": "Solve. 4*x + 4 = 2 - 3*x\n\n###\n\n", "completion": " 4*x + 4 = 2 - 3*x | solve_simple###"}
-{"prompt": "-6*x - 10 = 0 Solve the equation.\n\n###\n\n", "completion": " -6*x - 10 = 0 | solve_simple###"}
-{"prompt": "-8*x - 6 = 0 Solve the equation.\n\n###\n\n", "completion": " -8*x - 6 = 0 | solve_simple###"}
-{"prompt": "Find the roots of 8*x - 8 = 0.\n\n###\n\n", "completion": " 8*x - 8 = 0 | solve_simple###"}
-{"prompt": "Algebraically solve 6*x + 6 = 0\n\n###\n\n", "completion": " 6*x + 6 = 0 | solve_simple###"}
-{"prompt": "Solve for x. 5*x + 7 = 0.\n\n###\n\n", "completion": " 5*x + 7 = 0 | solve_simple###"}
-{"prompt": "-4*x - 5 = 8*x + 3 Solve the equation.\n\n###\n\n", "completion": " -4*x - 5 = 8*x + 3 | solve_simple###"}
-{"prompt": "9 - 4*x = 0 Solve the equation.\n\n###\n\n", "completion": " 9 - 4*x = 0 | solve_simple###"}
-{"prompt": "9*x + 4 = 0 Solve the equation.\n\n###\n\n", "completion": " 9*x + 4 = 0 | solve_simple###"}
-{"prompt": "Algebraically solve 6 - 9*x = 0\n\n###\n\n", "completion": " 6 - 9*x = 0 | solve_simple###"}
-{"prompt": "-5*x - 10 = 0 Solve the equation.\n\n###\n\n", "completion": " -5*x - 10 = 0 | solve_simple###"}
-{"prompt": "Algebraically solve 9*x + 9 = 1 - 3*x\n\n###\n\n", "completion": " 9*x + 9 = 1 - 3*x | solve_simple###"}
-{"prompt": "6*x - 10 = 0 Solve the equation.\n\n###\n\n", "completion": " 6*x - 10 = 0 | solve_simple###"}
-{"prompt": "Algebraically solve 7*x - 8 = 3*x - 9\n\n###\n\n", "completion": " 7*x - 8 = 3*x - 9 | solve_simple###"}
-{"prompt": "Solve. 2 - 10*x = 0\n\n###\n\n", "completion": " 2 - 10*x = 0 | solve_simple###"}
-{"prompt": "Please factor the polynomial -7*x**2 - 10*x - 9 = 0\n\n###\n\n", "completion": " -7*x**2 - 10*x - 9 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Please factor the polynomial -x**2 + 8*x - 6 = 0\n\n###\n\n", "completion": " -x**2 + 8*x - 6 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Find the roots of 4*x**2 + 3*x + 9 = 0.\n\n###\n\n", "completion": " 4*x**2 + 3*x + 9 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Use the quadratic equation to solve for x -6*x**2 - 7*x - 4 = 0.\n\n###\n\n", "completion": " -6*x**2 - 7*x - 4 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Solve. 4*x**2 - 7 = 0.\n\n###\n\n", "completion": " 4*x**2 - 7 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Use the quadratic equation to solve for x 8*x**2 - 10*x - 7 = 0.\n\n###\n\n", "completion": " 8*x**2 - 10*x - 7 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Find the roots of -4*x**2 - 3*x + 10 = 0.\n\n###\n\n", "completion": " -4*x**2 - 3*x + 10 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Please factor the polynomial -4*x**2 + 8*x - 10 = 0\n\n###\n\n", "completion": " -4*x**2 + 8*x - 10 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Please factor the polynomial 3*x**2 - 5*x - 6 = 0\n\n###\n\n", "completion": " 3*x**2 - 5*x - 6 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Find the roots of 7 - 6*x**2 = 6 - 2*x.\n\n###\n\n", "completion": " 7 - 6*x**2 = 6 - 2*x | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "5*x**2 - 2*x + 7 = 0 Solve.\n\n###\n\n", "completion": " 5*x**2 - 2*x + 7 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Solve. -8*x**2 + 2*x + 6 = 0.\n\n###\n\n", "completion": " -8*x**2 + 2*x + 6 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "equate to 0 and solve 8*x**2 + 4*x + 10 = 0\n\n###\n\n", "completion": " 8*x**2 + 4*x + 10 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Solve for x. -8*x**2 - 10*x - 5 = 0.\n\n###\n\n", "completion": " -8*x**2 - 10*x - 5 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Solve. 3*x**2 + 3*x - 2 = 0.\n\n###\n\n", "completion": " 3*x**2 + 3*x - 2 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Please factor the polynomial -2*x**2 + 7*x + 3 = 9*x + 3\n\n###\n\n", "completion": " -2*x**2 + 7*x + 3 = 9*x + 3 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Solve for x. -6*x**2 + 5*x + 5 = 9*x**2 - 6*x - 8.\n\n###\n\n", "completion": " -6*x**2 + 5*x + 5 = 9*x**2 - 6*x - 8 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "5*x**2 + 4*x = 0 Solve.\n\n###\n\n", "completion": " 5*x**2 + 4*x = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "-8*x**2 + 4*x + 2 = 4*x + 5 Solve.\n\n###\n\n", "completion": " -8*x**2 + 4*x + 2 = 4*x + 5 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Solve for x. -2*x**2 + 3*x - 8 = 0.\n\n###\n\n", "completion": " -2*x**2 + 3*x - 8 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "6*x**2 - 10*x - 5 = 0 Solve.\n\n###\n\n", "completion": " 6*x**2 - 10*x - 5 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Solve for x. -6*x**2 - 10*x - 6 = 0.\n\n###\n\n", "completion": " -6*x**2 - 10*x - 6 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Solve for x. -9*x**2 - 8*x + 8 = 0.\n\n###\n\n", "completion": " -9*x**2 - 8*x + 8 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "-2*x**2 - 2*x + 3 = 0 Solve.\n\n###\n\n", "completion": " -2*x**2 - 2*x + 3 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "equate to 0 and solve -6*x**2 - 3*x - 3 = 0\n\n###\n\n", "completion": " -6*x**2 - 3*x - 3 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Please factor the polynomial -6*x**2 + x - 4 = 0\n\n###\n\n", "completion": " -6*x**2 + x - 4 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Please factor the polynomial 6 - 5*x**2 = 0\n\n###\n\n", "completion": " 6 - 5*x**2 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "4*x**2 - 10*x + 7 = 0 Solve.\n\n###\n\n", "completion": " 4*x**2 - 10*x + 7 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "equate to 0 and solve 4*x**2 + 8*x + 10 = -5*x**2 + 7*x + 5\n\n###\n\n", "completion": " 4*x**2 + 8*x + 10 = -5*x**2 + 7*x + 5 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Please factor the polynomial 9*x**2 - 2*x + 3 = 0\n\n###\n\n", "completion": " 9*x**2 - 2*x + 3 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Solve. 1 - 7*x**2 = 2*x**2 + x + 5.\n\n###\n\n", "completion": " 1 - 7*x**2 = 2*x**2 + x + 5 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Use the quadratic equation to solve for x -3*x**2 - 3*x + 7 = 0.\n\n###\n\n", "completion": " -3*x**2 - 3*x + 7 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Solve. -3*x**2 - 3*x + 8 = 0.\n\n###\n\n", "completion": " -3*x**2 - 3*x + 8 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Please factor the polynomial 8*x**2 + 6*x - 10 = 0\n\n###\n\n", "completion": " 8*x**2 + 6*x - 10 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Solve. -10*x**2 - 2*x + 1 = 0.\n\n###\n\n", "completion": " -10*x**2 - 2*x + 1 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Solve for x. -8*x**2 - 6*x + 7 = 0.\n\n###\n\n", "completion": " -8*x**2 - 6*x + 7 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "-9*x**2 + 3*x - 7 = 5*x + 4 Solve.\n\n###\n\n", "completion": " -9*x**2 + 3*x - 7 = 5*x + 4 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Solve for x. -x**2 - 2*x - 6 = 0.\n\n###\n\n", "completion": " -x**2 - 2*x - 6 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Use the quadratic equation to solve for x -9*x**2 - 4*x - 4 = -3*x**2 + 6*x + 6.\n\n###\n\n", "completion": " -9*x**2 - 4*x - 4 = -3*x**2 + 6*x + 6 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Solve for x. 9*x**2 - 7*x + 7 = 0.\n\n###\n\n", "completion": " 9*x**2 - 7*x + 7 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "-8*x**2 - 9*x + 2 = 0 Solve.\n\n###\n\n", "completion": " -8*x**2 - 9*x + 2 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Use the quadratic equation to solve for x 3*x**2 + 4*x - 7 = -5*x**2 - 10*x - 3.\n\n###\n\n", "completion": " 3*x**2 + 4*x - 7 = -5*x**2 - 10*x - 3 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Use the quadratic equation to solve for x -9*x**2 - 5*x - 1 = 0.\n\n###\n\n", "completion": " -9*x**2 - 5*x - 1 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "-2*x**2 - 2*x - 9 = -8*x**2 - 10*x - 3 Solve.\n\n###\n\n", "completion": " -2*x**2 - 2*x - 9 = -8*x**2 - 10*x - 3 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "equate to 0 and solve -8*x**2 + 4*x - 2 = 0\n\n###\n\n", "completion": " -8*x**2 + 4*x - 2 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Solve for x. 5*x**2 - 8*x - 9 = 0.\n\n###\n\n", "completion": " 5*x**2 - 8*x - 9 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Find the roots of 7*x**2 + 6*x + 9 = -x - 7.\n\n###\n\n", "completion": " 7*x**2 + 6*x + 9 = -x - 7 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Use the quadratic equation to solve for x 4*x**2 - 7*x - 10 = 0.\n\n###\n\n", "completion": " 4*x**2 - 7*x - 10 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "Find the roots of -7*x**2 - 2 = 0.\n\n###\n\n", "completion": " -7*x**2 - 2 = 0 | quadratic_polynomial_root_quadratic_equation###"}
-{"prompt": "3*x**2 + 3*x + 5 = 0 Solve.\n\n###\n\n", "completion": " 3*x**2 + 3*x + 5 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Factor the polynomial x^*2 - 2x - 35.\n\n###\n\n","completion":" x**2 - 2*x - 35 | factor_simple_polynomial###"}
+{"prompt":"Find the factorization of the polynomial x^*2 - 16x + 60.\n\n###\n\n","completion":" x**2 - 16*x + 60 | factor_simple_polynomial###"}
+{"prompt":"Factor x**2 + 15*x + 56\n\n###\n\n","completion":" x**2 + 15*x + 56 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial (x - 8)*(x + 1).\n\n###\n\n","completion":" (x - 8)*(x + 1) | factor_simple_polynomial###"}
+{"prompt":"x**2 + 7*x - 8 Factor.\n\n###\n\n","completion":" x**2 + 7*x - 8 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial x^*2 - 7x + 6.\n\n###\n\n","completion":" x**2 - 7*x + 6 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial x^*2 - 8x + 7.\n\n###\n\n","completion":" x**2 - 8*x + 7 | factor_simple_polynomial###"}
+{"prompt":"Please factor the polynomial x^*2 + 5x - 36\n\n###\n\n","completion":" x**2 + 5*x - 36 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial x**2 - 3x - 54.\n\n###\n\n","completion":" x**2 - 3*x - 54 | factor_simple_polynomial###"}
+{"prompt":"Factor x**2 - 7*x + 12\n\n###\n\n","completion":" x**2 - 7*x + 12 | factor_simple_polynomial###"}
+{"prompt":"Find the factorization of the polynomial x^*2 + 10*x + 21.\n\n###\n\n","completion":" x**2 + 10*x + 21 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial (x - 2)*(x + 8).\n\n###\n\n","completion":" (x - 2)*(x + 8) | factor_simple_polynomial###"}
+{"prompt":"x^*2 - 7x + 10 Factor.\n\n###\n\n","completion":" x**2 - 7*x + 10 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial x^*2 + 6*x - 7.\n\n###\n\n","completion":" x**2 + 6*x - 7 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial x^*2 - 4*x + 3\n\n###\n\n","completion":" x**2 - 4*x + 3 | factor_simple_polynomial###"}
+{"prompt":"Find the factors of the polynomial x**2 - 15*x + 56.\n\n###\n\n","completion":" x**2 - 15*x + 56 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial x^*2 - 2*x - 24\n\n###\n\n","completion":" x**2 - 2*x - 24 | factor_simple_polynomial###"}
+{"prompt":"Find the factorization of the polynomial x**2 - 14*x + 40.\n\n###\n\n","completion":" x**2 - 14*x + 40 | factor_simple_polynomial###"}
+{"prompt":"x**2 + 15x + 56 Factor.\n\n###\n\n","completion":" x**2 + 15*x + 56 | factor_simple_polynomial###"}
+{"prompt":"Please factor the polynomial x^*2 + 5*x - 24\n\n###\n\n","completion":" x**2 + 5*x - 24 | factor_simple_polynomial###"}
+{"prompt":"x^*2 - 4x - 12 Factor.\n\n###\n\n","completion":" x**2 - 4*x - 12 | factor_simple_polynomial###"}
+{"prompt":"Please factor the polynomial x^*2 + 16*x + 60\n\n###\n\n","completion":" x**2 + 16*x + 60 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial x**2 + 9x + 8.\n\n###\n\n","completion":" x**2 + 9*x + 8 | factor_simple_polynomial###"}
+{"prompt":"Find the factorization of the polynomial x^*2 + x - 42.\n\n###\n\n","completion":" x**2 + x - 42 | factor_simple_polynomial###"}
+{"prompt":"Please factor the polynomial x**2 - 49\n\n###\n\n","completion":" x**2 - 49 | factor_simple_polynomial###"}
+{"prompt":"Find the factors of the polynomial x**2 + 6x + 8.\n\n###\n\n","completion":" x**2 + 6*x + 8 | factor_simple_polynomial###"}
+{"prompt":"Find the factorization of the polynomial x**2 + 7x - 8.\n\n###\n\n","completion":" x**2 + 7*x - 8 | factor_simple_polynomial###"}
+{"prompt":"Factor (x - 6)*(x + 7)\n\n###\n\n","completion":" (x - 6)*(x + 7) | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial (x - 3)(x + 6).\n\n###\n\n","completion":" (x - 3)*(x + 6) | factor_simple_polynomial###"}
+{"prompt":"x**2 - 5x + 6 Factor.\n\n###\n\n","completion":" x**2 - 5*x + 6 | factor_simple_polynomial###"}
+{"prompt":"Please factor the polynomial x^*2 + 8*x + 12\n\n###\n\n","completion":" x**2 + 8*x + 12 | factor_simple_polynomial###"}
+{"prompt":"Please factor the polynomial x**2 + 9x + 8\n\n###\n\n","completion":" x**2 + 9*x + 8 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial x^*2 - 7x - 18.\n\n###\n\n","completion":" x**2 - 7*x - 18 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial (x + 2)(x + 7).\n\n###\n\n","completion":" (x + 2)*(x + 7) | factor_simple_polynomial###"}
+{"prompt":"Please factor the polynomial x^*2 + 2x - 3\n\n###\n\n","completion":" x**2 + 2*x - 3 | factor_simple_polynomial###"}
+{"prompt":"Factor x^*2 + 5*x + 6\n\n###\n\n","completion":" x**2 + 5*x + 6 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial x**2 + 11*x + 24\n\n###\n\n","completion":" x**2 + 11*x + 24 | factor_simple_polynomial###"}
+{"prompt":"Please factor the polynomial x^*2 - 4*x - 45\n\n###\n\n","completion":" x**2 - 4*x - 45 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial x^*2 + 10x + 24.\n\n###\n\n","completion":" x**2 + 10*x + 24 | factor_simple_polynomial###"}
+{"prompt":"Find the factors of the polynomial x^*2 - 12*x + 32.\n\n###\n\n","completion":" x**2 - 12*x + 32 | factor_simple_polynomial###"}
+{"prompt":"Factor x^*2 + 5*x - 50\n\n###\n\n","completion":" x**2 + 5*x - 50 | factor_simple_polynomial###"}
+{"prompt":"x^*2 + 14*x + 48 Factor.\n\n###\n\n","completion":" x**2 + 14*x + 48 | factor_simple_polynomial###"}
+{"prompt":"Find the factorization of the polynomial x^*2 - 13*x + 40.\n\n###\n\n","completion":" x**2 - 13*x + 40 | factor_simple_polynomial###"}
+{"prompt":"Find the factorization of the polynomial x**2 + 20*x + 100.\n\n###\n\n","completion":" x**2 + 20*x + 100 | factor_simple_polynomial###"}
+{"prompt":"x**2 - x - 56 Factor.\n\n###\n\n","completion":" x**2 - x - 56 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial x**2 + 4x - 21.\n\n###\n\n","completion":" x**2 + 4*x - 21 | factor_simple_polynomial###"}
+{"prompt":"Find the factors of the polynomial x^*2 - 15*x + 50.\n\n###\n\n","completion":" x**2 - 15*x + 50 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial (x - 9)(x - 4)\n\n###\n\n","completion":" (x - 9)*(x - 4) | factor_simple_polynomial###"}
+{"prompt":"x^*2 - 8x + 7 Factor.\n\n###\n\n","completion":" x**2 - 8*x + 7 | factor_simple_polynomial###"}
+{"prompt":"Find the factorization of the polynomial x**2 - 4*x - 32.\n\n###\n\n","completion":" x**2 - 4*x - 32 | factor_simple_polynomial###"}
+{"prompt":"Factor the polynomial 25 - 9x**2.\n\n###\n\n","completion":" 25 - 9*x**2 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor 36*x^*2 - 122*x + 80\n\n###\n\n","completion":" 36*x**2 - 122*x + 80 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor the polynomial 7*x**2 - 67*x - 30.\n\n###\n\n","completion":" 7*x**2 - 67*x - 30 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factors of the polynomial 42x^*2 + 94x + 40.\n\n###\n\n","completion":" 42*x**2 + 94*x + 40 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor -8*x**2 + 4*x + 24\n\n###\n\n","completion":" -8*x**2 + 4*x + 24 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factors of the polynomial -25x^*2 + 5*x + 2.\n\n###\n\n","completion":" -25*x**2 + 5*x + 2 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factorization of the polynomial 27x^*2 + 18x - 9.\n\n###\n\n","completion":" 27*x**2 + 18*x - 9 | factor_simple_nonone_polynomial###"}
+{"prompt":"(-10x - 5)*(2*x + 8) Factor.\n\n###\n\n","completion":" (-10*x - 5)*(2*x + 8) | factor_simple_nonone_polynomial###"}
+{"prompt":"Please factor the polynomial -18x**2 - 32x + 8\n\n###\n\n","completion":" -18*x**2 - 32*x + 8 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor the polynomial -35x^*2 + 25*x + 10.\n\n###\n\n","completion":" -35*x**2 + 25*x + 10 | factor_simple_nonone_polynomial###"}
+{"prompt":"32 - 18*x**2 Factor.\n\n###\n\n","completion":" 32 - 18*x**2 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor the polynomial -21x^*2 - 67*x + 10\n\n###\n\n","completion":" -21*x**2 - 67*x + 10 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factorization of the polynomial -63*x^*2 + 96x - 36.\n\n###\n\n","completion":" -63*x**2 + 96*x - 36 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factors of the polynomial -16x^*2 - 96x - 80.\n\n###\n\n","completion":" -16*x**2 - 96*x - 80 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factors of the polynomial -40*x^*2 - 28x - 4.\n\n###\n\n","completion":" -40*x**2 - 28*x - 4 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor 36x**2 - 7x - 4\n\n###\n\n","completion":" 36*x**2 - 7*x - 4 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor the polynomial 9*(2*x + 10)*(3x + 3)\n\n###\n\n","completion":" 9*(2*x + 10)*(3*x + 3) | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factorization of the polynomial 63x^*2 - 16*x - 60.\n\n###\n\n","completion":" 63*x**2 - 16*x - 60 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor the polynomial 24x**2 + 6*x - 63.\n\n###\n\n","completion":" 24*x**2 + 6*x - 63 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factors of the polynomial -20*x^*2 + 3*x + 2.\n\n###\n\n","completion":" -20*x**2 + 3*x + 2 | factor_simple_nonone_polynomial###"}
+{"prompt":"2*(10 - 10*x)(8*x + 10) Factor.\n\n###\n\n","completion":" 2*(10 - 10*x)*(8*x + 10) | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factors of the polynomial 18*x^*2 + 45*x + 28.\n\n###\n\n","completion":" 18*x**2 + 45*x + 28 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor the polynomial (-5*x - 9)(9x + 3)\n\n###\n\n","completion":" (-5*x - 9)*(9*x + 3) | factor_simple_nonone_polynomial###"}
+{"prompt":"-63*x^*2 + 139x - 70 Factor.\n\n###\n\n","completion":" -63*x**2 + 139*x - 70 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor 10*x**2 + 4*x - 6\n\n###\n\n","completion":" 10*x**2 + 4*x - 6 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor 3*(7 - 2x)(8*x + 2)\n\n###\n\n","completion":" 3*(7 - 2*x)*(8*x + 2) | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factorization of the polynomial -25x**2 - 50*x - 9.\n\n###\n\n","completion":" -25*x**2 - 50*x - 9 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factorization of the polynomial -50x**2 - 20*x + 48.\n\n###\n\n","completion":" -50*x**2 - 20*x + 48 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor the polynomial 56x^*2 - 135*x + 81.\n\n###\n\n","completion":" 56*x**2 - 135*x + 81 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factorization of the polynomial (7 - 7*x)*(5x + 4).\n\n###\n\n","completion":" (7 - 7*x)*(5*x + 4) | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor the polynomial 48*x**2 + 14x - 45\n\n###\n\n","completion":" 48*x**2 + 14*x - 45 | factor_simple_nonone_polynomial###"}
+{"prompt":"Please factor the polynomial -4(6 - 6x)(-5x - 5)\n\n###\n\n","completion":" -4*(6 - 6*x)*(-5*x - 5) | factor_simple_nonone_polynomial###"}
+{"prompt":"-20x^*2 + 62*x - 6 Factor.\n\n###\n\n","completion":" -20*x**2 + 62*x - 6 | factor_simple_nonone_polynomial###"}
+{"prompt":"Please factor the polynomial -15*x^*2 - 24x + 63\n\n###\n\n","completion":" -15*x**2 - 24*x + 63 | factor_simple_nonone_polynomial###"}
+{"prompt":"-72x^*2 + 17x + 72 Factor.\n\n###\n\n","completion":" -72*x**2 + 17*x + 72 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor 4x**2 + 6x - 54\n\n###\n\n","completion":" 4*x**2 + 6*x - 54 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor the polynomial -64*x**2 - 80*x - 25.\n\n###\n\n","completion":" -64*x**2 - 80*x - 25 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor (7 - 9x)*(4x - 9)\n\n###\n\n","completion":" (7 - 9*x)*(4*x - 9) | factor_simple_nonone_polynomial###"}
+{"prompt":"24x^*2 - 77x - 10 Factor.\n\n###\n\n","completion":" 24*x**2 - 77*x - 10 | factor_simple_nonone_polynomial###"}
+{"prompt":"-20x^*2 - 7*x + 40 Factor.\n\n###\n\n","completion":" -20*x**2 - 7*x + 40 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factorization of the polynomial -90*x^*2 + 170x - 80.\n\n###\n\n","completion":" -90*x**2 + 170*x - 80 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor the polynomial 2(5 - 4x)*(-7x - 9).\n\n###\n\n","completion":" 2*(5 - 4*x)*(-7*x - 9) | factor_simple_nonone_polynomial###"}
+{"prompt":"14*x**2 + 59x - 18 Factor.\n\n###\n\n","completion":" 14*x**2 + 59*x - 18 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factorization of the polynomial 28x^*2 + 20*x - 72.\n\n###\n\n","completion":" 28*x**2 + 20*x - 72 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor 36x**2 - 82*x - 20\n\n###\n\n","completion":" 36*x**2 - 82*x - 20 | factor_simple_nonone_polynomial###"}
+{"prompt":"Please factor the polynomial -20x**2 - 22*x - 6\n\n###\n\n","completion":" -20*x**2 - 22*x - 6 | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor the polynomial 35*x**2 - 101*x + 72\n\n###\n\n","completion":" 35*x**2 - 101*x + 72 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factors of the polynomial (6 - 10x)(6 - 6*x).\n\n###\n\n","completion":" (6 - 10*x)*(6 - 6*x) | factor_simple_nonone_polynomial###"}
+{"prompt":"Factor the polynomial (10 - 7*x)*(-x - 10).\n\n###\n\n","completion":" (10 - 7*x)*(-x - 10) | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factorization of the polynomial 18*x**2 - 30x + 12.\n\n###\n\n","completion":" 18*x**2 - 30*x + 12 | factor_simple_nonone_polynomial###"}
+{"prompt":"Find the factorization of the polynomial (x - 8)(x + 4)(x^*8 + 3x^*7 - 204x^*6 - 348x**5 + 13248x**4 + 2640x^*3 - 299200x^*2 + 216000x + 1440000).\n\n###\n\n","completion":" (x - 8)*(x + 4)*(x**8 + 3*x**7 - 204*x**6 - 348*x**5 + 13248*x**4 + 2640*x**3 - 299200*x**2 + 216000*x + 1440000) | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x**5 + 12*x^*4 + 2x^*3 - 264x^*2 - 171*x + 1620.\n\n###\n\n","completion":" x**5 + 12*x**4 + 2*x**3 - 264*x**2 - 171*x + 1620 | factor_high_degree_polynomial###"}
+{"prompt":"x^*10 - 15*x**9 - 48x^*8 + 1618x^*7 - 5931*x^*6 - 11655x**5 + 74738x**4 - 14748x**3 - 164760x**2 + 24800x + 96000 Factor.\n\n###\n\n","completion":" x**10 - 15*x**9 - 48*x**8 + 1618*x**7 - 5931*x**6 - 11655*x**5 + 74738*x**4 - 14748*x**3 - 164760*x**2 + 24800*x + 96000 | factor_high_degree_polynomial###"}
+{"prompt":"Find the factors of the polynomial x**6 - 105*x**4 - 140*x**3 + 1764*x**2 + 1680x - 3200.\n\n###\n\n","completion":" x**6 - 105*x**4 - 140*x**3 + 1764*x**2 + 1680*x - 3200 | factor_high_degree_polynomial###"}
+{"prompt":"(x - 10)(x + 9)(x**4 - 6*x**3 - 36x**2 + 184*x - 192) Factor.\n\n###\n\n","completion":" (x - 10)*(x + 9)*(x**4 - 6*x**3 - 36*x**2 + 184*x - 192) | factor_high_degree_polynomial###"}
+{"prompt":"Please factor the polynomial (x + 7)*(x + 8)*(x^*3 + 11*x^*2 + 14x - 80)\n\n###\n\n","completion":" (x + 7)*(x + 8)*(x**3 + 11*x**2 + 14*x - 80) | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x**3 - 10x^*2 + 13*x + 24\n\n###\n\n","completion":" x**3 - 10*x**2 + 13*x + 24 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x^*3 - 7*x**2 - 36x + 252.\n\n###\n\n","completion":" x**3 - 7*x**2 - 36*x + 252 | factor_high_degree_polynomial###"}
+{"prompt":"Find the factorization of the polynomial x^*5 - 7x^*4 - 27*x^*3 + 203*x^*2 + 22x - 840.\n\n###\n\n","completion":" x**5 - 7*x**4 - 27*x**3 + 203*x**2 + 22*x - 840 | factor_high_degree_polynomial###"}
+{"prompt":"Find the factors of the polynomial x**9 - 23x^*8 + 65x^*7 + 2159*x**6 - 19326*x^*5 + 23028x**4 + 281480x^*3 - 905344x**2 + 112000x + 1254400.\n\n###\n\n","completion":" x**9 - 23*x**8 + 65*x**7 + 2159*x**6 - 19326*x**5 + 23028*x**4 + 281480*x**3 - 905344*x**2 + 112000*x + 1254400 | factor_high_degree_polynomial###"}
+{"prompt":"Find the factors of the polynomial x^*3 + 6*x**2 + 5x - 12.\n\n###\n\n","completion":" x**3 + 6*x**2 + 5*x - 12 | factor_high_degree_polynomial###"}
+{"prompt":"Find the factors of the polynomial x^*3 + 5*x**2 - 33x + 27.\n\n###\n\n","completion":" x**3 + 5*x**2 - 33*x + 27 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x**9 - 13x^*8 - 104*x**7 + 2082*x**6 - 2571*x^*5 - 82197x**4 + 352274*x^*3 + 423808*x^*2 - 4617760*x + 6585600\n\n###\n\n","completion":" x**9 - 13*x**8 - 104*x**7 + 2082*x**6 - 2571*x**5 - 82197*x**4 + 352274*x**3 + 423808*x**2 - 4617760*x + 6585600 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x^*6 + 5x**5 - 32*x**4 - 208x^*3 - 128*x**2 + 752x + 960\n\n###\n\n","completion":" x**6 + 5*x**5 - 32*x**4 - 208*x**3 - 128*x**2 + 752*x + 960 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial (x - 8)*(x + 4)(x^*6 - 5*x^*5 - 127x^*4 + 725x^*3 + 2826*x^*2 - 19620*x + 16200).\n\n###\n\n","completion":" (x - 8)*(x + 4)*(x**6 - 5*x**5 - 127*x**4 + 725*x**3 + 2826*x**2 - 19620*x + 16200) | factor_high_degree_polynomial###"}
+{"prompt":"Please factor the polynomial x**9 - 10x^*8 - 133x**7 + 1580x^*6 + 2435*x^*5 - 60970x**4 + 103573*x^*3 + 357480x**2 - 1038996x + 635040\n\n###\n\n","completion":" x**9 - 10*x**8 - 133*x**7 + 1580*x**6 + 2435*x**5 - 60970*x**4 + 103573*x**3 + 357480*x**2 - 1038996*x + 635040 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x**10 - 11x**9 - 115*x**8 + 1717x**7 + 611x**6 - 73229*x**5 + 202543*x**4 + 547047*x**3 - 2108160*x**2 - 475524x + 1905120\n\n###\n\n","completion":" x**10 - 11*x**9 - 115*x**8 + 1717*x**7 + 611*x**6 - 73229*x**5 + 202543*x**4 + 547047*x**3 - 2108160*x**2 - 475524*x + 1905120 | factor_high_degree_polynomial###"}
+{"prompt":"Please factor the polynomial x**3 + 20x^*2 + 121x + 210\n\n###\n\n","completion":" x**3 + 20*x**2 + 121*x + 210 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x**8 - 12x**7 - 50x**6 + 856*x**5 - 131*x^*4 - 13748*x**3 + 11340*x**2 + 42064*x - 40320\n\n###\n\n","completion":" x**8 - 12*x**7 - 50*x**6 + 856*x**5 - 131*x**4 - 13748*x**3 + 11340*x**2 + 42064*x - 40320 | factor_high_degree_polynomial###"}
+{"prompt":"x**4 + 13*x**3 + 7*x^*2 - 237*x + 216 Factor.\n\n###\n\n","completion":" x**4 + 13*x**3 + 7*x**2 - 237*x + 216 | factor_high_degree_polynomial###"}
+{"prompt":"x**5 + 30*x**4 + 319x^*3 + 1338x^*2 + 1192x - 2880 Factor.\n\n###\n\n","completion":" x**5 + 30*x**4 + 319*x**3 + 1338*x**2 + 1192*x - 2880 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x^*4 - 7x**3 - 47x**2 + 303*x - 378.\n\n###\n\n","completion":" x**4 - 7*x**3 - 47*x**2 + 303*x - 378 | factor_high_degree_polynomial###"}
+{"prompt":"Find the factors of the polynomial (x - 3)*(x + 4)*(x^*5 - 13x**4 - 21*x^*3 + 673*x**2 - 1420*x - 2100).\n\n###\n\n","completion":" (x - 3)*(x + 4)*(x**5 - 13*x**4 - 21*x**3 + 673*x**2 - 1420*x - 2100) | factor_high_degree_polynomial###"}
+{"prompt":"Find the factors of the polynomial x**10 - 14*x^*9 - 62*x^*8 + 1152*x**7 + 2253*x^*6 - 31266x**5 - 80608x^*4 + 234128*x^*3 + 1106576*x**2 + 1428960x + 604800.\n\n###\n\n","completion":" x**10 - 14*x**9 - 62*x**8 + 1152*x**7 + 2253*x**6 - 31266*x**5 - 80608*x**4 + 234128*x**3 + 1106576*x**2 + 1428960*x + 604800 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x**3 + 5x**2 - 22*x - 56.\n\n###\n\n","completion":" x**3 + 5*x**2 - 22*x - 56 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x^*5 + 11*x**4 + 4x^*3 - 244x^*2 - 752*x - 640\n\n###\n\n","completion":" x**5 + 11*x**4 + 4*x**3 - 244*x**2 - 752*x - 640 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x**3 + 8x**2 - 15*x - 54.\n\n###\n\n","completion":" x**3 + 8*x**2 - 15*x - 54 | factor_high_degree_polynomial###"}
+{"prompt":"Find the factorization of the polynomial x^*9 - 15x^*8 - 84x^*7 + 1878*x^*6 + 597*x^*5 - 73263x^*4 + 44414*x**3 + 942312*x**2 - 44928*x - 870912.\n\n###\n\n","completion":" x**9 - 15*x**8 - 84*x**7 + 1878*x**6 + 597*x**5 - 73263*x**4 + 44414*x**3 + 942312*x**2 - 44928*x - 870912 | factor_high_degree_polynomial###"}
+{"prompt":"Factor x**7 + 14x^*6 - 51x**5 - 1430x**4 - 3781*x**3 + 22506*x**2 + 109431*x + 119070\n\n###\n\n","completion":" x**7 + 14*x**6 - 51*x**5 - 1430*x**4 - 3781*x**3 + 22506*x**2 + 109431*x + 119070 | factor_high_degree_polynomial###"}
+{"prompt":"Find the factorization of the polynomial x^*4 + 16*x^*3 + 41*x^*2 - 274*x - 840.\n\n###\n\n","completion":" x**4 + 16*x**3 + 41*x**2 - 274*x - 840 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x**10 + 4*x**9 - 85x**8 - 438*x^*7 + 1819*x^*6 + 13736*x^*5 + 5925x**4 - 107822*x^*3 - 273580x**2 - 255400x - 84000.\n\n###\n\n","completion":" x**10 + 4*x**9 - 85*x**8 - 438*x**7 + 1819*x**6 + 13736*x**5 + 5925*x**4 - 107822*x**3 - 273580*x**2 - 255400*x - 84000 | factor_high_degree_polynomial###"}
+{"prompt":"Please factor the polynomial x^*9 + 39x**8 + 628x^*7 + 5388*x^*6 + 26398x**5 + 72306*x**4 + 92772*x^*3 - 1188x**2 - 119799x - 76545\n\n###\n\n","completion":" x**9 + 39*x**8 + 628*x**7 + 5388*x**6 + 26398*x**5 + 72306*x**4 + 92772*x**3 - 1188*x**2 - 119799*x - 76545 | factor_high_degree_polynomial###"}
+{"prompt":"Factor x**8 + 14x**7 - 64*x**6 - 1662x^*5 - 4421*x^*4 + 26704x**3 + 94244x**2 - 131520x - 403200\n\n###\n\n","completion":" x**8 + 14*x**7 - 64*x**6 - 1662*x**5 - 4421*x**4 + 26704*x**3 + 94244*x**2 - 131520*x - 403200 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial (x + 4)(x + 5)(x**3 + 6*x^*2 - 19x - 84).\n\n###\n\n","completion":" (x + 4)*(x + 5)*(x**3 + 6*x**2 - 19*x - 84) | factor_high_degree_polynomial###"}
+{"prompt":"Factor (x - 4)(x + 1)*(x^*4 - 24x^*3 + 203x^*2 - 696x + 756)\n\n###\n\n","completion":" (x - 4)*(x + 1)*(x**4 - 24*x**3 + 203*x**2 - 696*x + 756) | factor_high_degree_polynomial###"}
+{"prompt":"Find the factors of the polynomial x^*3 - 3x**2 - 6x + 8.\n\n###\n\n","completion":" x**3 - 3*x**2 - 6*x + 8 | factor_high_degree_polynomial###"}
+{"prompt":"x^*9 - 35*x**8 + 466x**7 - 2738x**6 + 3997*x**5 + 31753x**4 - 169056*x**3 + 331308x^*2 - 289008x + 93312 Factor.\n\n###\n\n","completion":" x**9 - 35*x**8 + 466*x**7 - 2738*x**6 + 3997*x**5 + 31753*x**4 - 169056*x**3 + 331308*x**2 - 289008*x + 93312 | factor_high_degree_polynomial###"}
+{"prompt":"Please factor the polynomial x^*10 - 10x**9 - 179x^*8 + 1754x^*7 + 11095x**6 - 104398*x^*5 - 280377*x**4 + 2527254*x**3 + 1781460x^*2 - 21432600*x + 17496000\n\n###\n\n","completion":" x**10 - 10*x**9 - 179*x**8 + 1754*x**7 + 11095*x**6 - 104398*x**5 - 280377*x**4 + 2527254*x**3 + 1781460*x**2 - 21432600*x + 17496000 | factor_high_degree_polynomial###"}
+{"prompt":"Factor x**7 - 9*x**6 - 64x**5 + 716*x^*4 - 96*x^*3 - 9536x^*2 + 6144x + 36864\n\n###\n\n","completion":" x**7 - 9*x**6 - 64*x**5 + 716*x**4 - 96*x**3 - 9536*x**2 + 6144*x + 36864 | factor_high_degree_polynomial###"}
+{"prompt":"x**10 + 35x^*9 + 398x^*8 + 494x**7 - 24091x^*6 - 188545x^*5 - 431348x**4 + 744576*x**3 + 5104800x**2 + 7981200*x + 3888000 Factor.\n\n###\n\n","completion":" x**10 + 35*x**9 + 398*x**8 + 494*x**7 - 24091*x**6 - 188545*x**5 - 431348*x**4 + 744576*x**3 + 5104800*x**2 + 7981200*x + 3888000 | factor_high_degree_polynomial###"}
+{"prompt":"Please factor the polynomial (x - 8)*(x + 7)*(x**2 + 6x + 8)\n\n###\n\n","completion":" (x - 8)*(x + 7)*(x**2 + 6*x + 8) | factor_high_degree_polynomial###"}
+{"prompt":"Please factor the polynomial x**9 + 8*x^*8 - 45x^*7 - 474x**6 - 141*x^*5 + 6612*x^*4 + 16685x^*3 + 6454x**2 - 16500*x - 12600\n\n###\n\n","completion":" x**9 + 8*x**8 - 45*x**7 - 474*x**6 - 141*x**5 + 6612*x**4 + 16685*x**3 + 6454*x**2 - 16500*x - 12600 | factor_high_degree_polynomial###"}
+{"prompt":"x^*4 + x^*3 - 123*x**2 - 81x + 3402 Factor.\n\n###\n\n","completion":" x**4 + x**3 - 123*x**2 - 81*x + 3402 | factor_high_degree_polynomial###"}
+{"prompt":"Please factor the polynomial (x + 1)(x + 3)(x + 7)\n\n###\n\n","completion":" (x + 1)*(x + 3)*(x + 7) | factor_high_degree_polynomial###"}
+{"prompt":"Find the factorization of the polynomial x**4 - 7x^*3 - 90*x^*2 + 700x - 1000.\n\n###\n\n","completion":" x**4 - 7*x**3 - 90*x**2 + 700*x - 1000 | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x^*5 + 5*x**4 - 143*x^*3 - 741x**2 + 5022x + 27216.\n\n###\n\n","completion":" x**5 + 5*x**4 - 143*x**3 - 741*x**2 + 5022*x + 27216 | factor_high_degree_polynomial###"}
+{"prompt":"Factor x^*5 - 10*x**4 - 61*x**3 + 766*x**2 - 192x - 8064\n\n###\n\n","completion":" x**5 - 10*x**4 - 61*x**3 + 766*x**2 - 192*x - 8064 | factor_high_degree_polynomial###"}
+{"prompt":"Find the factorization of the polynomial (x - 10)*(x + 2)(x^*5 - 17x**4 - 3x^*3 + 1313x**2 - 6334x + 5040).\n\n###\n\n","completion":" (x - 10)*(x + 2)*(x**5 - 17*x**4 - 3*x**3 + 1313*x**2 - 6334*x + 5040) | factor_high_degree_polynomial###"}
+{"prompt":"Factor the polynomial x**4 - 9x^*3 - 10*x^*2 + 228x - 360\n\n###\n\n","completion":" x**4 - 9*x**3 - 10*x**2 + 228*x - 360 | factor_high_degree_polynomial###"}
+{"prompt":"x^*10 + 11*x^*9 - 43x**8 - 781*x^*7 - 469x^*6 + 16709x**5 + 32983x^*4 - 105039x**3 - 259272*x^*2 + 89100*x + 226800 Factor.\n\n###\n\n","completion":" x**10 + 11*x**9 - 43*x**8 - 781*x**7 - 469*x**6 + 16709*x**5 + 32983*x**4 - 105039*x**3 - 259272*x**2 + 89100*x + 226800 | factor_high_degree_polynomial###"}
+{"prompt":"Factor -3*x - 8\n\n###\n\n","completion":" -3*x - 8 | factor_simple###"}
+{"prompt":"Find the factors of the polynomial 4x - 10.\n\n###\n\n","completion":" 4*x - 10 | factor_simple###"}
+{"prompt":"Find the factors of the polynomial -4*x - 4.\n\n###\n\n","completion":" -4*x - 4 | factor_simple###"}
+{"prompt":"Please factor the polynomial 4 - 10*x\n\n###\n\n","completion":" 4 - 10*x | factor_simple###"}
+{"prompt":"8 - 8*x Factor.\n\n###\n\n","completion":" 8 - 8*x | factor_simple###"}
+{"prompt":"Factor the polynomial 2*x - 10.\n\n###\n\n","completion":" 2*x - 10 | factor_simple###"}
+{"prompt":"Factor 7x - 7\n\n###\n\n","completion":" 7*x - 7 | factor_simple###"}
+{"prompt":"Factor the polynomial 6*x - 6\n\n###\n\n","completion":" 6*x - 6 | factor_simple###"}
+{"prompt":"Factor 3x + 1\n\n###\n\n","completion":" 3*x + 1 | factor_simple###"}
+{"prompt":"Find the factors of the polynomial 3 - 3x.\n\n###\n\n","completion":" 3 - 3*x | factor_simple###"}
+{"prompt":"Factor 4 - 5x\n\n###\n\n","completion":" 4 - 5*x | factor_simple###"}
+{"prompt":"Factor 8*x + 2\n\n###\n\n","completion":" 8*x + 2 | factor_simple###"}
+{"prompt":"-5x - 9 Factor.\n\n###\n\n","completion":" -5*x - 9 | factor_simple###"}
+{"prompt":"Find the factors of the polynomial -6*x - 2.\n\n###\n\n","completion":" -6*x - 2 | factor_simple###"}
+{"prompt":"-5x - 3 Factor.\n\n###\n\n","completion":" -5*x - 3 | factor_simple###"}
+{"prompt":"Please factor the polynomial -8x - 6\n\n###\n\n","completion":" -8*x - 6 | factor_simple###"}
+{"prompt":"Find the factors of the polynomial 3*x + 1.\n\n###\n\n","completion":" 3*x + 1 | factor_simple###"}
+{"prompt":"Find the factorization of the polynomial 5*x - 6.\n\n###\n\n","completion":" 5*x - 6 | factor_simple###"}
+{"prompt":"Factor the polynomial 9x + 2.\n\n###\n\n","completion":" 9*x + 2 | factor_simple###"}
+{"prompt":"Find the factorization of the polynomial -x - 1.\n\n###\n\n","completion":" -x - 1 | factor_simple###"}
+{"prompt":"Factor 2*x - 10\n\n###\n\n","completion":" 2*x - 10 | factor_simple###"}
+{"prompt":"Factor the polynomial -10*x - 7.\n\n###\n\n","completion":" -10*x - 7 | factor_simple###"}
+{"prompt":"6x + 3 Factor.\n\n###\n\n","completion":" 6*x + 3 | factor_simple###"}
+{"prompt":"Please factor the polynomial -x - 5\n\n###\n\n","completion":" -x - 5 | factor_simple###"}
+{"prompt":"Please factor the polynomial 8 - 7x\n\n###\n\n","completion":" 8 - 7*x | factor_simple###"}
+{"prompt":"Please factor the polynomial 4x - 10\n\n###\n\n","completion":" 4*x - 10 | factor_simple###"}
+{"prompt":"Factor 9x + 9\n\n###\n\n","completion":" 9*x + 9 | factor_simple###"}
+{"prompt":"Factor -6x - 10\n\n###\n\n","completion":" -6*x - 10 | factor_simple###"}
+{"prompt":"7*x + 5 Factor.\n\n###\n\n","completion":" 7*x + 5 | factor_simple###"}
+{"prompt":"Find the factorization of the polynomial 9x + 6.\n\n###\n\n","completion":" 9*x + 6 | factor_simple###"}
+{"prompt":"Find the factors of the polynomial 3 - 9x.\n\n###\n\n","completion":" 3 - 9*x | factor_simple###"}
+{"prompt":"Please factor the polynomial 1 - x\n\n###\n\n","completion":" 1 - x | factor_simple###"}
+{"prompt":"Please factor the polynomial -7x - 7\n\n###\n\n","completion":" -7*x - 7 | factor_simple###"}
+{"prompt":"9*x + 2 Factor.\n\n###\n\n","completion":" 9*x + 2 | factor_simple###"}
+{"prompt":"Factor the polynomial -9*x - 1.\n\n###\n\n","completion":" -9*x - 1 | factor_simple###"}
+{"prompt":"Factor the polynomial 2*x + 2\n\n###\n\n","completion":" 2*x + 2 | factor_simple###"}
+{"prompt":"Find the factorization of the polynomial 7*x + 6.\n\n###\n\n","completion":" 7*x + 6 | factor_simple###"}
+{"prompt":"Find the factorization of the polynomial 2x + 4.\n\n###\n\n","completion":" 2*x + 4 | factor_simple###"}
+{"prompt":"Factor 8*x + 4\n\n###\n\n","completion":" 8*x + 4 | factor_simple###"}
+{"prompt":"Find the factorization of the polynomial 1 - x.\n\n###\n\n","completion":" 1 - x | factor_simple###"}
+{"prompt":"Factor the polynomial 3*x - 3\n\n###\n\n","completion":" 3*x - 3 | factor_simple###"}
+{"prompt":"Factor the polynomial 4x - 10.\n\n###\n\n","completion":" 4*x - 10 | factor_simple###"}
+{"prompt":"Factor the polynomial -7*x - 6.\n\n###\n\n","completion":" -7*x - 6 | factor_simple###"}
+{"prompt":"Factor the polynomial -8x - 9.\n\n###\n\n","completion":" -8*x - 9 | factor_simple###"}
+{"prompt":"4x - 8 Factor.\n\n###\n\n","completion":" 4*x - 8 | factor_simple###"}
+{"prompt":"Please factor the polynomial 5x + 8\n\n###\n\n","completion":" 5*x + 8 | factor_simple###"}
+{"prompt":"Factor -4x - 10\n\n###\n\n","completion":" -4*x - 10 | factor_simple###"}
+{"prompt":"2*x - 8 Factor.\n\n###\n\n","completion":" 2*x - 8 | factor_simple###"}
+{"prompt":"Please factor the polynomial -2x - 4\n\n###\n\n","completion":" -2*x - 4 | factor_simple###"}
+{"prompt":"Solve. 9x + 3 = -9*x - 2\n\n###\n\n","completion":" 9*x + 3 = -9*x - 2 | solve_simple###"}
+{"prompt":"Algebraically solve 5x - 2 = 5*x + 10\n\n###\n\n","completion":" 5*x - 2 = 5*x + 10 | solve_simple###"}
+{"prompt":"Solve. -10*x - 1 = 0\n\n###\n\n","completion":" -10*x - 1 = 0 | solve_simple###"}
+{"prompt":"Solve. 3 - 10x = 0\n\n###\n\n","completion":" 3 - 10*x = 0 | solve_simple###"}
+{"prompt":"Algebraically solve -3*x - 9 = 0\n\n###\n\n","completion":" -3*x - 9 = 0 | solve_simple###"}
+{"prompt":"Solve for x. 10 - 6*x = 0.\n\n###\n\n","completion":" 10 - 6*x = 0 | solve_simple###"}
+{"prompt":"Solve. -5x - 3 = 8x - 5\n\n###\n\n","completion":" -5*x - 3 = 8*x - 5 | solve_simple###"}
+{"prompt":"Find the roots of 7x - 2 = 0.\n\n###\n\n","completion":" 7*x - 2 = 0 | solve_simple###"}
+{"prompt":"Solve. 4x + 4 = 0\n\n###\n\n","completion":" 4*x + 4 = 0 | solve_simple###"}
+{"prompt":"Solve for x. 2*x - 1 = 0.\n\n###\n\n","completion":" 2*x - 1 = 0 | solve_simple###"}
+{"prompt":"Solve for x. 1 - x = 0.\n\n###\n\n","completion":" 1 - x = 0 | solve_simple###"}
+{"prompt":"Find the roots of -x - 7 = 0.\n\n###\n\n","completion":" -x - 7 = 0 | solve_simple###"}
+{"prompt":"Solve. 9*x - 5 = -8x - 5\n\n###\n\n","completion":" 9*x - 5 = -8*x - 5 | solve_simple###"}
+{"prompt":"Algebraically solve 1 - 3x = 0\n\n###\n\n","completion":" 1 - 3*x = 0 | solve_simple###"}
+{"prompt":"Find the roots of -x - 9 = 0.\n\n###\n\n","completion":" -x - 9 = 0 | solve_simple###"}
+{"prompt":"6 - 9x = 0 Solve the equation.\n\n###\n\n","completion":" 6 - 9*x = 0 | solve_simple###"}
+{"prompt":"Find the roots of 7*x + 5 = 0.\n\n###\n\n","completion":" 7*x + 5 = 0 | solve_simple###"}
+{"prompt":"Algebraically solve 5x - 5 = -7*x - 4\n\n###\n\n","completion":" 5*x - 5 = -7*x - 4 | solve_simple###"}
+{"prompt":"6 - 6*x = 0 Solve the equation.\n\n###\n\n","completion":" 6 - 6*x = 0 | solve_simple###"}
+{"prompt":"Find the roots of -9*x - 4 = 0.\n\n###\n\n","completion":" -9*x - 4 = 0 | solve_simple###"}
+{"prompt":"Solve for x. -9*x = 0.\n\n###\n\n","completion":" -9*x = 0 | solve_simple###"}
+{"prompt":"Solve for x. 9 - 7x = 0.\n\n###\n\n","completion":" 9 - 7*x = 0 | solve_simple###"}
+{"prompt":"Find the roots of 9*x - 4 = 0.\n\n###\n\n","completion":" 9*x - 4 = 0 | solve_simple###"}
+{"prompt":"Algebraically solve 5*x + 5 = 2x - 8\n\n###\n\n","completion":" 5*x + 5 = 2*x - 8 | solve_simple###"}
+{"prompt":"Solve. -7*x - 1 = 0\n\n###\n\n","completion":" -7*x - 1 = 0 | solve_simple###"}
+{"prompt":"Solve for x. 9 - 4x = 0.\n\n###\n\n","completion":" 9 - 4*x = 0 | solve_simple###"}
+{"prompt":"Find the roots of 3x - 4 = 0.\n\n###\n\n","completion":" 3*x - 4 = 0 | solve_simple###"}
+{"prompt":"Solve for x. 6x + 6 = 0.\n\n###\n\n","completion":" 6*x + 6 = 0 | solve_simple###"}
+{"prompt":"Solve. 8*x - 5 = -9*x - 7\n\n###\n\n","completion":" 8*x - 5 = -9*x - 7 | solve_simple###"}
+{"prompt":"Find the roots of 4x - 3 = 1 - x.\n\n###\n\n","completion":" 4*x - 3 = 1 - x | solve_simple###"}
+{"prompt":"Solve for x. -3x - 4 = 8x - 9.\n\n###\n\n","completion":" -3*x - 4 = 8*x - 9 | solve_simple###"}
+{"prompt":"Solve. -6*x - 9 = 0\n\n###\n\n","completion":" -6*x - 9 = 0 | solve_simple###"}
+{"prompt":"2 - 2*x = 0 Solve the equation.\n\n###\n\n","completion":" 2 - 2*x = 0 | solve_simple###"}
+{"prompt":"6 - 10*x = 2x Solve the equation.\n\n###\n\n","completion":" 6 - 10*x = 2*x | solve_simple###"}
+{"prompt":"Solve. -9*x - 8 = 8x - 7\n\n###\n\n","completion":" -9*x - 8 = 8*x - 7 | solve_simple###"}
+{"prompt":"Solve. 4x + 4 = 2 - 3x\n\n###\n\n","completion":" 4*x + 4 = 2 - 3*x | solve_simple###"}
+{"prompt":"-6*x - 10 = 0 Solve the equation.\n\n###\n\n","completion":" -6*x - 10 = 0 | solve_simple###"}
+{"prompt":"-8*x - 6 = 0 Solve the equation.\n\n###\n\n","completion":" -8*x - 6 = 0 | solve_simple###"}
+{"prompt":"Find the roots of 8x - 8 = 0.\n\n###\n\n","completion":" 8*x - 8 = 0 | solve_simple###"}
+{"prompt":"Algebraically solve 6x + 6 = 0\n\n###\n\n","completion":" 6*x + 6 = 0 | solve_simple###"}
+{"prompt":"Solve for x. 5x + 7 = 0.\n\n###\n\n","completion":" 5*x + 7 = 0 | solve_simple###"}
+{"prompt":"-4x - 5 = 8*x + 3 Solve the equation.\n\n###\n\n","completion":" -4*x - 5 = 8*x + 3 | solve_simple###"}
+{"prompt":"9 - 4*x = 0 Solve the equation.\n\n###\n\n","completion":" 9 - 4*x = 0 | solve_simple###"}
+{"prompt":"9*x + 4 = 0 Solve the equation.\n\n###\n\n","completion":" 9*x + 4 = 0 | solve_simple###"}
+{"prompt":"Algebraically solve 6 - 9x = 0\n\n###\n\n","completion":" 6 - 9*x = 0 | solve_simple###"}
+{"prompt":"-5x - 10 = 0 Solve the equation.\n\n###\n\n","completion":" -5*x - 10 = 0 | solve_simple###"}
+{"prompt":"Algebraically solve 9x + 9 = 1 - 3*x\n\n###\n\n","completion":" 9*x + 9 = 1 - 3*x | solve_simple###"}
+{"prompt":"6x - 10 = 0 Solve the equation.\n\n###\n\n","completion":" 6*x - 10 = 0 | solve_simple###"}
+{"prompt":"Algebraically solve 7x - 8 = 3x - 9\n\n###\n\n","completion":" 7*x - 8 = 3*x - 9 | solve_simple###"}
+{"prompt":"Solve. 2 - 10*x = 0\n\n###\n\n","completion":" 2 - 10*x = 0 | solve_simple###"}
+{"prompt":"Please factor the polynomial -7x**2 - 10*x - 9 = 0\n\n###\n\n","completion":" -7*x**2 - 10*x - 9 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Please factor the polynomial -x^*2 + 8*x - 6 = 0\n\n###\n\n","completion":" -x**2 + 8*x - 6 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Find the roots of 4*x**2 + 3*x + 9 = 0.\n\n###\n\n","completion":" 4*x**2 + 3*x + 9 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Use the quadratic equation to solve for x -6x^*2 - 7x - 4 = 0.\n\n###\n\n","completion":" -6*x**2 - 7*x - 4 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve. 4*x^*2 - 7 = 0.\n\n###\n\n","completion":" 4*x**2 - 7 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Use the quadratic equation to solve for x 8x^*2 - 10x - 7 = 0.\n\n###\n\n","completion":" 8*x**2 - 10*x - 7 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Find the roots of -4*x^*2 - 3*x + 10 = 0.\n\n###\n\n","completion":" -4*x**2 - 3*x + 10 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Please factor the polynomial -4x**2 + 8x - 10 = 0\n\n###\n\n","completion":" -4*x**2 + 8*x - 10 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Please factor the polynomial 3*x**2 - 5x - 6 = 0\n\n###\n\n","completion":" 3*x**2 - 5*x - 6 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Find the roots of 7 - 6*x**2 = 6 - 2x.\n\n###\n\n","completion":" 7 - 6*x**2 = 6 - 2*x | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"5x**2 - 2x + 7 = 0 Solve.\n\n###\n\n","completion":" 5*x**2 - 2*x + 7 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve. -8*x**2 + 2x + 6 = 0.\n\n###\n\n","completion":" -8*x**2 + 2*x + 6 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"equate to 0 and solve 8x**2 + 4*x + 10 = 0\n\n###\n\n","completion":" 8*x**2 + 4*x + 10 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve for x. -8x**2 - 10*x - 5 = 0.\n\n###\n\n","completion":" -8*x**2 - 10*x - 5 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve. 3*x^*2 + 3*x - 2 = 0.\n\n###\n\n","completion":" 3*x**2 + 3*x - 2 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Please factor the polynomial -2x**2 + 7x + 3 = 9*x + 3\n\n###\n\n","completion":" -2*x**2 + 7*x + 3 = 9*x + 3 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve for x. -6*x^*2 + 5*x + 5 = 9x^*2 - 6*x - 8.\n\n###\n\n","completion":" -6*x**2 + 5*x + 5 = 9*x**2 - 6*x - 8 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"5x^*2 + 4x = 0 Solve.\n\n###\n\n","completion":" 5*x**2 + 4*x = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"-8x**2 + 4*x + 2 = 4*x + 5 Solve.\n\n###\n\n","completion":" -8*x**2 + 4*x + 2 = 4*x + 5 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve for x. -2*x**2 + 3*x - 8 = 0.\n\n###\n\n","completion":" -2*x**2 + 3*x - 8 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"6x**2 - 10x - 5 = 0 Solve.\n\n###\n\n","completion":" 6*x**2 - 10*x - 5 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve for x. -6*x^*2 - 10*x - 6 = 0.\n\n###\n\n","completion":" -6*x**2 - 10*x - 6 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve for x. -9x**2 - 8*x + 8 = 0.\n\n###\n\n","completion":" -9*x**2 - 8*x + 8 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"-2*x^*2 - 2x + 3 = 0 Solve.\n\n###\n\n","completion":" -2*x**2 - 2*x + 3 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"equate to 0 and solve -6*x^*2 - 3x - 3 = 0\n\n###\n\n","completion":" -6*x**2 - 3*x - 3 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Please factor the polynomial -6x**2 + x - 4 = 0\n\n###\n\n","completion":" -6*x**2 + x - 4 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Please factor the polynomial 6 - 5x**2 = 0\n\n###\n\n","completion":" 6 - 5*x**2 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"4x^*2 - 10*x + 7 = 0 Solve.\n\n###\n\n","completion":" 4*x**2 - 10*x + 7 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"equate to 0 and solve 4*x^*2 + 8x + 10 = -5*x**2 + 7x + 5\n\n###\n\n","completion":" 4*x**2 + 8*x + 10 = -5*x**2 + 7*x + 5 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Please factor the polynomial 9*x**2 - 2*x + 3 = 0\n\n###\n\n","completion":" 9*x**2 - 2*x + 3 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve. 1 - 7*x**2 = 2*x**2 + x + 5.\n\n###\n\n","completion":" 1 - 7*x**2 = 2*x**2 + x + 5 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Use the quadratic equation to solve for x -3*x^*2 - 3x + 7 = 0.\n\n###\n\n","completion":" -3*x**2 - 3*x + 7 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve. -3x^*2 - 3*x + 8 = 0.\n\n###\n\n","completion":" -3*x**2 - 3*x + 8 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Please factor the polynomial 8*x^*2 + 6*x - 10 = 0\n\n###\n\n","completion":" 8*x**2 + 6*x - 10 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve. -10x^*2 - 2*x + 1 = 0.\n\n###\n\n","completion":" -10*x**2 - 2*x + 1 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve for x. -8x^*2 - 6*x + 7 = 0.\n\n###\n\n","completion":" -8*x**2 - 6*x + 7 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"-9*x^*2 + 3*x - 7 = 5*x + 4 Solve.\n\n###\n\n","completion":" -9*x**2 + 3*x - 7 = 5*x + 4 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve for x. -x^*2 - 2x - 6 = 0.\n\n###\n\n","completion":" -x**2 - 2*x - 6 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Use the quadratic equation to solve for x -9*x^*2 - 4*x - 4 = -3x**2 + 6*x + 6.\n\n###\n\n","completion":" -9*x**2 - 4*x - 4 = -3*x**2 + 6*x + 6 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve for x. 9*x**2 - 7x + 7 = 0.\n\n###\n\n","completion":" 9*x**2 - 7*x + 7 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"-8x^*2 - 9*x + 2 = 0 Solve.\n\n###\n\n","completion":" -8*x**2 - 9*x + 2 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Use the quadratic equation to solve for x 3x**2 + 4x - 7 = -5x**2 - 10x - 3.\n\n###\n\n","completion":" 3*x**2 + 4*x - 7 = -5*x**2 - 10*x - 3 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Use the quadratic equation to solve for x -9x^*2 - 5x - 1 = 0.\n\n###\n\n","completion":" -9*x**2 - 5*x - 1 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"-2x^*2 - 2*x - 9 = -8*x^*2 - 10*x - 3 Solve.\n\n###\n\n","completion":" -2*x**2 - 2*x - 9 = -8*x**2 - 10*x - 3 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"equate to 0 and solve -8x**2 + 4x - 2 = 0\n\n###\n\n","completion":" -8*x**2 + 4*x - 2 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Solve for x. 5*x**2 - 8x - 9 = 0.\n\n###\n\n","completion":" 5*x**2 - 8*x - 9 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Find the roots of 7*x**2 + 6*x + 9 = -x - 7.\n\n###\n\n","completion":" 7*x**2 + 6*x + 9 = -x - 7 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Use the quadratic equation to solve for x 4x**2 - 7x - 10 = 0.\n\n###\n\n","completion":" 4*x**2 - 7*x - 10 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"Find the roots of -7*x**2 - 2 = 0.\n\n###\n\n","completion":" -7*x**2 - 2 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"3x**2 + 3x + 5 = 0 Solve.\n\n###\n\n","completion":" 3*x**2 + 3*x + 5 = 0 | quadratic_polynomial_root_quadratic_equation###"}
+{"prompt":"3 + 3 = ?\n\n###\n\n","completion":" 3 + 3 | integer_addition###"}
+{"prompt":"If John has 7 pencils and his friend gives him 4 more, how many pencils does John have in total?\n\n###\n\n","completion":" 7 + 4 | integer_addition_word###"}
+{"prompt":"What is the sum of 16 and 28?\n\n###\n\n","completion":" 16 + 28 | integer_addition###"}
+{"prompt":"Add. 33 + 19\n\n###\n\n","completion":" 33 + 19 | integer_addition###"}
+{"prompt":"15 + 15 = 30\n\n###\n\n","completion":" 15 + 15 = 30 | evaluate_integer_addition###"}
+{"prompt":"What is the sum of 9, 13, and 5?\n\n###\n\n","completion":" 9 + 13 + 5 | integer_addition###"}
+{"prompt":"Calculate. 42 + 19 + 3\n\n###\n\n","completion":" 42 + 19 + 3 | integer_addition###"}
+{"prompt":"What is the sum of 28 and 36?\n\n###\n\n","completion":" 28 + 36 | integer_addition###"}
+{"prompt":"Add. 57 + 62\n\n###\n\n","completion":" 57 + 62 | integer_addition###"}
+{"prompt":"25 + 10 = 352\n\n###\n\n","completion":" 25 + 10 = 32 | evaluate_integer_addition###"}
+{"prompt":"What is the sum of 19 and 8?\n\n###\n\n","completion":" 19 + 8 | integer_addition###"}
+{"prompt":"Calculate. 11 + 7 + 2\n\n###\n\n","completion":" 11 + 7 + 2 | integer_addition###"}
+{"prompt":"Add. 28 + 44\n\n###\n\n","completion":" 28 + 44 | integer_addition###"}
+{"prompt":"True or false: 50 + 20 = 80\n\n###\n\n","completion":" 50 + 20 = 80 | evaluate_integer_addition###"}
+{"prompt":"What is the sum of 12, 16, and 9?\n\n###\n\n","completion":" 12 + 16 + 9 | integer_addition###"}
+{"prompt":"Calculate. 36 + 12 + 7\n\n###\n\n","completion":" 36 + 12 + 7 | integer_addition###"}
+{"prompt":"If Sarah has 2 cats and her mom brings home 3 more, how many cats does Sarah have in total?\n\n###\n\n","completion":" 2 + 3 | integer_addition_word###"}
+{"prompt":"Add. 84 + 16\n\n###\n\n","completion":" 84 + 16 | integer_addition###"}
+{"prompt":"27 + 11 = 38\n\n###\n\n","completion":" 27 + 11 = 38 | evaluate_integer_addition###"}
+{"prompt":"What is the sum of 10 and 7?\n\n###\n\n","completion":" 10 + 7 | integer_addition###"}
+{"prompt":"Calculate. 22 + 8 + 3\n\n###\n\n","completion":" 22 + 8 + 3 | integer_addition###"}
+{"prompt":"Add. 58 + 12\n\n###\n\n","completion":" 58 + 12 | integer_addition###"}
+{"prompt":"True or false: 13 + 8 = 21\n\n###\n\n","completion":" 13 + 8 = 21 | evaluate_integer_addition###"}
+{"prompt":"What is the sum of 17, 13, and 5?\n\n###\n\n","completion":" 17 + 13 + 5 | integer_addition###"}
+{"prompt":"Calculate. 41 + 5 + 8\n\n###\n\n","completion":" 41 + 5 + 8 | integer_addition###"}
+{"prompt":"What is the sum of 21 and 39?\n\n###\n\n","completion":" 21 + 39 | integer_addition###"}
+{"prompt":"Add. 48 + 52\n\n###\n\n","completion":" 48 + 52 | integer_addition###"}
+{"prompt":"30 + 15 = 45\n\n###\n\n","completion":" 30 + 15 = 45 | evaluate_integer_addition###"}
+{"prompt":"What is the sum of 9 and 6?\n\n###\n\n","completion":" 9 + 6 | integer_addition###"}
+{"prompt":"Calculate. 11 + 4 + 2\n\n###\n\n","completion":" 11 + 4 + 2 | integer_addition###"}
+{"prompt":"Add. 34 + 26\n\n###\n\n","completion":" 34 + 26 | integer_addition###"}
+{"prompt":"True or false: 13 + 12 = 25\n\n###\n\n","completion":" 13 + 12 = 25 | evaluate_integer_addition###"}
+{"prompt":"What is the sum of 12, 14, and 6?\n\n###\n\n","completion":" 12 + 14 + 6 | integer_addition###"}
+{"prompt":"Calculate. 18 + 27\n\n###\n\n","completion":" 18 + 27 | integer_addition###"}
+{"prompt":"What is the sum of 7 and 9?\n\n###\n\n","completion":" 7 + 9 | integer_addition###"}
+{"prompt":"Calculate. 21 + 15\n\n###\n\n","completion":" 21 + 15 | integer_addition###"}
+{"prompt":"If Sally has 4 stickers and her friend gives her 2 more, how many stickers does Sally have in total?\n\n###\n\n","completion":" 4 + 2 | integer_addition_word###"}
+{"prompt":"Add. 39 + 48\n\n###\n\n","completion":" 39 + 48 | integer_addition###"}
+{"prompt":"Is this true? 22 + 17 = 40\n\n###\n\n","completion":" 22 + 17 = 40 | evaluate_integer_addition###"}
+{"prompt":"What is the sum of 6, 10, and 13?\n\n###\n\n","completion":" 6 + 10 + 13 | integer_addition###"}
+{"prompt":"Calculate. 64 + 28 + 12\n\n###\n\n","completion":" 64 + 28 + 12 | integer_addition###"}
+{"prompt":"If Sam has 3 apples and his mom gives him 5 more, how many apples does Sam have in total?\n\n###\n\n","completion":" 3 + 5 | integer_addition_word###"}
+{"prompt":"Add. 73 + 89\n\n###\n\n","completion":" 73 + 89 | integer_addition###"}
+{"prompt":"Is 31 + 9 equal to 40?\n\n###\n\n","completion":" 31 + 9 = 40 | evaluate_integer_addition###"}
+{"prompt":"What is the sum of 17 and 25?\n\n###\n\n","completion":" 17 + 25 | integer_addition###"}
+{"prompt":"Calculate. 55 + 32\n\n###\n\n","completion":" 55 + 32 | integer_addition###"}
+{"prompt":"If John has ten pencils and his friend gives him five more, how many pencils does John have?\n\n###\n\n","completion":" 10 + 5 | integer_addition_word###"}
+{"prompt":"Is the sem of 8 and 4 equal to 13\n\n###\n\n","completion":" 8 + 4 = 13 | evaluate_integer_addition###"}
+{"prompt":"What is the sum of 27 and 19?\n\n###\n\n","completion":" 27 + 19 | integer_addition###"}
+{"prompt":"Calculate. 63 + 17\n\n###\n\n","completion":" 63 + 17 | integer_addition###"}
+{"prompt":"If Sarah has 4 cats and her dad brings home 2 more, how many cats does Sarah have in total?\n\n###\n\n","completion":" 4 + 2 | integer_addition_word###"}
+{"prompt":"Add. 76 + 24\n\n###\n\n","completion":" 76 + 24 | integer_addition###"}
+{"prompt":"True or false: 9 + 8 = 18\n\n###\n\n","completion":" 9 + 8 = 18 | evaluate_integer_addition###"}
+{"prompt":"Calculate. 95 + 5\n\n###\n\n","completion":" 95 + 5 | integer_addition###"}
+{"prompt":"What is the sum of 14 and 17?\n\n###\n\n","completion":" 14 + 17 | integer_addition###"}
+{"prompt":"Calculate. 28 + 45\n\n###\n\n","completion":" 28 + 45 | integer_addition###"}
+{"prompt":"If Sally has 3 stickers and her friend gives her 4 more, how many stickers does Sally have in total?\n\n###\n\n","completion":" 3 + 4 | integer_addition_word###"}
+{"prompt":"Add. 88 + 12\n\n###\n\n","completion":" 88 + 12 | integer_addition###"}
+{"prompt":"10 + 10 = 20\n\n###\n\n","completion":" 10 + 10 = 20 | evaluate_integer_addition###"}
+{"prompt":"What is the sum of 29 and 13?\n\n###\n\n","completion":" 29 + 13 | integer_addition###"}
+{"prompt":"Calculate. 53 + 24\n\n###\n\n","completion":" 53 + 24 | integer_addition###"}
+{"prompt":"If Tom has 12 toy cars and his friend gives him 3 more, how many toy cars does Tom have?\n\n###\n\n","completion":" 12 + 3 | integer_addition_word###"}
+{"prompt":"Add. 97 + 3\n\n###\n\n","completion":" 97 + 3 | integer_addition###"}
+{"prompt":"Is this true? 11 + 3 = 17\n\n###\n\n","completion":" 11 + 3 = 17 | evaluate_integer_addition###"}
+{"prompt":"Calculate. 79 + 21\n\n###\n\n","completion":" 79 + 21 | integer_addition###"}
+{"prompt":"What is the sum of twenty-five and twelve?\n\n###\n\n","completion":" 25 + 12 | integer_addition###"}
+{"prompt":"Calculate. eighteen + thirty-four\n\n###\n\n","completion":" 18 + 34 | integer_addition###"}
+{"prompt":"If Alex has 5 pencils and his dad gives him 4 more, how many pencils does Alex have in total?\n\n###\n\n","completion":" 5 + 4 | integer_addition_word###"}
+{"prompt":"Add. 68 + 32\n\n###\n\n","completion":" 68 + 32 | integer_addition###"}
+{"prompt":"14 + 3 = 22\n\n###\n\n","completion":" 14 + 3 = 22 | evaluate_integer_addition###"}
+{"prompt":"Calculate. 33 + 12\n\n###\n\n","completion":" 33 + 12 | integer_addition###"}
+{"prompt":"What is the sum of 16 and 21?\n\n###\n\n","completion":" 16 + 21 | integer_addition###"}
+{"prompt":"Calculate. 56 + 37\n\n###\n\n","completion":" 56 + 37 | integer_addition###"}
+{"prompt":"If Sarah has 2 cats and her friend gives her 1 more, how many cats does Sarah have in total?\n\n###\n\n","completion":" 2 + 1 | integer_addition_word###"}
+{"prompt":"Add. 81 + 19\n\n###\n\n","completion":" 81 + 19 | integer_addition###"}
+{"prompt":"True or false: 3 + 2 = 5\n\n###\n\n","completion":" 3 + 2 = 5 | evaluate_integer_addition###"}
+{"prompt":"Calculate. 82 + 18\n\n###\n\n","completion":" 82 + 18 | integer_addition###"}
+{"prompt":"What is the sum of twenty four and sixteen?\n\n###\n\n","completion":" 24 + 16 | integer_addition###"}
+{"prompt":"Calculate. 17 + 23\n\n###\n\n","completion":" 17 + 23 | integer_addition###"}
+{"prompt":"If John has 5 pencils and his friend gives him 7 more, how many pencils does John have in total?\n\n###\n\n","completion":" 5 + 7 | integer_addition_word###"}
+{"prompt":"Add. 42 + 58\n\n###\n\n","completion":" 42 + 58 | integer_addition###"}
+{"prompt":"16 + 14 = 31\n\n###\n\n","completion":" 16 + 14 = 31 | evaluate_integer_addition###"}
+{"prompt":"What is the sum of 6, 11, and 8?\n\n###\n\n","completion":" 6 + 11 + 8 | integer_addition###"}
+{"prompt":"Calculate. 24 + 39 + 17\n\n###\n\n","completion":" 24 + 39 + 17 | integer_addition###"}
+{"prompt":"What is the sum of 27 and 33?\n\n###\n\n","completion":" 27 + 33 | integer_addition###"}
+{"prompt":"Add. 62 + 38\n\n###\n\n","completion":" 62 + 38 | integer_addition###"}
+{"prompt":"13 + 7 is equal to 20\n\n###\n\n","completion":" 13 + 7 = 2 | evaluate_integer_addition###"}
+{"prompt":"Calculate. 48 + 35\n\n###\n\n","completion":" 48 + 35 | integer_addition###"}
+{"prompt":"If Sally has 6 stickers and her friend gives her 2 more, how many stickers does Sally have in total?\n\n###\n\n","completion":" 6 + 2 | integer_addition_word###"}
+{"prompt":"Add. 78 + 22\n\n###\n\n","completion":" 78 + 22 | integer_addition###"}
+{"prompt":"True or false: 19 + 9 = 28\n\n###\n\n","completion":" 19 + 9 = -28 | evaluate_integer_addition###"}
+{"prompt":"Calculate. 64 + 23\n\n###\n\n","completion":" 64 + 23 | integer_addition###"}
+{"prompt":"What is the sum of 9 and 18?\n\n###\n\n","completion":" 9 + 18 | integer_addition###"}
+{"prompt":"Calculate. 57 + 12\n\n###\n\n","completion":" 57 + 12 | integer_addition###"}
+{"prompt":"If Alex has 4 pencils and his mom gives him 3 more, how many pencils does Alex have in total?\n\n###\n\n","completion":" 4 + 3 | integer_addition_word###"}
+{"prompt":"Add. 92 + 8\n\n###\n\n","completion":" 92 + 8 | integer_addition###"}
+{"prompt":"2 + 3 = 6\n\n###\n\n","completion":" 2 + 3 = 6 | evaluate_integer_addition###"}
+{"prompt":"Calculate. 82 + 38\n\n###\n\n","completion":" 82 + 38 | integer_addition###"}
+{"prompt":"What is the sum of 15 and 19?\n\n###\n\n","completion":" 15 + 19 | integer_addition###"}
+{"prompt":"Calculate. 27 + 29\n\n###\n\n","completion":" 27 + 29 | integer_addition###"}
+{"prompt":"If Tom has 5 toy cars and his friend gives him 2 more, how many toy cars does Tom have?\n\n###\n\n","completion":" 5 + 2 | integer_addition_word###"}
+{"prompt":"Add. 86 + 14\n\n###\n\n","completion":" 86 + 14 | integer_addition###"}
+{"prompt":"True or false: 7 + 8 = 15\n\n###\n\n","completion":" 7 + 8 = -15| evaluate_integer_addition###"}
+{"prompt":"Calculate. 67 + 28\n\n###\n\n","completion":" 67 + 28 | integer_addition###"}
+{"prompt":"What is the sum of 13 and 23?\n\n###\n\n","completion":" 13 + 23 | integer_addition###"}
+{"prompt":"Calculate. 43 + 17\n\n###\n\n","completion":" 43 + 17 | integer_addition###"}
+{"prompt":"If Sarah has 1 cat and her friend gives her 2 more, how many cats does Sarah have in total?\n\n###\n\n","completion":" 1 + 2 | integer_addition_word###"}
+{"prompt":"Add. 39 + 61\n\n###\n\n","completion":" 39 + 61 | integer_addition###"}
+{"prompt":"Is the sum of twelve and eleven equal to twenty-three?\n\n###\n\n","completion":" 12 + 31 = 23 | evaluate_integer_addition###"}
+{"prompt":"4 x 9 = ?\n\n###\n\n","completion":" 4 * 9 | integer_multiplication###"}
+{"prompt":"7 x 8 = ?\n\n###\n\n","completion":" 7 * 8 | integer_multiplication###"}
+{"prompt":"6 x 3 = ?\n\n###\n\n","completion":" 6 * 3 | integer_multiplication###"}
+{"prompt":"5 x 12 = ?\n\n###\n\n","completion":" 5 * 12 | integer_multiplication###"}
+{"prompt":"11 x 9 = ?\n\n###\n\n","completion":" 11 * 9 | integer_multiplication###"}
+{"prompt":"13 x 3 = ?\n\n###\n\n","completion":" 13 * 3 | integer_multiplication###"}
+{"prompt":"8 x 7 = ?\n\n###\n\n","completion":" 8 * 7 | integer_multiplication###"}
+{"prompt":"10 x 6 = ?\n\n###\n\n","completion":" 10 * 6 | integer_multiplication###"}
+{"prompt":"12 x 5 = ?\n\n###\n\n","completion":" 12 * 5 | integer_multiplication###"}
+{"prompt":"3 x 11 = ?\n\n###\n\n","completion":" 3 * 11 | integer_multiplication###"}
+{"prompt":"2 x 3 = ?\n\n###\n\n","completion":" 2 * 3 | integer_multiplication###"}
+{"prompt":"5 x 7 = ?\n\n###\n\n","completion":" 5 * 7 | integer_multiplication###"}
+{"prompt":"8 x 9 = ?\n\n###\n\n","completion":" 8 * 9 | integer_multiplication###"}
+{"prompt":"6 x 4 = ?\n\n###\n\n","completion":" 6 * 4 | integer_multiplication###"}
+{"prompt":"12 x 11 = ?\n\n###\n\n","completion":" 12 * 11 | integer_multiplication###"}
+{"prompt":"13 x 2 = ?\n\n###\n\n","completion":" 13 * 2 | integer_multiplication###"}
+{"prompt":"7 x 3 = ?\n\n###\n\n","completion":" 7 * 3 | integer_multiplication###"}
+{"prompt":"9 x 5 = ?\n\n###\n\n","completion":" 9 * 5 | integer_multiplication###"}
+{"prompt":"10 x 8 = ?\n\n###\n\n","completion":" 10 * 8 | integer_multiplication###"}
+{"prompt":"11 x 6 = ?\n\n###\n\n","completion":" 11 * 6 | integer_multiplication###"}
+{"prompt":"9 x 4 = ?\n\n###\n\n","completion":" 9 * 4 | integer_multiplication###"}
+{"prompt":"6 x 9 = ?\n\n###\n\n","completion":" 6 * 9 | integer_multiplication###"}
+{"prompt":"3 x 8 = ?\n\n###\n\n","completion":" 3 * 8 | integer_multiplication###"}
+{"prompt":"5 x 3 = ?\n\n###\n\n","completion":" 5 * 3 | integer_multiplication###"}
+{"prompt":"7 x 4 = ?\n\n###\n\n","completion":" 7 * 4 | integer_multiplication###"}
+{"prompt":"2 x 8 = ?\n\n###\n\n","completion":" 2 * 8 | integer_multiplication###"}
+{"prompt":"4 x 3 = ?\n\n###\n\n","completion":" 4 * 3 | integer_multiplication###"}
+{"prompt":"8 x 5 = ?\n\n###\n\n","completion":" 8 * 5 | integer_multiplication###"}
+{"prompt":"1 x 6 = ?\n\n###\n\n","completion":" 1 * 6 | integer_multiplication###"}
+{"prompt":"9 x 7 = ?\n\n###\n\n","completion":" 9 * 7 | integer_multiplication###"}
+{"prompt":"3 x 6 = ?\n\n###\n\n","completion":" 3 * 6 | integer_multiplication###"}
+{"prompt":"8 x 2 = ?\n\n###\n\n","completion":" 8 * 2 | integer_multiplication###"}
+{"prompt":"6 x 5 = ?\n\n###\n\n","completion":" 6 * 5 | integer_multiplication###"}
+{"prompt":"4 x 8 = ?\n\n###\n\n","completion":" 4 * 8 | integer_multiplication###"}
+{"prompt":"1 x 7 = ?\n\n###\n\n","completion":" 1 * 7 | integer_multiplication###"}
+{"prompt":"6 x 2 = ?\n\n###\n\n","completion":" 6 * 2 | integer_multiplication###"}
+{"prompt":"7 x 5 = ?\n\n###\n\n","completion":" 7 * 5 | integer_multiplication###"}
+{"prompt":"2 x 6 = ?\n\n###\n\n","completion":" 2 * 6 | integer_multiplication###"}
+{"prompt":"9 x 6 = ?\n\n###\n\n","completion":" 9 * 6 | integer_multiplication###"}
+{"prompt":"4 x 2 = ?\n\n###\n\n","completion":" 4 * 2 | integer_multiplication###"}
+{"prompt":"5 x 6 = ?\n\n###\n\n","completion":" 5 * 6 | integer_multiplication###"}
+{"prompt":"6 x 7 = ?\n\n###\n\n","completion":" 6 * 7 | integer_multiplication###"}
+{"prompt":"5 x 4 = ?\n\n###\n\n","completion":" 5 * 4 | integer_multiplication###"}
+{"prompt":"2 x 7 = ?\n\n###\n\n","completion":" 2 * 7 | integer_multiplication###"}
+{"prompt":"4 x 7 = ?\n\n###\n\n","completion":" 4 * 7 | integer_multiplication###"}
+{"prompt":"1 x 5 = ?\n\n###\n\n","completion":" 1 * 5 | integer_multiplication###"}
+{"prompt":"4 x 5 = ?\n\n###\n\n","completion":" 4 * 5 | integer_multiplication###"}
+{"prompt":"9 x 3 = ?\n\n###\n\n","completion":" 9 * 3 | integer_multiplication###"}
+{"prompt":"2 x 9 = ?\n\n###\n\n","completion":" 2 * 9 | integer_multiplication###"}
+{"prompt":"3 x 7 = ?\n\n###\n\n","completion":" 3 * 7 | integer_multiplication###"}
+{"prompt":"5 x 2 = ?\n\n###\n\n","completion":" 5 * 2 | integer_multiplication###"}
+{"prompt":"8 x 6 = ?\n\n###\n\n","completion":" 8 * 6 | integer_multiplication###"}
+{"prompt":"1 x 9 = ?\n\n###\n\n","completion":" 1 * 9 | integer_multiplication###"}
+{"prompt":"6 x 8 = ?\n\n###\n\n","completion":" 6 * 8 | integer_multiplication###"}
+{"prompt":"8 x 3 = ?\n\n###\n\n","completion":" 8 * 3 | integer_multiplication###"}
+{"prompt":"9 x 2 = ?\n\n###\n\n","completion":" 9 * 2 | integer_multiplication###"}
+{"prompt":"2 x 4 = ?\n\n###\n\n","completion":" 2 * 4 | integer_multiplication###"}
+{"prompt":"4 x 6 = ?\n\n###\n\n","completion":" 4 * 6 | integer_multiplication###"}
+{"prompt":"5 x 8 = ?\n\n###\n\n","completion":" 5 * 8 | integer_multiplication###"}
+{"prompt":"3 x 9 = ?\n\n###\n\n","completion":" 3 * 9 | integer_multiplication###"}
+{"prompt":"9 x 8 = ?\n\n###\n\n","completion":" 9 * 8 | integer_multiplication###"}
+{"prompt":"What is 9 multiplied by 4?\n\n###\n\n","completion":" 9 * 4 | integer_multiplication_word###"}
+{"prompt":"Calculate 6 times 3.\n\n###\n\n","completion":" 6 * 3 | integer_multiplication_word###"}
+{"prompt":"Find the product of 2 and 10.\n\n###\n\n","completion":" 2 * 10 | integer_multiplication_word###"}
+{"prompt":"What is the result of 11 multiplied by 5?\n\n###\n\n","completion":" 11 * 5 | integer_multiplication_word###"}
+{"prompt":"Multiply 8 by 6.\n\n###\n\n","completion":" 8 * 6 | integer_multiplication_word###"}
+{"prompt":"7 multiplied by 4 equals what?\n\n###\n\n","completion":" 7 * 4 | integer_multiplication_word###"}
+{"prompt":"Calculate the value of 5 times 7.\n\n###\n\n","completion":" 5 * 7 | integer_multiplication_word###"}
+{"prompt":"What is the product of 3 and 9?\n\n###\n\n","completion":" 3 * 9 | integer_multiplication_word###"}
+{"prompt":"Evaluate 4 multiplied by 6.\n\n###\n\n","completion":" 4 * 6 | integer_multiplication_word###"}
+{"prompt":"11 x 3 = ?\n\n###\n\n","completion":" 11 * 3 | integer_multiplication###"}
+{"prompt":"7 x 12 = ?\n\n###\n\n","completion":" 7 * 12 | integer_multiplication###"}
+{"prompt":"4 x 5 x 3 = ?\n\n###\n\n","completion":" 4 * 5 * 3 | evaluate_integer_multiplication###"}
+{"prompt":"7 x 6 = ?\n\n###\n\n","completion":" 7 * 6 = 42 | evaluate_integer_multiplication###"}
+{"prompt":"4 x 10 = ?\n\n###\n\n","completion":" 4 * 10 = 40 | evaluate_integer_multiplication###"}
+{"prompt":"9 x 8 = ?\n\n###\n\n","completion":" 9 * 8 = 72 | evaluate_integer_multiplication###"}
+{"prompt":"3 x 12 = ?\n\n###\n\n","completion":" 3 * 12 = 36 | evaluate_integer_multiplication###"}
+{"prompt":"2 x 15 = ?\n\n###\n\n","completion":" 2 * 15 = 30 | evaluate_integer_multiplication###"}
+{"prompt":"11 x 7 = ?\n\n###\n\n","completion":" 11 * 7 = 77 | evaluate_integer_multiplication###"}
+{"prompt":"5 x 14 = ?\n\n###\n\n","completion":" 5 * 14 = 70 | evaluate_integer_multiplication###"}
+{"prompt":"6 x 13 = ?\n\n###\n\n","completion":" 6 * 13 = 78 | evaluate_integer_multiplication###"}
+{"prompt":"8 x 9 = ?\n\n###\n\n","completion":" 8 * 9 = 72 | evaluate_integer_multiplication###"}
+{"prompt":"15 x 2 = ?\n\n###\n\n","completion":" 15 * 2 = 30 | evaluate_integer_multiplication###"}
+{"prompt":"2 x 3 = ?\n\n###\n\n","completion":" 2 * 3 = 6 | evaluate_integer_multiplication###"}
+{"prompt":"4 x 5 = ?\n\n###\n\n","completion":" 4 * 5 = 20 | evaluate_integer_multiplication###"}
+{"prompt":"7 x 8 = ?\n\n###\n\n","completion":" 7 * 8 = 56 | evaluate_integer_multiplication###"}
+{"prompt":"9 x 1 = ?\n\n###\n\n","completion":" 9 * 1 = 9 | evaluate_integer_multiplication###"}
+{"prompt":"6 x 0 = ?\n\n###\n\n","completion":" 6 * 0 = 0 | evaluate_integer_multiplication###"}
+{"prompt":"3 x 10 = ?\n\n###\n\n","completion":" 3 * 10 = 30 | evaluate_integer_multiplication###"}
+{"prompt":"12 x 2 = ?\n\n###\n\n","completion":" 12 * 2 = 24 | evaluate_integer_multiplication###"}
+{"prompt":"11 x 4 = ?\n\n###\n\n","completion":" 11 * 4 = 44 | evaluate_integer_multiplication###"}
+{"prompt":"25 x 3 = ?\n\n###\n\n","completion":" 25 * 3 = 75 | evaluate_integer_multiplication###"}
+{"prompt":"8 x 7 = ?\n\n###\n\n","completion":" 8 * 7 = 56 | evaluate_integer_multiplication###"}
+{"prompt":"2 x 5 = ?\n\n###\n\n","completion":" 2 * 5 | integer_multiplication###"}
+{"prompt":"What is the product of 7 and 8?\n\n###\n\n","completion":" 7 * 8 | integer_multiplication###"}
+{"prompt":"What is 9 times 6?\n\n###\n\n","completion":" 9 * 6 | integer_multiplication###"}
+{"prompt":"Calculate 4 times 11\n\n###\n\n","completion":" 4 * 11 | integer_multiplication###"}
+{"prompt":"What is the result of 12 multiplied by 3?\n\n###\n\n","completion":" 12 * 3 | integer_multiplication###"}
+{"prompt":"What is the product of 5 and 9?\n\n###\n\n","completion":" 5 * 9 | integer_multiplication###"}
+{"prompt":"Calculate 8 times 7\n\n###\n\n","completion":" 8 * 7 | integer_multiplication###"}
+{"prompt":"What is the result of multiplying 3 by 10?\n\n###\n\n","completion":" 3 * 10 | integer_multiplication###"}
+{"prompt":"What is 11 times 4?\n\n###\n\n","completion":" 11 * 4 | integer_multiplication###"}
+{"prompt":"Calculate 9 times 9\n\n###\n\n","completion":" 9 * 9 | integer_multiplication###"}
+{"prompt":"What is the product of 6 and 7?\n\n###\n\n","completion":" 6 * 7 | integer_multiplication###"}
+{"prompt":"If a baker needs 5 eggs for one cake, and wants to make 12 cakes, how many eggs will she need in total?\n\n###\n\n","completion":" 5 * 12 | integer_multiplication_word###"}
+{"prompt":"A farmer has 9 cows, and each cow has 4 legs. How many legs are there in total?\n\n###\n\n","completion":" 9 * 4 | integer_multiplication_word###"}
+{"prompt":"If there are 6 boxes of candy, and each box has 15 pieces, how many candies are there in total?\n\n###\n\n","completion":" 6 * 15 | integer_multiplication_word###"}
+{"prompt":"What is 6 multiplied by 4?\n\n###\n\n","completion":" 6 * 4 | integer_multiplication###"}
+{"prompt":"Calculate the value of 3 multiplied by 8.\n\n###\n\n","completion":" 3 * 8 | integer_multiplication###"}
+{"prompt":"What is the product of 9 and 5?\n\n###\n\n","completion":" 9 * 5 | integer_multiplication###"}
+{"prompt":"Find the value of 2 times 11.\n\n###\n\n","completion":" 2 * 11 | integer_multiplication###"}
+{"prompt":"Calculate 4 times 4\n\n###\n\n","completion":" 4 * 4 | integer_multiplication###"}
+{"prompt":"What is the product of 7 and 3?\n\n###\n\n","completion":" 7 * 3 | integer_multiplication###"}
+{"prompt":"What is 11 times 3?\n\n###\n\n","completion":" 11 * 3 | integer_multiplication###"}
+{"prompt":"Calculate the value of 4 multiplied by 5.\n\n###\n\n","completion":" 4 * 5 | integer_multiplication###"}
+{"prompt":"What is the product of 8 and 8?\n\n###\n\n","completion":" 8 * 8 | integer_multiplication###"}
+{"prompt":"What is 12 times 2?\n\n###\n\n","completion":" 12 * 2 | integer_multiplication###"}
+{"prompt":"Calculate 7 times 6\n\n###\n\n","completion":" 7 * 6 | integer_multiplication###"}
+{"prompt":"Calculate the value of 5 multiplied by 5.\n\n###\n\n","completion":" 5 * 5 | integer_multiplication###"}
+{"prompt":"What is the result of multiplying 8 by 9?\n\n###\n\n","completion":" 8 * 9 | integer_multiplication###"}
+{"prompt":"What is 12 multiplied by 1?\n\n###\n\n","completion":" 12 * 1 | integer_multiplication###"}
+{"prompt":"Calculate 4 times 8\n\n###\n\n","completion":" 4 * 8 | integer_multiplication###"}
+{"prompt":"What is the product of 8 and 3?\n\n###\n\n","completion":" 8 * 3 | integer_multiplication###"}
+{"prompt":"Calculate 5 times 8\n\n###\n\n","completion":" 5 * 8 | integer_multiplication###"}
+{"prompt":"What is 7 multiplied by 8?\n\n###\n\n","completion":" 7 * 8 | integer_multiplication###"}
+{"prompt":"What is the result of multiplying 4 by 4?\n\n###\n\n","completion":" 4 * 4 | integer_multiplication###"}
+{"prompt":"What is the result of multiplying 7 by 6?\n\n###\n\n","completion":" 7 * 6 | integer_multiplication###"}
+{"prompt":"How much is 12 times 3?\n\n###\n\n","completion":" 12 * 3 | integer_multiplication###"}
+{"prompt":"Calculate the product of 4 and 9.\n\n###\n\n","completion":" 4 * 9 | integer_multiplication###"}
+{"prompt":"What is 10 multiplied by 7?\n\n###\n\n","completion":" 10 * 7 | integer_multiplication###"}
+{"prompt":"Find the value of 5 times 12.\n\n###\n\n","completion":" 5 * 12 | integer_multiplication###"}
+{"prompt":"What is the result of multiplying 8 by 6?\n\n###\n\n","completion":" 8 * 6 | integer_multiplication###"}
+{"prompt":"What is 7 multiplied by 9?\n\n###\n\n","completion":" 7 * 9 | integer_multiplication###"}
+{"prompt":"What is the product of 2 and 12?\n\n###\n\n","completion":" 2 * 12 | integer_multiplication###"}
+{"prompt":"Find the value of 6 times 7.\n\n###\n\n","completion":" 6 * 7 | integer_multiplication###"}
+{"prompt":"What is 8 times 5?\n\n###\n\n","completion":" 8 * 5 | integer_multiplication###"}
+{"prompt":"Calculate the result of 11 multiplied by 4.\n\n###\n\n","completion":" 11 * 4 | integer_multiplication###"}
+{"prompt":"If a farmer has 9 chickens and each chicken lays 3 eggs per day, how many eggs will be produced in a week?\n\n###\n\n","completion":" 9 * 3 * 7 | integer_multiplication_word###"}
+{"prompt":"If a box contains 15 pens and each pen costs $2, what is the total cost of all the pens?\n\n###\n\n","completion":" 15 * 2 | integer_multiplication_word###"}
+{"prompt":"If a car travels at a speed of 60 km\/h for 4 hours, how far will it travel?\n\n###\n\n","completion":" 60 * 4 | integer_multiplication_word###"}
+{"prompt":"If a bakery sells 8 cakes per day and each cake costs $25, what is the total revenue earned in a week?\n\n###\n\n","completion":" 8 * 25 * 7 | integer_multiplication_word###"}
+{"prompt":"If a train travels at a speed of 100 km\/h for 2.5 hours, how far will it travel?\n\n###\n\n","completion":" 100 * 2.5 | decimal_multiplication_word###"}
+{"prompt":"What is the product of 7 and 9?\n\n###\n\n","completion":" 7 * 9 | integer_multiplication###"}
+{"prompt":"What is the value of 5 multiplied by 6?\n\n###\n\n","completion":" 5 * 6 | integer_multiplication###"}
+{"prompt":"What is the result of 12 multiplied by 8?\n\n###\n\n","completion":" 12 * 8 | integer_multiplication###"}
+{"prompt":"Evaluate the expression 2 multiplied by 11.\n\n###\n\n","completion":" 2 * 11 | integer_multiplication###"}
+{"prompt":"What is the product of 3 and 17?\n\n###\n\n","completion":" 3 * 17 | integer_multiplication###"}
+{"prompt":"Find the value of 4 multiplied by 13.\n\n###\n\n","completion":" 4 * 13 | integer_multiplication###"}
+{"prompt":"What is the value of 11 multiplied by 2?\n\n###\n\n","completion":" 11 * 2 | integer_multiplication###"}
+{"prompt":"What is 3 multiplied by 9?\n\n###\n\n","completion":" 3 * 9 | integer_multiplication###"}
+{"prompt":"What is the product of 9 and 2?\n\n###\n\n","completion":" 9 * 2 | integer_multiplication###"}
+{"prompt":"What is 5 multiplied by 5?\n\n###\n\n","completion":" 5 * 5 | integer_multiplication###"}
+{"prompt":"What is the result of multiplying 11 by 3?\n\n###\n\n","completion":" 11 * 3 | integer_multiplication###"}
+{"prompt":"What is 10 multiplied by 6?\n\n###\n\n","completion":" 10 * 6 | integer_multiplication###"}
+{"prompt":"What is 6 multiplied by 6?\n\n###\n\n","completion":" 6 * 6 | integer_multiplication###"}
+{"prompt":"What is the value of 8 multiplied by 8?\n\n###\n\n","completion":" 8 * 8 | integer_multiplication###"}
+{"prompt":"Calculate the product of 7 and 8.\n\n###\n\n","completion":" 7 * 8 | integer_multiplication###"}
+{"prompt":"What is the value of 8 multiplied by 9?\n\n###\n\n","completion":" 8 * 9 | integer_multiplication###"}
+{"prompt":"What is 8 multiplied by 9?\n\n###\n\n","completion":" 8 * 9 | integer_multiplication###"}
+{"prompt":"What is the product of 9 and 9?\n\n###\n\n","completion":" 9 * 9 | integer_multiplication###"}
+{"prompt":"What is 9 multiplied by 9?\n\n###\n\n","completion":" 9 * 9 | integer_multiplication###"}
+{"prompt":"Calculate the product of 6 and 15.\n\n###\n\n","completion":" 6 * 15 | integer_multiplication###"}
+{"prompt":"What is 9 multiplied by 8?\n\n###\n\n","completion":" 9 * 8 | integer_multiplication###"}
+{"prompt":"What is the value of 10 times 4?\n\n###\n\n","completion":" 10 * 4 | integer_multiplication###"}
+{"prompt":"Evaluate the expression 7 multiplied by 7.\n\n###\n\n","completion":" 7 * 7 | integer_multiplication###"}
+{"prompt":"10 x 2 = ?\n\n###\n\n","completion":" 10 * 2 | integer_multiplication###"}
+{"prompt":"4 x 11 = ?\n\n###\n\n","completion":" 4 * 11 | integer_multiplication###"}
+{"prompt":"3 x 0 = ?\n\n###\n\n","completion":" 3 * 0 | integer_multiplication###"}
+{"prompt":"5 x (-2) = ?\n\n###\n\n","completion":" 5 * (-2) | integer_multiplication###"}
+{"prompt":"(-7) x 9 = ?\n\n###\n\n","completion":" (-7) * 9 | integer_multiplication###"}
+{"prompt":"(-3) x (-6) = ?\n\n###\n\n","completion":" (-3) * (-6) | integer_multiplication###"}
+{"prompt":"What is the product of 7 and 9?\n\n###\n\n","completion":" 7 * 9 | integer_multiplication_word###"}
+{"prompt":"6 times 2 equals?\n\n###\n\n","completion":" 6 * 2 | integer_multiplication_word###"}
+{"prompt":"4 multiplied by 5 is equal to?\n\n###\n\n","completion":" 4 * 5 | integer_multiplication_word###"}
+{"prompt":"What is the value of 9 times 8?\n\n###\n\n","completion":" 9 * 8 | integer_multiplication_word###"}
+{"prompt":"3 x 10 = ?\n\n###\n\n","completion":" 3 * 10 | integer_multiplication###"}
+{"prompt":"Calculate the product of 11 and 12.\n\n###\n\n","completion":" 11 * 12 | integer_multiplication_word###"}
+{"prompt":"9 times 3 is equal to?\n\n###\n\n","completion":" 9 * 3 | integer_multiplication_word###"}
+{"prompt":"What is the result of 5 multiplied by 7?\n\n###\n\n","completion":" 5 * 7 | integer_multiplication_word###"}
+{"prompt":"If you have 4 groups of 3 apples, how many apples do you have?\n\n###\n\n","completion":" 4 * 3 | integer_multiplication_word###"}
+{"prompt":"Calculate 12 multiplied by 6.\n\n###\n\n","completion":" 12 * 6 | integer_multiplication###"}
+{"prompt":"If you have 6 boxes, and each box contains 8 pencils, how many pencils do you have in total?\n\n###\n\n","completion":" 6 * 8 | integer_multiplication_word###"}
+{"prompt":"If each movie ticket costs $8 and you bought 4 tickets, how much did you spend in total?\n\n###\n\n","completion":" $8 * 4 | integer_multiplication_word###"}
+{"prompt":"What is the result of multiplying 3 and 15?\n\n###\n\n","completion":" 3 * 15 | integer_multiplication###"}
+{"prompt":"What is the product of 4 and 11?\n\n###\n\n","completion":" 4 * 11 | integer_multiplication###"}
+{"prompt":"If you have 9 tables and each table has 4 chairs, how many chairs do you have in total?\n\n###\n\n","completion":" 9 * 4 | integer_multiplication_word###"}
+{"prompt":"What is the value of 6 multiplied by 7?\n\n###\n\n","completion":" 6 * 7 | integer_multiplication###"}
+{"prompt":"If each slice of pizza costs $2 and you ordered 5 slices, how much did you spend in total?\n\n###\n\n","completion":" $2 * 5 | integer_multiplication_word###"}
+{"prompt":"What is the result of multiplying 9 and 6?\n\n###\n\n","completion":" 9 * 6 | integer_multiplication###"}
+{"prompt":"What is the product of 5 and 9?\n\n###\n\n","completion":" 5 * 9 | integer_multiplication_word###"}
+{"prompt":"3 multiplied by 8 equals what?\n\n###\n\n","completion":" 3 * 8 | integer_multiplication_word###"}
+{"prompt":"What is the value of 7 times 5?\n\n###\n\n","completion":" 7 * 5 | integer_multiplication###"}
+{"prompt":"What is 8 multiplied by 10?\n\n###\n\n","completion":" 8 * 10 | integer_multiplication###"}
+{"prompt":"What is the product of 6 and 5?\n\n###\n\n","completion":" 6 * 5 | integer_multiplication_word###"}
+{"prompt":"If you have 5 groups of 7 apples, how many apples do you have?\n\n###\n\n","completion":" 5 * 7 | integer_multiplication_word###"}
+{"prompt":"If you have 3 boxes, and each box contains 5 pencils, how many pencils do you have in total?\n\n###\n\n","completion":" 3 * 5 | integer_multiplication_word###"}
+{"prompt":"If each movie ticket costs $6 and you bought 3 tickets, how much did you spend in total?\n\n###\n\n","completion":" $6 * 3 | integer_multiplication_word###"}
+{"prompt":"What is the result of multiplying 7 and 8?\n\n###\n\n","completion":" 7 * 8 | integer_multiplication###"}
+{"prompt":"If you have 7 tables and each table has 3 chairs, how many chairs do you have in total?\n\n###\n\n","completion":" 7 * 3 | integer_multiplication_word###"}
+{"prompt":"If each slice of pizza costs $3 and you ordered 4 slices, how much did you spend in total?\n\n###\n\n","completion":" $3 * 4 | integer_multiplication_word###"}
+{"prompt":"What is the result of multiplying 5 and 9?\n\n###\n\n","completion":" 5 * 9 | integer_multiplication###"}
+{"prompt":"What is the value of 9 multiplied by 8?\n\n###\n\n","completion":" 9 * 8 | integer_multiplication###"}
+{"prompt":"What is the result of 6 times 4?\n\n###\n\n","completion":" 6 * 4 | integer_multiplication_word###"}
+{"prompt":"What is the difference between 7 tens and 2 tens?\n\n###\n\n","completion":" 7 * 10 - 2 * 10 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 6 ones and 2 ones?\n\n###\n\n","completion":" 6 * 1 - 2 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 8 tens 3 ones and 4 tens 6 ones?\n\n###\n\n","completion":" 8 * 10 + 3 * 1 - 4 * 10 - 6 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 9 tens 7 ones and 2 tens 5 ones?\n\n###\n\n","completion":" 9 * 10 + 7 * 1 - 2 * 10 - 5 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 5 tens and 9 ones?\n\n###\n\n","completion":" 5 * 10 - 9 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 4 tens 6 ones and 2 tens 3 ones?\n\n###\n\n","completion":" 4 * 10 + 6 * 1 - 2 * 10 - 3 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 6 tens 8 ones and 2 tens 2 ones?\n\n###\n\n","completion":" 6 * 10 + 8 * 1 - 2 * 10 - 2 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 3 tens and 6 ones?\n\n###\n\n","completion":" 3 * 10 - 6 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 7 tens 2 ones and 5 tens 9 ones?\n\n###\n\n","completion":" 7 * 10 + 2 * 1 - 5 * 10 - 9 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 9 tens 6 ones and 6 tens 2 ones?\n\n###\n\n","completion":" 9 * 10 + 6 * 1 - 6 * 10 - 2 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 4 tens and 2 tens?\n\n###\n\n","completion":" 4 * 10 - 2 * 10 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 6 ones and 3 ones?\n\n###\n\n","completion":" 6 * 1 - 3 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 5 tens and 2 ones?\n\n###\n\n","completion":" 5 * 10 - 2 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 8 ones and 5 tens?\n\n###\n\n","completion":" 8 * 1 - 5 * 10 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 9 tens 8 ones and 4 tens 6 ones?\n\n###\n\n","completion":" 9 * 10 + 8 * 1 - (4 * 10 + 6 * 1) | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 3 tens 7 ones and 1 ten 6 ones?\n\n###\n\n","completion":" 3 * 10 + 7 * 1 - (1 * 10 + 6 * 1) | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 2 tens 5 ones and 1 ten 2 ones?\n\n###\n\n","completion":" 2 * 10 + 5 * 1 - (1 * 10 + 2 * 1) | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 8 tens 6 ones and 2 tens 3 ones?\n\n###\n\n","completion":" 8 * 10 + 6 * 1 - (2 * 10 + 3 * 1) | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 6 tens 2 ones and 4 tens 1 one?\n\n###\n\n","completion":" 6 * 10 + 2 * 1 - (4 * 10 + 1 * 1) | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 9 ones and 3 tens 4 ones?\n\n###\n\n","completion":" 9 * 1 - (3 * 10 + 4 * 1) | subtraction_with_place_value###"}
+{"prompt":"What is the sum of 2 tens and 7 ones?\n\n###\n\n","completion":" 2 * 10 + 7 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 3 tens and 4 ones?\n\n###\n\n","completion":" 3 * 10 + 4 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 4 tens and 9 ones?\n\n###\n\n","completion":" 4 * 10 + 9 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 6 tens and 8 ones?\n\n###\n\n","completion":" 6 * 10 + 8 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 7 tens and 3 ones?\n\n###\n\n","completion":" 7 * 10 + 3 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 8 tens and 5 ones?\n\n###\n\n","completion":" 8 * 10 + 5 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 9 tens and 2 ones?\n\n###\n\n","completion":" 9 * 10 + 2 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 1 ten and 6 ones?\n\n###\n\n","completion":" 1 * 10 + 6 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 5 tens and 0 ones?\n\n###\n\n","completion":" 5 * 10 + 0 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 0 tens and 9 ones?\n\n###\n\n","completion":" 0 * 10 + 9 * 1 | addition_with_place_value###"}
+{"prompt":"What is the difference between 6 tens and 2 tens?\n\n###\n\n","completion":" 6 * 10 - 2 * 10 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 3 ones and 1 one?\n\n###\n\n","completion":" 3 * 1 - 1 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 7 tens and 6 ones?\n\n###\n\n","completion":" 7 * 10 - 6 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 9 tens and 4 tens?\n\n###\n\n","completion":" 9 * 10 - 4 * 10 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 8 ones and 2 ones?\n\n###\n\n","completion":" 8 * 1 - 2 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 5 tens and 1 one?\n\n###\n\n","completion":" 5 * 10 - 1 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 2 tens and 1 one?\n\n###\n\n","completion":" 2 * 10 - 1 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 8 tens and 7 ones?\n\n###\n\n","completion":" 8 * 10 - 7 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 4 tens and 3 ones?\n\n###\n\n","completion":" 4 * 10 - 3 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 9 ones and 5 ones?\n\n###\n\n","completion":" 9 * 1 - 5 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 7 tens and 4 ones?\n\n###\n\n","completion":" 7 * 10 - 4 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 8 ones and 3 ones?\n\n###\n\n","completion":" 8 * 1 - 3 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 12 ones and 9 ones?\n\n###\n\n","completion":" 12 * 1 - 9 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 20 tens and 13 ones?\n\n###\n\n","completion":" 20 * 10 - 13 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 5 tens and 4 ones?\n\n###\n\n","completion":" 5 * 10 - 4 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 9 ones and 6 ones?\n\n###\n\n","completion":" 9 * 1 - 6 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 14 tens and 11 ones?\n\n###\n\n","completion":" 14 * 10 - 11 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 3 tens and 1 ten?\n\n###\n\n","completion":" 3 * 10 - 1 * 10 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 18 ones and 5 ones?\n\n###\n\n","completion":" 18 * 1 - 5 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the sum of 4 tens and 5 ones?\n\n###\n\n","completion":" 4 * 10 + 5 * 1 | addition_with_place_value###"}
+{"prompt":"What is the value of the ones digit in 25?\n\n###\n\n","completion":" 25 | place_value_number_of_ones###"}
+{"prompt":"What is the value of the tens digit in 56?\n\n###\n\n","completion":" 56 | place_value_number_of_tens###"}
+{"prompt":"What is the sum of 2 tens and 6 ones?\n\n###\n\n","completion":" 2 * 10 + 6 * 1 | addition_with_place_value###"}
+{"prompt":"What is the difference between 8 tens and 3 tens?\n\n###\n\n","completion":" 8 * 10 - 3 * 10 | subtraction_with_place_value###"}
+{"prompt":"What is the value of the ones digit in 48?\n\n###\n\n","completion":" 48 | place_value_number_of_ones###"}
+{"prompt":"What is the value of the tens digit in 37?\n\n###\n\n","completion":" 37 | place_value_number_of_tens###"}
+{"prompt":"What is the sum of 7 tens and 9 ones?\n\n###\n\n","completion":" 7 * 10 + 9 * 1 | addition_with_place_value###"}
+{"prompt":"What is the difference between 6 tens and 4 tens?\n\n###\n\n","completion":" 6 * 10 - 4 * 10 | subtraction_with_place_value###"}
+{"prompt":"What is the value of the ones digit in 63?\n\n###\n\n","completion":" 63 | place_value_number_of_ones###"}
+{"prompt":"What is the value of the tens digit in 94?\n\n###\n\n","completion":" 94 | place_value_number_of_tens###"}
+{"prompt":"What is the difference between 4 tens and 7 ones?\n\n###\n\n","completion":" 4 * 10 - 7 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the sum of 5 tens and 9 ones?\n\n###\n\n","completion":" 5 * 10 + 9 * 1 | addition_with_place_value###"}
+{"prompt":"What is the difference between 8 tens and 3 tens and 2 ones?\n\n###\n\n","completion":" 8 * 10 - (3 * 10 + 2 * 1) | subtraction_with_place_value###"}
+{"prompt":"What is the sum of 2 tens and 5 ones and 1 ten and 7 ones?\n\n###\n\n","completion":" (2 * 10 + 5 * 1) + (1 * 10 + 7 * 1) | addition_with_place_value###"}
+{"prompt":"What is the difference between 6 tens and 4 ones and 3 tens?\n\n###\n\n","completion":" 6 * 10 - (4 * 1 + 3 * 10) | subtraction_with_place_value###"}
+{"prompt":"What is the sum of 3 tens and 6 ones and 4 tens and 8 ones?\n\n###\n\n","completion":" (3 * 10 + 6 * 1) + (4 * 10 + 8 * 1) | addition_with_place_value###"}
+{"prompt":"What is the difference between 5 tens and 9 ones and 3 tens?\n\n###\n\n","completion":" 5 * 10 - (9 * 1 + 3 * 10) | subtraction_with_place_value###"}
+{"prompt":"What is the sum of 7 tens and 9 ones and 1 ten and 2 ones?\n\n###\n\n","completion":" (7 * 10 + 9 * 1) + (1 * 10 + 2 * 1) | addition_with_place_value###"}
+{"prompt":"What is the difference between 6 tens and 3 ones and 4 tens and 2 ones?\n\n###\n\n","completion":" 6 * 10 - (3 * 1 + 4 * 10 + 2 * 1) | subtraction_with_place_value###"}
+{"prompt":"What is the sum of 4 tens and 8 ones and 2 tens and 6 ones?\n\n###\n\n","completion":" (4 * 10 + 8 * 1) + (2 * 10 + 6 * 1) | addition_with_place_value###"}
+{"prompt":"What is the difference between 8 tens and 5 ones?\n\n###\n\n","completion":" 8 * 10 - 5 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 7 tens and 2 ones?\n\n###\n\n","completion":" 7 * 10 - 2 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 4 tens and 1 one?\n\n###\n\n","completion":" 4 * 10 - 1 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 9 ones and 7 ones?\n\n###\n\n","completion":" 9 * 1 - 7 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 2 tens and 6 ones?\n\n###\n\n","completion":" 2 * 10 - 6 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 5 ones and 8 tens?\n\n###\n\n","completion":" 5 * 1 - 8 * 10 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 7 ones and 4 ones?\n\n###\n\n","completion":" 7 * 1 - 4 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 6 tens and 3 tens?\n\n###\n\n","completion":" 6 * 10 - 3 * 10 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 8 tens and 3 ones?\n\n###\n\n","completion":" 8 * 10 - 3 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 9 tens and 4 tens and 2 ones?\n\n###\n\n","completion":" 9 * 10 - 4 * 10 - 2 * 1 | subtraction_with_place_value###"}
+{"prompt":"What is the difference between 7 tens and 2 ones and 3 tens?\n\n###\n\n","completion":" 7 * 10 - 2 * 1 - 3 * 10 | subtraction_with_place_value###"}
+{"prompt":"What is the sum of 2 tens and 1 ten?\n\n###\n\n","completion":" 2 tens + 1 ten | addition_with_place_value###"}
+{"prompt":"What is the sum of 3 ones and 4 ones?\n\n###\n\n","completion":" 3 ones + 4 ones | addition_with_place_value###"}
+{"prompt":"What is the sum of 5 tens and 7 ones?\n\n###\n\n","completion":" 5 tens + 7 ones | addition_with_place_value###"}
+{"prompt":"What is the sum of 6 ones and 9 ones?\n\n###\n\n","completion":" 6 ones + 9 ones | addition_with_place_value###"}
+{"prompt":"What is the sum of 4 tens and 8 tens?\n\n###\n\n","completion":" 4 tens + 8 tens | addition_with_place_value###"}
+{"prompt":"What is the sum of 3 ones and 5 tens?\n\n###\n\n","completion":" 3 ones + 5 tens | addition_with_place_value###"}
+{"prompt":"What is the sum of 2 tens and 9 ones?\n\n###\n\n","completion":" 2 tens + 9 ones | addition_with_place_value###"}
+{"prompt":"What is the sum of 6 ones and 7 ones?\n\n###\n\n","completion":" 6 ones + 7 ones | addition_with_place_value###"}
+{"prompt":"What is the sum of 9 tens and 4 tens?\n\n###\n\n","completion":" 9 tens + 4 tens | addition_with_place_value###"}
+{"prompt":"What is the sum of 7 ones and 8 ones?\n\n###\n\n","completion":" 7 ones + 8 ones | addition_with_place_value###"}
+{"prompt":"What is the sum of 2 tens and 4 ones?\n\n###\n\n","completion":" 2 * 10 + 4 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 4 tens 6 ones and 8 tens 2 ones?\n\n###\n\n","completion":" 4 * 10 + 6 * 1 + 8 * 10 + 2 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 3 tens 7 ones and 1 ten 5 ones?\n\n###\n\n","completion":" 3 * 10 + 7 * 1 + 1 * 10 + 5 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 6 tens 4 ones and 2 tens 9 ones?\n\n###\n\n","completion":" 6 * 10 + 4 * 1 + 2 * 10 + 9 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 8 tens 7 ones and 5 tens 2 ones?\n\n###\n\n","completion":" 8 * 10 + 7 * 1 + 5 * 10 + 2 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 2 tens 1 one and 9 ones?\n\n###\n\n","completion":" 2 * 10 + 1 * 1 + 9 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 5 tens and 6 ones?\n\n###\n\n","completion":" 5 * 10 + 6 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 1 ten and 8 ones?\n\n###\n\n","completion":" 1 * 10 + 8 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 6 tens 5 ones and 2 tens 7 ones?\n\n###\n\n","completion":" 6 * 10 + 5 * 1 + 2 * 10 + 7 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 9 tens and 8 ones?\n\n###\n\n","completion":" 9 * 10 + 8 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 6 tens and 5 ones?\n\n###\n\n","completion":" 6 * 10 + 5 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 1 ten and 9 ones?\n\n###\n\n","completion":" 1 * 10 + 9 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 4 tens and 3 ones?\n\n###\n\n","completion":" 4 * 10 + 3 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 5 tens and 8 ones?\n\n###\n\n","completion":" 5 * 10 + 8 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 7 tens and 6 ones?\n\n###\n\n","completion":" 7 * 10 + 6 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 8 tens and 2 ones?\n\n###\n\n","completion":" 8 * 10 + 2 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 6 tens and 9 ones?\n\n###\n\n","completion":" 6 * 10 + 9 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 7 tens and 5 ones?\n\n###\n\n","completion":" 7 * 10 + 5 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 5 tens and 2 ones?\n\n###\n\n","completion":" 5 * 10 + 2 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 9 tens and 7 ones?\n\n###\n\n","completion":" 9 * 10 + 7 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 8 tens and 3 ones?\n\n###\n\n","completion":" 8 * 10 + 3 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 3 tens and 9 ones?\n\n###\n\n","completion":" 3 * 10 + 9 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 1 ten and 3 ones?\n\n###\n\n","completion":" 1 * 10 + 3 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 4 tens and 6 ones?\n\n###\n\n","completion":" 4 * 10 + 6 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 7 tens and 4 ones?\n\n###\n\n","completion":" 7 * 10 + 4 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 7 tens and 8 ones?\n\n###\n\n","completion":" 7 * 10 + 8 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 6 tens and 1 one?\n\n###\n\n","completion":" 6 * 10 + 1 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 8 tens and 4 ones?\n\n###\n\n","completion":" 8 * 10 + 4 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 2 tens and 9 ones?\n\n###\n\n","completion":" 2 * 10 + 9 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 3 tens and 7 ones?\n\n###\n\n","completion":" 3 * 10 + 7 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 6 tens and 4 ones?\n\n###\n\n","completion":" 6 * 10 + 4 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 9 tens and 9 ones?\n\n###\n\n","completion":" 9 * 10 + 9 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 2 tens and 3 ones?\n\n###\n\n","completion":" 2 * 10 + 3 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 4 tens and 8 ones?\n\n###\n\n","completion":" 4 * 10 + 8 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 1 ten and 4 ones?\n\n###\n\n","completion":" 1 * 10 + 4 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 3 tens and 5 ones?\n\n###\n\n","completion":" 3 * 10 + 5 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 8 tens and 1 one?\n\n###\n\n","completion":" 8 * 10 + 1 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 2 tens and 5 ones?\n\n###\n\n","completion":" 2 * 10 + 5 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 6 tens and 3 ones?\n\n###\n\n","completion":" 6 * 10 + 3 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 7 tens and 2 ones?\n\n###\n\n","completion":" 7 * 10 + 2 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 2 tens and 8 ones?\n\n###\n\n","completion":" 2 * 10 + 8 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 5 tens and 3 ones?\n\n###\n\n","completion":" 5 * 10 + 3 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 1 ten and 7 ones?\n\n###\n\n","completion":" 1 * 10 + 7 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 3 tens and 6 ones?\n\n###\n\n","completion":" 3 * 10 + 6 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 6 tens and 7 ones?\n\n###\n\n","completion":" 6 * 10 + 7 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 2 tens and 1 one?\n\n###\n\n","completion":" 2 * 10 + 1 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 1 ten and 5 ones?\n\n###\n\n","completion":" 1 * 10 + 5 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 3 tens and 8 ones?\n\n###\n\n","completion":" 3 * 10 + 8 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 9 tens and 4 ones?\n\n###\n\n","completion":" 9 * 10 + 4 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 8 tens and 6 ones?\n\n###\n\n","completion":" 8 * 10 + 6 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 9 tens and 1 one?\n\n###\n\n","completion":" 9 * 10 + 1 * 1 | addition_with_place_value###"}
+{"prompt":"What is the sum of 3 tens and 2 ones?\n\n###\n\n","completion":" 3 * 10 + 2 * 1 | addition_with_place_value###"}
+{"prompt":"What is the value of the tens digit in the number 38?\n\n###\n\n","completion":" 38 | place_value_number_of_tens###"}
+{"prompt":"What is the value of the tens digit in the number 44?\n\n###\n\n","completion":" 44 | place_value_number_of_tens###"}
+{"prompt":"What is the value of the tens digit in the number 51?\n\n###\n\n","completion":" 51 | place_value_number_of_tens###"}
+{"prompt":"What is the value of the ones digit in the number 84?\n\n###\n\n","completion":" 84 | place_value_number_of_ones###"}
+{"prompt":"What is the value of the tens digit in the number 57?\n\n###\n\n","completion":" 57 | place_value_number_of_tens###"}
+{"prompt":"What is the value of the ones digit in the number 63?\n\n###\n\n","completion":" 63 | place_value_number_of_ones###"}
+{"prompt":"What is the value of the tens digit in the number 99?\n\n###\n\n","completion":" 99 | place_value_number_of_tens###"}
+{"prompt":"What is the value of the ones digit in the number 41?\n\n###\n\n","completion":" 41 | place_value_number_of_ones###"}
+{"prompt":"What is the value of the tens digit in the number 34?\n\n###\n\n","completion":" 34 | place_value_number_of_tens###"}
+{"prompt":"What is the value of the ones digit in the number 95?\n\n###\n\n","completion":" 95 | place_value_number_of_ones###"}
+{"prompt":"What is the value of the tens digit in the number 78?\n\n###\n\n","completion":" 78 | place_value_number_of_tens###"}
+{"prompt":"What is the value of the ones digit in the number 92?\n\n###\n\n","completion":" 92 | place_value_number_of_ones###"}
+{"prompt":"What is the value of the tens digit in the number 43?\n\n###\n\n","completion":" 43 | place_value_number_of_tens###"}
+{"prompt":"What is the value of the ones digit in the number 86?\n\n###\n\n","completion":" 86 | place_value_number_of_ones###"}
+{"prompt":"What is the value of the tens digit in the number 59?\n\n###\n\n","completion":" 59 | place_value_number_of_tens###"}
+{"prompt":"What is the value of the ones digit in the number 27?\n\n###\n\n","completion":" 27 | place_value_number_of_ones###"}
+{"prompt":"What is the value of the tens digit in the number 62?\n\n###\n\n","completion":" 62 | place_value_number_of_tens###"}
+{"prompt":"What is the value of the ones digit in the number 53?\n\n###\n\n","completion":" 53 | place_value_number_of_ones###"}
+{"prompt":"What is the value of the tens digit in the number 75?\n\n###\n\n","completion":" 75 | place_value_number_of_tens###"}
+{"prompt":"What is the value of the ones digit in the number 39?\n\n###\n\n","completion":" 39 | place_value_number_of_ones###"}
+{"prompt":"What is the value of the ones digit in the number 17?\n\n###\n\n","completion":" 17 | place_value_number_of_ones###"}
+{"prompt":"What is the value of the ones digit in the number 23?\n\n###\n\n","completion":" 23 | place_value_number_of_ones###"}
+{"prompt":"What is the value of the ones digit in the number 48?\n\n###\n\n","completion":" 48 | place_value_number_of_ones###"}
+{"prompt":"What is the value of the ones digit in the number 52?\n\n###\n\n","completion":" 52 | place_value_number_of_ones###"}
+{"prompt":"What is the value of the ones digit in the number 66?\n\n###\n\n","completion":" 66 | place_value_number_of_ones###"}
+{"prompt":"What is the value of the ones digit in the number 78?\n\n###\n\n","completion":" 78 | place_value_number_of_ones###"}
+{"prompt":"What is the value of the ones digit in the number 96?\n\n###\n\n","completion":" 96 | place_value_number_of_ones###"}
+{"prompt":"What is the value of the ones digit in the number 11?\n\n###\n\n","completion":" 11 | place_value_number_of_ones###"}
+{"prompt":"What is the value of the ones digit in the number 46?\n\n###\n\n","completion":" 46 | place_value_number_of_ones###"}
+{"prompt":"What is the value of the ones digit in the number 74?\n\n###\n\n","completion":" 74 | place_value_number_of_ones###"}
+{"prompt":"What is the value of the ones digit in the number 87?\n\n###\n\n","completion":" 87 | place_value_number_of_ones###"}
+{"prompt":"What is the value of the ones digit in the number 91?\n\n###\n\n","completion":" 91 | place_value_number_of_ones###"}
+{"prompt":"What is the value of the ones digit in the number 81?\n\n###\n\n","completion":" 81 | place_value_number_of_ones###"}
+{"prompt":"What is the value of the ones digit in the number 69?\n\n###\n\n","completion":" 69 | place_value_number_of_ones###"}
+{"prompt":"If you have 24 candies and want to divide them equally among 6 children, how many candies will each child get?\n\n###\n\n","completion":" 24 \/ 6 | division_word###"}
+{"prompt":"If there are 24 cookies and you want to divide them equally among 8 children, how many cookies will each child get?\n\n###\n\n","completion":" 24 \/ 8 | division_word###"}
+{"prompt":"A pizza has 8 slices. If you want to share it equally between 2 people, how many slices will each person get?\n\n###\n\n","completion":" 8 \/ 2 | division_word###"}
+{"prompt":"If you have 64 crayons and want to divide them equally among 8 boxes, how many crayons will each box get?\n\n###\n\n","completion":" 64 \/ 8 | division_word###"}
+{"prompt":"There are 36 cars in a parking lot. If you want to park them equally in 6 rows, how many cars will be in each row?\n\n###\n\n","completion":" 36 \/ 6 | division_word###"}
+{"prompt":"If you have 30 candy bars and want to divide them equally among 5 children, how many candy bars will each child get?\n\n###\n\n","completion":" 30 \/ 5 | division_word###"}
+{"prompt":"If there are 15 apples and you want to distribute them equally among 3 people, how many apples will each person get?\n\n###\n\n","completion":" 15 \/ 3 | division_word###"}
+{"prompt":"If you have 36 pencils and want to divide them equally among 9 students, how many pencils will each student get?\n\n###\n\n","completion":" 36 \/ 9 | division_word###"}
+{"prompt":"A bag contains 60 marbles. If you want to distribute them equally among 5 jars, how many marbles will each jar get?\n\n###\n\n","completion":" 60 \/ 5 | division_word###"}
+{"prompt":"If there are 28 candies and you want to divide them equally among 7 children, how many candies will each child get?\n\n###\n\n","completion":" 28 \/ 7 | division_word###"}
+{"prompt":"You have 50 stickers and want to divide them equally between 10 friends. How many stickers will each friend get?\n\n###\n\n","completion":" 50 \/ 10 | division_word###"}
+{"prompt":"If you have 60 stickers and want to distribute them equally between 6 friends, how many stickers will each friend get?\n\n###\n\n","completion":" 60 \/ 6 | division_word###"}
+{"prompt":"A box contains 24 pencils. If you want to distribute them equally between 4 students, how many pencils will each student get?\n\n###\n\n","completion":" 24 \/ 4 | division_word###"}
+{"prompt":"If you have 45 markers and want to divide them equally among 5 children, how many markers will each child get?\n\n###\n\n","completion":" 45 \/ 5 | division_word###"}
+{"prompt":"If there are 36 candies and you want to distribute them equally among 12 people, how many candies will each person get?\n\n###\n\n","completion":" 36 \/ 12 | division_word###"}
+{"prompt":"You have 120 toy cars and want to divide them equally between 8 children. How many toy cars will each child get?\n\n###\n\n","completion":" 120 \/ 8 | division_word###"}
+{"prompt":"If you have 50 pens and you want to distribute them equally among 10 students, how many pens will each student get?\n\n###\n\n","completion":" 50 \/ 10 | division_word###"}
+{"prompt":"There are 24 cupcakes and you want to divide them equally between 6 people. How many cupcakes will each person get?\n\n###\n\n","completion":" 24 \/ 6 | division_word###"}
+{"prompt":"If there are 18 seats in a bus and 3 rows, how many seats are there in each row?\n\n###\n\n","completion":" 18 \/ 3 | division_word###"}
+{"prompt":"You have 30 pencils and want to distribute them equally among 5 friends. How many pencils does each friend get?\n\n###\n\n","completion":" 30 \/ 5 | division_word###"}
+{"prompt":"A pack contains 36 markers. If you want to distribute them equally among 12 students, how many markers will each student get?\n\n###\n\n","completion":" 36 \/ 12 | division_word###"}
+{"prompt":"If you have 96 apples and you want to distribute them equally among 8 baskets, how many apples will each basket get?\n\n###\n\n","completion":" 96 \/ 8 | division_word###"}
+{"prompt":"You want to divide 60 balloons equally among 5 children. How many balloons will each child get?\n\n###\n\n","completion":" 60 \/ 5 | division_word###"}
+{"prompt":"A toy store has 84 teddy bears and wants to divide them equally among 12 shelves. How many teddy bears will be on each shelf?\n\n###\n\n","completion":" 84 \/ 12 | division_word###"}
+{"prompt":"If you have 75 candies and want to distribute them equally between 5 children, how many candies will each child get?\n\n###\n\n","completion":" 75 \/ 5 | division_word###"}
+{"prompt":"You have 64 crayons and want to divide them equally among 8 children. How many crayons will each child get?\n\n###\n\n","completion":" 64 \/ 8 | division_word###"}
+{"prompt":"If you have 75 stickers and you want to distribute them equally among 5 friends, how many stickers will each friend get?\n\n###\n\n","completion":" 75 \/ 5 | division_word###"}
+{"prompt":"A box contains 60 chocolates. If you want to divide them equally among 12 children, how many chocolates will each child get?\n\n###\n\n","completion":" 60 \/ 12 | division_word###"}
+{"prompt":"If you have 120 candies and want to divide them equally among 8 children, how many candies will each child get?\n\n###\n\n","completion":" 120 \/ 8 | division_word###"}
+{"prompt":"You have 64 marbles and want to distribute them equally among 8 jars. How many marbles will each jar get?\n\n###\n\n","completion":" 64 \/ 8 | division_word###"}
+{"prompt":"If there are 30 pencils and you want to distribute them equally among 5 students, how many pencils will each student get?\n\n###\n\n","completion":" 30 \/ 5 | division_word###"}
+{"prompt":"If there are 84 cookies and you want to distribute them equally among 12 people, how many cookies will each person get?\n\n###\n\n","completion":" 84 \/ 12 | division_word###"}
+{"prompt":"If you have 15 apples and want to divide them equally among 3 baskets, how many apples will be in each basket?\n\n###\n\n","completion":" 15 \/ 3 | division_word###"}
+{"prompt":"If there are 28 crayons and 4 children, how many crayons can each child have?\n\n###\n\n","completion":" 28 \/ 4 | division_word###"}
+{"prompt":"You have 30 marbles and want to distribute them equally among 5 children. How many marbles will each child get?\n\n###\n\n","completion":" 30 \/ 5 | division_word###"}
+{"prompt":"If you have 36 markers and want to divide them equally among 6 children, how many markers will each child get?\n\n###\n\n","completion":" 36 \/ 6 | division_word###"}
+{"prompt":"If there are 48 crayons and you want to divide them equally among 4 children, how many crayons will each child get?\n\n###\n\n","completion":" 48 \/ 4 | division_word###"}
+{"prompt":"You have 64 stickers and want to distribute them equally among 8 friends. How many stickers will each friend get?\n\n###\n\n","completion":" 64 \/ 8 | division_word###"}
+{"prompt":"If you have 60 pencils and want to distribute them equally among 6 children, how many pencils will each child get?\n\n###\n\n","completion":" 60 \/ 6 | division_word###"}
+{"prompt":"You have 48 crayons and want to divide them equally between 6 children. How many crayons will each child get?\n\n###\n\n","completion":" 48 \/ 6 | division_word###"}
+{"prompt":"If you have 72 markers and want to divide them equally among 9 children, how many markers will each child get?\n\n###\n\n","completion":" 72 \/ 9 | division_word###"}
+{"prompt":"If you have 48 pencils and want to distribute them equally among 8 children, how many pencils will each child get?\n\n###\n\n","completion":" 48 \/ 8 | division_word###"}
+{"prompt":"If you have 60 marbles and want to divide them equally among 6 children, how many marbles will each child get?\n\n###\n\n","completion":" 60 \/ 6 | division_word###"}
+{"prompt":"A box contains 24 crayons. If you want to distribute them equally among 6 children, how many crayons will each child get?\n\n###\n\n","completion":" 24 \/ 6 | division_word###"}
+{"prompt":"If there are 16 chairs in a classroom and you want to divide them equally among 4 rows, how many chairs will be in each row?\n\n###\n\n","completion":" 16 \/ 4 | division_word###"}
+{"prompt":"If there are 72 candies and you want to divide them equally among 9 children, how many candies will each child get?\n\n###\n\n","completion":" 72 \/ 9 | division_word###"}
+{"prompt":"If there are 50 toys and you want to divide them equally among 5 children, how many toys will each child get?\n\n###\n\n","completion":" 50 \/ 5 | division_word###"}
+{"prompt":"If there are 36 chocolates and you want to divide them equally among 6 children, how many chocolates will each child get?\n\n###\n\n","completion":" 36 \/ 6 | division_word###"}
+{"prompt":"If you have 99 stickers and you want to distribute them equally among 9 friends, how many stickers will each friend get?\n\n###\n\n","completion":" 99 \/ 9 | division_word###"}
+{"prompt":"If there are 24 pencils and you want to distribute them equally among 6 students, how many pencils will each student get?\n\n###\n\n","completion":" 24 \/ 6 | division_word###"}
+{"prompt":"If there are 45 marbles and you want to distribute them equally among 5 jars, how many marbles will each jar get?\n\n###\n\n","completion":" 45 \/ 5 | division_word###"}
+{"prompt":"If there are 72 crayons and you want to distribute them equally among 12 children, how many crayons will each child get?\n\n###\n\n","completion":" 72 \/ 12 | division_word###"}
+{"prompt":"If there are 50 erasers and you want to divide them equally among 5 children, how many erasers will each child get?\n\n###\n\n","completion":" 50 \/ 5 | division_word###"}
+{"prompt":"If you have 60 marbles and want to distribute them equally between 6 jars, how many marbles will each jar get?\n\n###\n\n","completion":" 60 \/ 6 | division###"}
+{"prompt":"88 \/ 11 = ?\n\n###\n\n","completion":" 88 \/ 11 | division###"}
+{"prompt":"27 \/ 3 = ?\n\n###\n\n","completion":" 27 \/ 3 | division###"}
+{"prompt":"42 \/ 7 = ?\n\n###\n\n","completion":" 42 \/ 7 | division###"}
+{"prompt":"125 \/ 5 = ?\n\n###\n\n","completion":" 125 \/ 5 | division###"}
+{"prompt":"216 \/ 6 = ?\n\n###\n\n","completion":" 216 \/ 6 | division###"}
+{"prompt":"150 \/ 15 = ?\n\n###\n\n","completion":" 150 \/ 15 | division###"}
+{"prompt":"49 \/ 7 = ?\n\n###\n\n","completion":" 49 \/ 7 | division###"}
+{"prompt":"80 \/ 4 = ?\n\n###\n\n","completion":" 80 \/ 4 | division###"}
+{"prompt":"100 \/ 20 = ?\n\n###\n\n","completion":" 100 \/ 20 | division###"}
+{"prompt":"24 \/ 3 = ?\n\n###\n\n","completion":" 24 \/ 3 | division###"}
+{"prompt":"14 \/ 2 = ?\n\n###\n\n","completion":" 14 \/ 2 | division###"}
+{"prompt":"60 \/ 5 = ?\n\n###\n\n","completion":" 60 \/ 5 | division###"}
+{"prompt":"98 \/ 7 = ?\n\n###\n\n","completion":" 98 \/ 7 | division###"}
+{"prompt":"36 \/ 4 = ?\n\n###\n\n","completion":" 36 \/ 4 | division###"}
+{"prompt":"112 \/ 8 = ?\n\n###\n\n","completion":" 112 \/ 8 | division###"}
+{"prompt":"54 \/ 6 = ?\n\n###\n\n","completion":" 54 \/ 6 | division###"}
+{"prompt":"108 \/ 9 = ?\n\n###\n\n","completion":" 108 \/ 9 | division###"}
+{"prompt":"80 \/ 10 = ?\n\n###\n\n","completion":" 80 \/ 10 | division###"}
+{"prompt":"63 \/ 3 = ?\n\n###\n\n","completion":" 63 \/ 3 | division###"}
+{"prompt":"48 \/ 8 = ?\n\n###\n\n","completion":" 48 \/ 8 | division###"}
+{"prompt":"72 \/ 8 = ?\n\n###\n\n","completion":" 72 \/ 8 | division###"}
+{"prompt":"20 \/ 5 = ?\n\n###\n\n","completion":" 20 \/ 5 | division###"}
+{"prompt":"84 \/ 7 = ?\n\n###\n\n","completion":" 84 \/ 7 | division###"}
+{"prompt":"28 \/ 4 = ?\n\n###\n\n","completion":" 28 \/ 4 | division###"}
+{"prompt":"120 \/ 8 = ?\n\n###\n\n","completion":" 120 \/ 8 | division###"}
+{"prompt":"45 \/ 9 = ?\n\n###\n\n","completion":" 45 \/ 9 | division###"}
+{"prompt":"96 \/ 8 = ?\n\n###\n\n","completion":" 96 \/ 8 | division###"}
+{"prompt":"64 \/ 4 = ?\n\n###\n\n","completion":" 64 \/ 4 | division###"}
+{"prompt":"81 \/ 3 = ?\n\n###\n\n","completion":" 81 \/ 3 | division###"}
+{"prompt":"48 \/ 6 = ?\n\n###\n\n","completion":" 48 \/ 6 | division###"}
+{"prompt":"What is 9 minus 2?\n\n###\n\n","completion":" 9 - 2 | integer_subtraction###"}
+{"prompt":"Subtract. 81 - 45\n\n###\n\n","completion":" 81 - 45 | integer_subtraction###"}
+{"prompt":"True or false: 15 - 20 = -5\n\n###\n\n","completion":" 15 - 20 = -5 | evaluate_integer_subtraction###"}
+{"prompt":"What is the difference between 100 and 45?\n\n###\n\n","completion":" 100 - 45 | integer_subtraction###"}
+{"prompt":"If a t-shirt costs $18 and you pay with a $20 bill, how much change will you receive?\n\n###\n\n","completion":" 20 - 18 | integer_subtraction_word###"}
+{"prompt":"Subtract. 650 - 273\n\n###\n\n","completion":" 650 - 273 | integer_subtraction###"}
+{"prompt":"True or false: 33 - 33 = 0\n\n###\n\n","completion":" 33 - 33 = 0 | evaluate_integer_subtraction###"}
+{"prompt":"What is the result of 10 minus 3 minus 2?\n\n###\n\n","completion":" 10 - 3 - 2 | integer_subtraction###"}
+{"prompt":"Subtract. 123 - 87\n\n###\n\n","completion":" 123 - 87 | integer_subtraction###"}
+{"prompt":"What is the difference between 5 dozen and 3 oranges?\n\n###\n\n","completion":" 5 x 12 - 3 | integer_subtraction_word###"}
+{"prompt":"What is 27 minus 8?\n\n###\n\n","completion":" 27 - 8 | integer_subtraction###"}
+{"prompt":"Subtract. 150 - 96\n\n###\n\n","completion":" 150 - 96 | integer_subtraction###"}
+{"prompt":"True or false: 40 - 20 = 10\n\n###\n\n","completion":" 40 - 20 = 10 | evaluate_integer_subtraction###"}
+{"prompt":"What is the difference between 60 and 28?\n\n###\n\n","completion":" 60 - 28 | integer_subtraction###"}
+{"prompt":"If a sandwich costs $7 and you buy 5 sandwiches, how much money will you spend?\n\n###\n\n","completion":" 7 * 5 | integer_subtraction_word###"}
+{"prompt":"Subtract. 257 - 136\n\n###\n\n","completion":" 257 - 136 | integer_subtraction###"}
+{"prompt":"What is 12 minus 5?\n\n###\n\n","completion":" 12 - 5 | integer_subtraction###"}
+{"prompt":"Subtract. 88 - 27\n\n###\n\n","completion":" 88 - 27 | integer_subtraction###"}
+{"prompt":"True or false: 50 - 30 = 10\n\n###\n\n","completion":" 50 - 30 = 20 | evaluate_integer_subtraction###"}
+{"prompt":"What is the difference between 24 and 8?\n\n###\n\n","completion":" 24 - 8 | integer_subtraction###"}
+{"prompt":"If a shirt costs $15 and you pay with a $20 bill, how much change will you receive?\n\n###\n\n","completion":" 20 - 15 | integer_subtraction_word###"}
+{"prompt":"Subtract. 341 - 129\n\n###\n\n","completion":" 341 - 129 | integer_subtraction###"}
+{"prompt":"True or false: 40 - 40 = 0\n\n###\n\n","completion":" 40 - 40 = 0 | evaluate_integer_subtraction###"}
+{"prompt":"What is the result of 15 minus 7 minus 1?\n\n###\n\n","completion":" 15 - 7 - 1 | integer_subtraction###"}
+{"prompt":"Subtract. 72 - 39\n\n###\n\n","completion":" 72 - 39 | integer_subtraction###"}
+{"prompt":"What is the difference between 5 dozen and 2 apples?\n\n###\n\n","completion":" 5 x 12 - 2 | integer_subtraction_word###"}
+{"prompt":"What is 36 minus 18?\n\n###\n\n","completion":" 36 - 18 | integer_subtraction###"}
+{"prompt":"Subtract. 128 - 96\n\n###\n\n","completion":" 128 - 96 | integer_subtraction###"}
+{"prompt":"True or false: 80 - 30 = 50\n\n###\n\n","completion":" 80 - 30 = 50 | evaluate_integer_subtraction###"}
+{"prompt":"What is the difference between 50 and 12?\n\n###\n\n","completion":" 50 - 12 | integer_subtraction###"}
+{"prompt":"If a pizza costs $12 and you buy 2 pizzas, how much money will you spend?\n\n###\n\n","completion":" 12 * 2 | integer_subtraction_word###"}
+{"prompt":"Subtract. 251 - 124\n\n###\n\n","completion":" 251 - 124 | integer_subtraction###"}
+{"prompt":"What is 25 minus 8?\n\n###\n\n","completion":" 25 - 8 | integer_subtraction###"}
+{"prompt":"Subtract. 90 - 20\n\n###\n\n","completion":" 90 - 20 | integer_subtraction###"}
+{"prompt":"True or false: 100 - 50 = 40\n\n###\n\n","completion":" 100 - 50 = 40 | evaluate_integer_subtraction###"}
+{"prompt":"What is the difference between 36 and 24?\n\n###\n\n","completion":" 36 - 24 | integer_subtraction###"}
+{"prompt":"If a shirt costs $25 and you pay with a $50 bill, how much change will you receive?\n\n###\n\n","completion":" 50 - 25 | integer_subtraction_word###"}
+{"prompt":"Subtract. 728 - 433\n\n###\n\n","completion":" 728 - 433 | integer_subtraction###"}
+{"prompt":"True or false: 20 - 20 = 0\n\n###\n\n","completion":" 20 - 20 = 0 | evaluate_integer_subtraction###"}
+{"prompt":"What is the result of 15 minus 5 minus 3?\n\n###\n\n","completion":" 15 - 5 - 3 | integer_subtraction###"}
+{"prompt":"Subtract. 60 - 37\n\n###\n\n","completion":" 60 - 37 | integer_subtraction###"}
+{"prompt":"What is the difference between 4 dozen and 10 oranges?\n\n###\n\n","completion":" 4 x 12 - 10 | integer_subtraction_word###"}
+{"prompt":"What is 32 minus 17?\n\n###\n\n","completion":" 32 - 17 | integer_subtraction###"}
+{"prompt":"Subtract. 96 - 74\n\n###\n\n","completion":" 96 - 74 | integer_subtraction###"}
+{"prompt":"True or false: 70 - 30 = 50\n\n###\n\n","completion":" 70 - 30 = 50 | evaluate_integer_subtraction###"}
+{"prompt":"What is the difference between 58 and 21?\n\n###\n\n","completion":" 58 - 21 | integer_subtraction###"}
+{"prompt":"If a bag of apples costs $5 and you buy 3 bags, how much money will you spend?\n\n###\n\n","completion":" 5 * 3 | integer_subtraction_word###"}
+{"prompt":"Subtract. 342 - 197\n\n###\n\n","completion":" 342 - 197 | integer_subtraction###"}
+{"prompt":"What is 99 minus 37?\n\n###\n\n","completion":" 99 - 37 | integer_subtraction###"}
+{"prompt":"Subtract. 200 - 125\n\n###\n\n","completion":" 200 - 125 | integer_subtraction###"}
+{"prompt":"True or false: 25 - 50 = -25\n\n###\n\n","completion":" 25 - 50 = -25 | evaluate_integer_subtraction###"}
+{"prompt":"What is the difference between 86 and 42?\n\n###\n\n","completion":" 86 - 42 | integer_subtraction###"}
+{"prompt":"Subtract. 985 - 372\n\n###\n\n","completion":" 985 - 372 | integer_subtraction###"}
+{"prompt":"True or false: 100 - 0 = 100\n\n###\n\n","completion":" 100 - 0 = 100 | evaluate_integer_subtraction###"}
+{"prompt":"What is the result of 10 minus 3 plus 5?\n\n###\n\n","completion":" 10 - 3 + 5 | integer_subtraction###"}
+{"prompt":"Subtract. 600 - 438\n\n###\n\n","completion":" 600 - 438 | integer_subtraction###"}
+{"prompt":"What is the difference between 7 dozen and 4 oranges?\n\n###\n\n","completion":" 7 x 12 - 4 | integer_subtraction_word###"}
+{"prompt":"What is 100 minus 12?\n\n###\n\n","completion":" 100 - 12 | integer_subtraction###"}
+{"prompt":"Subtract. 243 - 145\n\n###\n\n","completion":" 243 - 145 | integer_subtraction###"}
+{"prompt":"True or false: 75 - 25 = 40\n\n###\n\n","completion":" 75 - 25 = 40 | evaluate_integer_subtraction###"}
+{"prompt":"What is the difference between 79 and 18?\n\n###\n\n","completion":" 79 - 18 | integer_subtraction###"}
+{"prompt":"If a notebook costs $5 and you buy 7 notebooks, how much money will you spend?\n\n###\n\n","completion":" 5 * 7 | integer_subtraction_word###"}
+{"prompt":"Subtract. 824 - 657\n\n###\n\n","completion":" 824 - 657 | integer_subtraction###"}
+{"prompt":"What is 10 minus 3?\n\n###\n\n","completion":" 10 - 3 | integer_subtraction###"}
+{"prompt":"Subtract. 50 - 22\n\n###\n\n","completion":" 50 - 22 | integer_subtraction###"}
+{"prompt":"True or false: 100 - 5 = 95\n\n###\n\n","completion":" 100 - 5 = 95 | evaluate_integer_subtraction###"}
+{"prompt":"What is the difference between 27 and 13?\n\n###\n\n","completion":" 27 - 13 | integer_subtraction###"}
+{"prompt":"If a book costs $12 and you pay with a $20 bill, how much change will you receive?\n\n###\n\n","completion":" 20 - 12 | integer_subtraction_word###"}
+{"prompt":"Subtract. 512 - 123\n\n###\n\n","completion":" 512 - 123 | integer_subtraction###"}
+{"prompt":"True or false: 50 - 50 = 0\n\n###\n\n","completion":" 50 - 50 = 0 | evaluate_integer_subtraction###"}
+{"prompt":"What is the result of 8 minus 2 minus 1?\n\n###\n\n","completion":" 8 - 2 - 1 | integer_subtraction###"}
+{"prompt":"Subtract. 90 - 67\n\n###\n\n","completion":" 90 - 67 | integer_subtraction###"}
+{"prompt":"What is the difference between 3 dozen and 7 apples?\n\n###\n\n","completion":" 3 x 12 - 7 | integer_subtraction_word###"}
+{"prompt":"What is 25 minus 12?\n\n###\n\n","completion":" 25 - 12 | integer_subtraction###"}
+{"prompt":"Subtract. 100 - 89\n\n###\n\n","completion":" 100 - 89 | integer_subtraction###"}
+{"prompt":"True or false: 50 - 25 = 25\n\n###\n\n","completion":" 50 - 25 = 25 | evaluate_integer_subtraction###"}
+{"prompt":"What is the difference between 34 and 20?\n\n###\n\n","completion":" 34 - 20 | integer_subtraction###"}
+{"prompt":"Subtract. 1000 - 500\n\n###\n\n","completion":" 1000 - 500 | integer_subtraction###"}
+{"prompt":"True or false: 25 - 0 = 25\n\n###\n\n","completion":" 25 - 0 = 25 | evaluate_integer_subtraction###"}
+{"prompt":"What is the result of 16 minus 7 plus 5?\n\n###\n\n","completion":" 16 - 7 + 5 | integer_subtraction###"}
+{"prompt":"Subtract. 200 - 100\n\n###\n\n","completion":" 200 - 100 | integer_subtraction###"}
+{"prompt":"What is the difference between 3 dozen and 4 oranges?\n\n###\n\n","completion":" 3 x 12 - 4 | integer_subtraction_word###"}
+{"prompt":"What is 50 minus 12?\n\n###\n\n","completion":" 50 - 12 | integer_subtraction###"}
+{"prompt":"Subtract. 600 - 300\n\n###\n\n","completion":" 600 - 300 | integer_subtraction###"}
+{"prompt":"True or false: 30 - 10 = 20\n\n###\n\n","completion":" 30 - 10 = 20 | evaluate_integer_subtraction###"}
+{"prompt":"What is the difference between 83 and 34?\n\n###\n\n","completion":" 83 - 34 | integer_subtraction###"}
+{"prompt":"If a pencil costs $3 and you buy 5 pencils, how much money will you spend?\n\n###\n\n","completion":" 3 * 5 | integer_subtraction_word###"}
+{"prompt":"Subtract. 75 - 56\n\n###\n\n","completion":" 75 - 56 | integer_subtraction###"}
+{"prompt":"True or false: 60 - 30 = 30\n\n###\n\n","completion":" 60 - 30 = 30 | evaluate_integer_subtraction###"}
+{"prompt":"What is the difference between 44 and 11?\n\n###\n\n","completion":" 44 - 11 | integer_subtraction###"}
+{"prompt":"If a pencil costs $2 and you buy 10 pencils, how much money will you spend?\n\n###\n\n","completion":" 2 * 10 | integer_subtraction_word###"}
+{"prompt":"Subtract. 127 - 64\n\n###\n\n","completion":" 127 - 64 | integer_subtraction###"}
+{"prompt":"50 - 25 = 0\n\n###\n\n","completion":" 50 - 25 = 0 | evaluate_integer_subtraction###"}
+{"prompt":"What is the result of 27 minus 12 minus 3?\n\n###\n\n","completion":" 27 - 12 - 3 | integer_subtraction###"}
+{"prompt":"Subtract. 88 - 43\n\n###\n\n","completion":" 88 - 43 | integer_subtraction###"}
+{"prompt":"What is the difference between 120 and 45?\n\n###\n\n","completion":" 120 - 45 | integer_subtraction###"}
+{"prompt":"What is 100 minus 25?\n\n###\n\n","completion":" 100 - 25 | integer_subt raction###"}
+{"prompt":"Subtract. 201 - 97\n\n###\n\n","completion":" 201 - 97 | integer_subtraction###"}
+{"prompt":"True or false: 50 - 10 = 40\n\n###\n\n","completion":" 50 - 10 = 40 | evaluate_integer_subtraction###"}
+{"prompt":"What is the difference between 72 and 38?\n\n###\n\n","completion":" 72 - 38 | integer_subtraction###"}
+{"prompt":"Subtract. 700 - 329\n\n###\n\n","completion":" 700 - 329 | integer_subtraction###"}
+{"prompt":"What is the result of 20 minus 12 minus 3?\n\n###\n\n","completion":" 20 - 12 - 3 | integer_subtraction###"}
+{"prompt":"Subtract. 300 - 199\n\n###\n\n","completion":" 300 - 199 | integer_subtraction###"}
+{"prompt":"What is the difference between 6 dozen and 8 oranges?\n\n###\n\n","completion":" 6 x 12 - 8 | integer_subtraction_word###"}
+{"prompt":"What is 108 minus 52?\n\n###\n\n","completion":" 108 - 52 | integer_subtraction###"}
+{"prompt":"Subtract. 150 - 75\n\n###\n\n","completion":" 150 - 75 | integer_subtraction###"}
+{"prompt":"True or false: 100 - 10 = 90\n\n###\n\n","completion":" 100 - 10 = 90 | evaluate_integer_subtraction###"}
+{"prompt":"What is the difference between 56 and 33?\n\n###\n\n","completion":" 56 - 33 | integer_subtraction###"}
+{"prompt":"If a book costs $15 and you buy 3 books, how much money will you spend?\n\n###\n\n","completion":" 15 * 3 | integer_subtraction_word###"}
+{"prompt":"Subtract. 555 - 222\n\n###\n\n","completion":" 555 - 222 | integer_subtraction###"}
+{"prompt":"20 - 20 = 0\n\n###\n\n","completion":" 20 - 20 = 0 | evaluate_integer_subtraction###"}
+{"prompt":"What is the result of 18 minus 7 minus 2?\n\n###\n\n","completion":" 18 - 7 - 2 | integer_subtraction###"}
+{"prompt":"Subtract. 200 - 99\n\n###\n\n","completion":" 200 - 99 | integer_subtraction###"}
+{"prompt":"What is the difference between 200 and 75?\n\n###\n\n","completion":" 200 - 75 | integer_subtraction###"}
+{"prompt":"What is 100 minus 30?\n\n###\n\n","completion":" 100 - 30 | integer_subtraction###"}
+{"prompt":"Subtract. 500 - 299\n\n###\n\n","completion":" 500 - 299 | integer_subtraction###"}
+{"prompt":"True or false: 70 - 10 = 60\n\n###\n\n","completion":" 70 - 10 = 60 | evaluate_integer_subtraction###"}
+{"prompt":"What is the difference between 78 and 45?\n\n###\n\n","completion":" 78 - 45 | integer_subtraction###"}
+{"prompt":"Subtract. 120 - 67\n\n###\n\n","completion":" 120 - 67 | integer_subtraction###"}
+{"prompt":"What is the result of 30 minus 12 minus 5?\n\n###\n\n","completion":" 30 - 12 - 5 | integer_subtraction###"}
+{"prompt":"Subtract. 250 - 177\n\n###\n\n","completion":" 250 - 177 | integer_subtraction###"}
+{"prompt":"What is the difference between 8 dozen and 4 apples?\n\n###\n\n","completion":" 8 x 12 - 4 | integer_subtraction_word###"}
+{"prompt":"What is 200 minus 100?\n\n###\n\n","completion":" 200 - 100 | integer_subtraction###"}
+{"prompt":"True or false: 80 - 10 = 70\n\n###\n\n","completion":" 80 - 10 = 70 | evaluate_integer_subtraction###"}
+{"prompt":"What is the difference between 88 and 55?\n\n###\n\n","completion":" 88 - 55 | integer_subtraction###"}
+{"prompt":"Subtract. 800 - 399\n\n###\n\n","completion":" 800 - 399 | integer_subtraction###"}
+{"prompt":"What is the result of 40 minus 12 minus 5?\n\n###\n\n","completion":" 40 - 12 - 5 | integer_subtraction###"}
+{"prompt":"What is the result of 30 minus 232 minus 3?\n\n###\n\n","completion":" 40 - 232 - 3 | integer_subtraction###"}

@@ -6,6 +6,9 @@ import datetime
 import main
 from main import logger
 
+import openai # Import OpenAI API
+openai.api_key = "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" # Set OpenAI API key
+
 
 class MathView(discord.ui.View):
 
@@ -18,8 +21,13 @@ class MathView(discord.ui.View):
 
         start_time = datetime.datetime.now()
 
+        # re-recognize the equation
+        equation = interaction.message.embeds[0].fields[0].value[1:-1]
+
+        equation = openai.Completion.create()
+
         # Graph the equation
-        equation = utils.rewrite_implicit_multiplication(interaction.message.embeds[0].fields[0][1:-1])
+        equation = utils.rewrite_implicit_multiplication()
         equation = sp.sympify(equation, convert_xor=True)
         sp.plot(equation, show=False).save("output/graph.png")
 

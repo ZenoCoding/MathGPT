@@ -73,7 +73,13 @@ class Math(commands.Cog):
         # remove the "###" from the end of the response and split it into two variables with the "|" indice
         completion = completion["choices"][0]["text"]
         print(completion)
-        problem, problem_type = completion.split("|")
+        completion_l = completion.split("|")
+
+        # get the problem_type and parameters from the response
+        problem_type = completion_l[len(completion_l) - 1]
+
+        # remove the problem_type from the parameters
+        parameters = completion_l[0:len(completion_l) - 1]
 
         problem_type = problem_type.strip()
 
@@ -84,10 +90,10 @@ class Math(commands.Cog):
 
         # solve the problem
         try:
-            solution = problem_type.solver(problem)
+            solution = problem_type.solver(parameters)
         except sp.SympifyError as e:
             response = "Invalid equation - " + str(e)
-        if response is "":
+        if response == "":
             # depending on the problem_type of solution, produce a different output
             if isinstance(solution, sp.Expr):
                 response = str(solution)

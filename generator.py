@@ -156,7 +156,9 @@ class ProblemType(Enum):
 
 
 
-AMOUNT = 50
+
+
+AMOUNT = 30
 
 
 def generate_prompts():
@@ -164,10 +166,11 @@ def generate_prompts():
         print(f"Generating prompts for {e.name}...")
         for i in e.generate_problem(AMOUNT):
             prompt, polynomial = i
-            with jsonlines.open("output/prompts.jsonl", mode="a") as writer:
+            with jsonlines.open("verifiers/poly_v1.jsonl", mode="a") as writer:
                 writer.write({"prompt": prompt + "\n\n###\n\n",
                               "completion": f" {polynomial} | {e.name.lower()}###"})
 
+generate_prompts()
 
 
 # function that takes the prompts and "randomizes" them, converting some "**" to ^ and removing some cases of
@@ -191,10 +194,10 @@ def randomize_prompts():
             new_prompts.append({"prompt": result, "completion": prompt["completion"]})
 
         for prompt in new_prompts:
-            with jsonlines.open("output/formatted_prompts.jsonl", mode="a") as writer:
+            with jsonlines.open("output/prompts.jsonl", mode="a") as writer:
                 writer.write({"prompt": prompt["prompt"], "completion": prompt["completion"]})
 
-randomize_prompts()
+#randomize_prompts()
 
 #export OPENAI_API_KEY="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"
 
