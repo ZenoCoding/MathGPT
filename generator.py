@@ -98,6 +98,9 @@ prompts = {
         f"Please factor the polynomial %s",
     ],
 
+    "non-generate-able": [
+    ]
+
 }
 
 
@@ -154,23 +157,54 @@ class ProblemType(Enum):
     QUADRATIC_POLYNOMIAL_ROOT_QUADRATIC_EQUATION = prompts["solve_quadratic"], lambda: generate_equation(2, False), Solver.solve
     # x^2 + 2x + 1 = 0
 
+    # Arithmetic
+    INTEGER_ADDITION = prompts["non-generate-able"], lambda: None, Solver.simplify
 
+    INTEGER_ADDITION_WORD = prompts["non-generate-able"], lambda: None, Solver.simplify
 
+    EVALUATE_INTEGER_ADDITION = prompts["non-generate-able"], lambda: None, Solver.evaluate
 
+    INTEGER_SUBTRACTION = prompts["non-generate-able"], lambda: None, Solver.simplify
+
+    INTEGER_SUBTRACTION_WORD = prompts["non-generate-able"], lambda: None, Solver.simplify
+
+    EVALUATE_INTEGER_SUBTRACTION = prompts["non-generate-able"], lambda: None, Solver.evaluate
+
+    INTEGER_MULTIPLICATION = prompts["non-generate-able"], lambda: None, Solver.simplify
+
+    INTEGER_MULTIPLICATION_WORD = prompts["non-generate-able"], lambda: None, Solver.simplify
+
+    EVALUATE_INTEGER_MULTIPLICATION = prompts["non-generate-able"], lambda: None, Solver.evaluate
+
+    DIVISION = prompts["non-generate-able"], lambda: None, Solver.simplify
+
+    DIVISION_WORD = prompts["non-generate-able"], lambda: None, Solver.simplify
+
+    EVALUATE_DIVISION = prompts["non-generate-able"], lambda: None, Solver.evaluate
+
+    PLACE_VALUE_NUMBER_OF_ONES = prompts["non-generate-able"], lambda: None, lambda params: Solver.place_value_number_of_digit(params, 1)
+
+    PLACE_VALUE_NUMBER_OF_TENS = prompts["non-generate-able"], lambda: None, lambda params: Solver.place_value_number_of_digit(params, 2)
+
+    ADDITION_WITH_PLACE_VALUE = prompts["non-generate-able"], lambda: None, Solver.simplify
+
+    SUBTRACTION_WITH_PLACE_VALUE = prompts["non-generate-able"], lambda: None, Solver.simplify
 
 AMOUNT = 30
 
 
 def generate_prompts():
     for e in ProblemType:
+        if len(e.prompts) == 0:
+            print(f"Skipping generation for {e.name}...")
+            continue
+
         print(f"Generating prompts for {e.name}...")
         for i in e.generate_problem(AMOUNT):
             prompt, polynomial = i
             with jsonlines.open("verifiers/poly_v1.jsonl", mode="a") as writer:
                 writer.write({"prompt": prompt + "\n\n###\n\n",
                               "completion": f" {polynomial} | {e.name.lower()}###"})
-
-generate_prompts()
 
 
 # function that takes the prompts and "randomizes" them, converting some "**" to ^ and removing some cases of

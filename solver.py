@@ -6,14 +6,30 @@ import utils
 
 class Solver(Enum):
 
-    # Simple Method to evaluate an expression:
+    # Simple Method to approximate an expression:
     @staticmethod
-    def evaluate(parameters: list) -> sp.Expr:
+    def approximate(parameters: list) -> sp.Expr:
         expression = parameters[0]
         # Convert it to a sympy expression
         utils.convert_expression(expression)
         # Evaluate it
         return expression.evalf()
+
+    # Evaluate an equation to be true or false
+    @staticmethod
+    def evaluate(parameters: list) -> bool:
+        equation = parameters[0]
+        # Find both sides of the equation
+        if "=" not in equation:
+            left = equation
+            right = 0
+        else:
+            left, right = equation.split("=")
+
+        # Convert both sides to sympy expressions
+        left, right = utils.convert_expression(left), utils.convert_expression(right)
+        # Evaluate it
+        return sp.simplify(left - right) == 0
 
     # Factor an expression:
     @staticmethod
@@ -67,3 +83,12 @@ class Solver(Enum):
         left, right = utils.convert_expression(left), utils.convert_expression(right)
         # Solve it
         return sp.solve(sp.Eq(left, right), set=True)
+
+    # Find the value of a given digit of a number
+    @staticmethod
+    def place_value_number_of_digit(params, digit):
+        number = params[0]
+        # Convert the number to a sympy expression
+        number = utils.convert_expression(number)
+        # Find the digit
+        return int(number / 10 ** (digit - 1)) % 10

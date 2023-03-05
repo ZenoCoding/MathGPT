@@ -6,9 +6,11 @@ import math
 import openai
 import json
 
+import sympy
 from jsonlines import jsonlines
 
 import generator
+import utils
 
 openai.api_key = "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"
 
@@ -52,59 +54,126 @@ class Verifier:
     @staticmethod
     def run_test(model: str, test: str) -> tuple[float, float]:
         recognition_score = 0
-        final_score = 0
+        final_score = 41
         amount = 0
+        start_case = 68
 
         # Open the test file that contains jsonlines data
-        with jsonlines.open(f"verifiers/{test}.jsonl", mode="r", encoding='utf8') as reader:
-
-            amount = len(reader)
-
+        with jsonlines.open(f"verifiers/{test}.jsonl", mode="r") as reader:
             # Loop through every test, obtain a completion and compare it to the expected result
             for testcase in reader:
-                prompt = testcase["prompt"]
-                # remove stop sequence from completion
-                expected_cas_input = testcase["completion"].replace("###", "")
-                expected_cas_output = testcase["result"]
+                try:
+                    print(f"Running testcase {amount} for model {model}")
+                    # print(f"Correct recog: {recognition_score}")
+                    print(f"Correct cas: {final_score}")
+                    if amount < start_case:
+                        amount += 1
+                        continue
+                    amount += 1
+                    # prompt = testcase["prompt"]
+                    # # remove stop sequence from completion
+                    # expected_cas_input = testcase["completion"].replace("###", "")
+                    # expected_cas_output = testcase["result"]
+                    #
+                    # completion = openai.Completion.create(engine=model,
+                    #                                       prompt=prompt, max_tokens=100, temperature=0.0,
+                    #                                       top_p=1.0, frequency_penalty=0.0, presence_penalty=0.0,
+                    #                                       stop=["###"])
+                    #
+                    # # split it into two variables with the "|" indice
+                    # completion = completion["choices"][0]["text"]
+                    # completion_l = completion.split("|")
+                    #
+                    # # get the problem_type and parameters from the response
+                    # problem_type = completion_l[len(completion_l) - 1]
+                    #
+                    # # remove the problem_type from the parameters
+                    # parameters = completion_l[0:len(completion_l) - 1]
+                    #
+                    # problem_type = problem_type.strip()
+                    #
+                    # # identify the problem_type as a problem_type
+                    # problem_type = generator.ProblemType[problem_type.upper()]
+                    #
+                    # # get the result
+                    # result = problem_type.solver(parameters)
+                    #
+                    # # compare the result to the expected result
+                    # if expected_cas_input == completion:
+                    #     recognition_score += 1
+                    #
+                    # if expected_cas_output == str(result):
+                    #     final_score += 1
+                    # else:
+                    #     print(f"Expected CAS Input: {expected_cas_input} | Got: {completion} | Expected: {expected_cas_output} | Got: {result}")
+                    #     # override = input("Override? (y/n)")
+                    #     # if override == "y":
+                    #     #     final_score += 1
+                    completion = openai.ChatCompletion.create(model=model, messages=[{"role": "user", "content": f"Answer the question. Do not explain steps. responses of the form (expression)(expression) should become (expression)*(expression)  {testcase['prompt']}"}])
+                    completion = completion['choices'][0]['message']['content']
 
-                completion = openai.Completion.create(engine=model,
-                                                      prompt=prompt, max_tokens=60, temperature=0.0,
-                                                      top_p=1.0, frequency_penalty=0.0, presence_penalty=0.0,
-                                                      stop=["###"])
-                # split it into two variables with the "|" indice
-                completion = completion["choices"][0]["text"]
-                completion_l = completion.split("|")
+                    if completion == testcase["result"] or f"{testcase['result'].replace(' ', '')}" in completion:
+                        recognition_score += 1
+                        final_score += 1
+                        continue
 
-                # get the problem_type and parameters from the response
-                problem_type = completion_l[len(completion_l) - 1]
+                    try:
+                        if sympy.simplify(utils.convert_expression(completion) - utils.convert_expression(testcase["result"])) == 0:
+                            recognition_score += 1
+                            final_score += 1
+                            continue
+                    except Exception:
+                        pass
 
-                # remove the problem_type from the parameters
-                parameters = completion_l[0:len(completion_l) - 1]
+                    print(f"Expected: {testcase['result']}")
+                    print(f"     Got: {completion}")
 
-                problem_type = problem_type.strip()
+                    c = input("Correct? (y/n)")
+                    if c == "y":
+                        recognition_score += 1
+                        final_score += 1
+                    elif c == "p":
+                        # print the prompt and re-prompt the user
+                        print(f"Prompt: {testcase['prompt']}")
+                        c = input("Correct? (y/n)")
+                        if c == "y":
+                            recognition_score += 1
+                            final_score += 1
 
-                # identify the problem_type as a problem_type
-                problem_type = generator.ProblemType[problem_type.upper()]
+                except Exception as e:
+                    print(e)
+                    if str(e) == "''":
+                        continue
+                    # print(f"Expected CAS Input: {expected_cas_input} | Got: {completion} | Expected: {expected_cas_output} | Got: {result}")
+                    print("Failed test")
+                    amount -= 1
+                    continue
 
-                # get the result
-                result = problem_type.solver(parameters)
-
-                # compare the result to the expected result
-                if expected_cas_input == completion:
-                    recognition_score += 1
-
-                if expected_cas_output == str(result):
-                    final_score += 1
-
+        print(amount)
         recognition_score = recognition_score / amount
         final_score = final_score / amount
 
         return recognition_score, final_score
 
-    # @staticmethod
-    # def run_tests():
-    #     # Open the models file that contains json data
-    #     # Run tests on models that do not have a score for the test
+    @staticmethod
+    def run_tests():
+        # Open the models file that contains json data
+        # Run tests on models that have the tests listed
+        with open("models.json", mode="r", encoding='utf8') as f:
+            models = json.load(f)
+
+            for model in models:
+                if "tests" in models[model]:
+                    tests = models[model]["tests"]
+                    for test in tests:
+                        recognition_score, final_score = Verifier.run_test(model, test)
+                        models[model]["scores"][test] = {
+                            "recognition": recognition_score,
+                            "final": final_score
+                        }
+
+        with open("models.json", mode="w", encoding='utf8') as f:
+            json.dump(models, f, indent=4)
 
     @staticmethod
     def train_model(base: str, fp: str, parameters: float = 1) -> str:
@@ -157,11 +226,35 @@ class Verifier:
 
     @staticmethod
     def convert_eval():
-        with jsonlines.open("output/arith_v1.jsonl", mode="r") as reader:
+        new_data = []
+        with jsonlines.open("verifiers/poly_v1.jsonl", mode="r") as reader:
+            # Calculate the result with CAS
+            for testcase in reader:
+                completion = testcase["completion"].replace("###", "")
+                completion_l = completion.split("|")
+
+                # get the problem_type and parameters from the response
+                problem_type = completion_l[len(completion_l) - 1]
+
+                # remove the problem_type from the parameters
+                parameters = completion_l[0:len(completion_l) - 1]
+
+                problem_type = problem_type.strip()
+
+                # identify the problem_type as a problem_type
+                problem_type = generator.ProblemType[problem_type.upper()]
+
+                # get the result
+                result = problem_type.solver(parameters)
+
+                testcase["result"] = str(result)
+                new_data.append(testcase)
+
+        with jsonlines.open("verifiers/poly_v1.jsonl", mode="w") as writer:
+            writer.write_all(new_data)
 
 
-
-Verifier.convert_eval()
+Verifier.run_tests()
 
 # {
 #     "text-davinci-003": {

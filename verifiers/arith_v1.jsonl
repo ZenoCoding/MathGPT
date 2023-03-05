@@ -1,165 +1,165 @@
-{"prompt":"What is the value of the ones digit in the number 68?\n\n###\n", "completion":"68 | place_value_number_of_ones###"}
-{"prompt":"What is the value of the ones digit in the number 33?\n\n###\n", "completion":"33 | place_value_number_of_ones###"}
-{"prompt":"What is the value of the ones digit in the number 55?\n\n###\n", "completion":"55 | place_value_number_of_ones###"}
-{"prompt":"What is the value of the ones digit in the number 27?\n\n###\n", "completion":"27 | place_value_number_of_ones###"}
-{"prompt":"What is the value of the ones digit in the number 62?\n\n###\n", "completion":"62 | place_value_number_of_ones###"}
-{"prompt":"What is the value of the ones digit in the number 48?\n\n###\n", "completion":"48 | place_value_number_of_ones###"}
-{"prompt":"What is the value of the ones digit in the number 77?\n\n###\n", "completion":"77 | place_value_number_of_ones###"}
-{"prompt":"What is the value of the ones digit in the number 96?\n\n###\n", "completion":"96 | place_value_number_of_ones###"
-{"prompt":"What is the value of the tens digit in the number 77?\n\n###\n", "completion":"77 | place_value_number_of_tens###"}
-{"prompt":"What is the value of the tens digit in the number 66?\n\n###\n", "completion":"66 | place_value_number_of_tens###"}
-{"prompt":"What is the value of the tens digit in the number 89?\n\n###\n", "completion":"89 | place_value_number_of_tens###"}
-{"prompt":"What is the value of the tens digit in the number 72?\n\n###\n", "completion":"72 | place_value_number_of_tens###"}
-{"prompt":"What is the value of the tens digit in the number 94?\n\n###\n", "completion":"94 | place_value_number_of_tens###"}
-{"prompt":"What is the value of the tens digit in the number 62?\n\n###\n", "completion":"62 | place_value_number_of_tens###"}
-{"prompt":"What is the value of the tens digit in the number 85?\n\n###\n", "completion":"85 | place_value_number_of_tens###"}
-{"prompt":"What is the value of the tens digit in the number 86?\n\n###\n", "completion":"86 | place_value_number_of_tens###"}
-{"prompt":"What is the value of the ones digit in the number 72?\n\n###\n", "completion":"72 | place_value_number_of_ones###"}
-{"prompt":"What is the value of the tens digit in the number 29?\n\n###\n", "completion":"29 | place_value_number_of_tens###"}
-{"prompt":"What is the sum of 5 tens and 3 ones?\n\n###\n", "completion":"5 * 10 + 3 * 1 | addition_with_place_value###"}
-{"prompt":"What is the sum of 2 tens and 8 ones?\n\n###\n", "completion":"2 * 10 + 8 * 1 | addition_with_place_value###"}
-{"prompt":"What is the sum of 9 tens and 5 ones?\n\n###\n", "completion":"9 * 10 + 5 * 1 | addition_with_place_value###"}
-{"prompt":"What is the sum of 3 tens and 7 ones?\n\n###\n", "completion":"3 * 10 + 7 * 1 | addition_with_place_value###"}
-{"prompt":"What is the sum of 7 tens and 6 ones?\n\n###\n", "completion":"7 * 10 + 6 * 1 | addition_with_place_value###"}
-{"prompt":"What is the sum of 1 ten and 4 ones?\n\n###\n", "completion":"1 * 10 + 4 * 1 | addition_with_place_value###"}
-{"prompt":"What is the sum of 6 tens and 9 ones?\n\n###\n", "completion":"6 * 10 + 9 * 1 | addition_with_place_value###"}
-{"prompt":"What is the sum of 8 tens and 2 ones?\n\n###\n", "completion":"8 * 10 + 2 * 1 | addition_with_place_value###"}
-{"prompt":"What is the sum of 4 tens and 6 ones?\n\n###\n", "completion":"4 * 10 + 6 * 1 | addition_with_place_value###"}
-{"prompt":"What is the sum of 1 ten and 7 ones?\n\n###\n", "completion":"1 * 10 + 7 * 1 | addition_with_place_value###"}
-{"prompt":"What is the sum of 5 tens and 3 ones?\n\n###\n", "completion":"5 * 10 + 3 * 1 | addition_with_place_value###"}
-{"prompt":"What is the sum of 2 tens and 8 ones?\n\n###\n", "completion":"2 * 10 + 8 * 1 | addition_with_place_value###"}
-{"prompt":"What is the sum of 9 tens and 5 ones?\n\n###\n", "completion":"9 * 10 + 5 * 1 | addition_with_place_value###"}
-{"prompt":"What is the sum of 3 tens and 7 ones?\n\n###\n", "completion":"3 * 10 + 7 * 1 | addition_with_place_value###"}
-{"prompt":"What is the sum of 7 tens and 6 ones?\n\n###\n", "completion":"7 * 10 + 6 * 1 | addition_with_place_value###"}
-{"prompt":"What is the sum of 1 ten and 4 ones?\n\n###\n", "completion":"1 * 10 + 4 * 1 | addition_with_place_value###"}
-{"prompt":"What is the sum of 6 tens and 9 ones?\n\n###\n", "completion":"6 * 10 + 9 * 1 | addition_with_place_value###"}
-{"prompt":"What is the sum of 8 tens and 2 ones?\n\n###\n", "completion":"8 * 10 + 2 * 1 | addition_with_place_value###"}
-{"prompt":"What is the sum of 2 tens and 3 ones?\n\n###\n", "completion":"2 * 10 + 3 * 1 | addition_with_place_value###"}
-{"prompt":"What is the sum of 4 tens and 9 ones?\n\n###\n", "completion":"4 * 10 + 9 * 1 | addition_with_place_value###"}
-{"prompt":"What is the sum of 8 tens and 7 ones?\n\n###\n", "completion":"8 * 10 + 7 * 1 | addition_with_place_value###"}
-{"prompt":"What is the sum of 1 ten and 8 ones?\n\n###\n", "completion":"1 * 10 + 8 * 1 | addition_with_place_value###"}
-{"prompt":"What is the sum of 3 tens and 4 ones?\n\n###\n", "completion":"3 * 10 + 4 * 1 | addition_with_place_value###"}
-{"prompt":"What is the sum of 6 tens and 5 ones?\n\n###\n", "completion":"6 * 10 + 5 * 1 | addition_with_place_value###"}
-{"prompt": "What is the difference between 3 tens and 4 ones?\n\n###\n", "completion": "3 * 10 - 4 * 1 | subtraction_with_place_value###"}
-{"prompt": "What is the difference between 1 ten and 9 ones?\n\n###\n", "completion": "1 * 10 - 9 * 1 | subtraction_with_place_value###"}
-{"prompt": "What is the difference between 6 tens and 6 ones?\n\n###\n", "completion": "6 * 10 - 6 * 1 | subtraction_with_place_value###"}
-{"prompt":"What is the difference between 7 tens and 4 ones?\n\n###\n", "completion":"7 * 10 - 4 * 1 | subtraction_with_place_value###"}
-{"prompt":"What is the difference between 6 ones and 3 ones?\n\n###\n", "completion":"6 * 1 - 3 * 1 | subtraction_with_place_value###"}
-{"prompt":"What is the difference between 8 tens and 6 tens?\n\n###\n", "completion":"8 * 10 - 6 * 10 | subtraction_with_place_value###"}
-{"prompt":"What is the difference between 4 tens and 2 ones?\n\n###\n", "completion":"4 * 10 - 2 * 1 | subtraction_with_place_value###"}
-{"prompt":"What is the difference between 5 ones and 1 one?\n\n###\n", "completion":"5 * 1 - 1 * 1 | subtraction_with_place_value###"}
-{"prompt":"What is the difference between 9 tens and 7 ones?\n\n###\n", "completion":"9 * 10 - 7 * 1 | subtraction_with_place_value###"}
-{"prompt":"What is the difference between 8 ones and 3 ones?\n\n###\n", "completion":"8 * 1 - 3 * 1 | subtraction_with_place_value###"}
-{"prompt":"What is the difference between 6 tens and 2 tens?\n\n###\n", "completion":"6 * 10 - 2 * 10 | subtraction_with_place_value###"}
-{"prompt":"What is the difference between 7 tens and 5 ones?\n\n###\n", "completion":"7 * 10 - 5 * 1 | subtraction_with_place_value###"}
-{"prompt":"What is the difference between 5 tens and 4 ones?\n\n###\n", "completion":"5 * 10 - 4 * 1 | subtraction_with_place_value###"}
-{"prompt":"What is the difference between 9 tens and 6 tens?\n\n###\n", "completion":"9 * 10 - 6 * 10 | subtraction_with_place_value###"}
-{"prompt":"What is the difference between 5 ones and 2 ones?\n\n###\n", "completion":"5 * 1 - 2 * 1 | subtraction_with_place_value###"}
-{"prompt":"What is the difference between 3 tens and 2 ones?\n\n###\n", "completion":"3 * 10 - 2 * 1 | subtraction_with_place_value###"}
-{"prompt":"7 times 2 equals?\n\n###\n", "completion":"7 * 2 | integer_multiplication_word###"}
-{"prompt":"What is 4 multiplied by 7?\n\n###\n", "completion":"4 * 7 | integer_multiplication###"}
-{"prompt":"What is 9 times 5?\n\n###\n", "completion":"9 * 5 | integer_multiplication###"}
-{"prompt":"Evaluate 6 multiplied by 2.\n\n###\n", "completion":"6 * 2 | integer_multiplication###"}
-{"prompt":"What is the product of 11 and 3?\n\n###\n", "completion":"11 * 3 | integer_multiplication###"}
-{"prompt":"Calculate 8 times 9.\n\n###\n", "completion":"8 * 9 | integer_multiplication###"}
-{"prompt":"6 * 7 = ?\n\n###\n", "completion":"6 * 7 | integer_multiplication###"}
-{"prompt":"8 * 4 = ?\n\n###\n", "completion":"8 * 4 | integer_multiplication###"}
-{"prompt":"What is the product of 2 and 9?\n\n###\n", "completion":"2 * 9 | integer_multiplication_word###"}
-{"prompt":"What is the result of multiplying 5 by 10?\n\n###\n", "completion":"5 * 10 | integer_multiplication_word###"}
-{"prompt":"7 multiplied by 6 equals?\n\n###\n", "completion":"7 * 6 | integer_multiplication_word###"}
-{"prompt":"2 x 4 = ?\n\n###\n", "completion":"2 * 4 | integer_multiplication###"}
-{"prompt":"6 x 9 = ?\n\n###\n", "completion":"6 * 9 | integer_multiplication###"}
-{"prompt": "7 multiplied by 9 equals how much?\n\n###\n", "completion": "7 * 9 | integer_multiplication_word###"}
-{"prompt": "What is 4 times 8?\n\n###\n", "completion": "4 * 8 | integer_multiplication###"}
-{"prompt": "Find the product of 2 and 10.\n\n###\n", "completion": "2 * 10 | integer_multiplication_word###"}
-{"prompt": "If you have 3 groups of 5 apples, how many apples do you have in total?\n\n###\n", "completion": "3 * 5 | integer_multiplication_word###"}
-{"prompt": "What is the result of 9 multiplied by 3?\n\n###\n", "completion": "9 * 3 | integer_multiplication###"}
-{"prompt": "How much is 5 times 12?\n\n###\n", "completion": "5 * 12 | integer_multiplication_word###"}
-{"prompt": "What is the product of 11 and 2?\n\n###\n", "completion": "11 * 2 | integer_multiplication###"}
-{"prompt": "If you have 4 groups of 7 pencils, how many pencils do you have in total?\n\n###\n", "completion": "4 * 7 | integer_multiplication_word###"}
-{"prompt": "What is 6 multiplied by 9?\n\n###\n", "completion": "6 * 9 | integer_multiplication###"}
-{"prompt":"What is 7 times 8?\n\n###\n", "completion":"7 * 8 | integer_multiplication###"}
-{"prompt":"What is 12 times 6?\n\n###\n", "completion":"12 * 6 | integer_multiplication###"}
-{"prompt":"What is the product of 5 and 9?\n\n###\n", "completion":"5 * 9 | integer_multiplication###"}
-{"prompt":"Calculate 4 multiplied by 11.\n\n###\n", "completion":"4 * 11 | integer_multiplication###"}
-{"prompt":"What is the result of 9 times 7?\n\n###\n", "completion":"9 * 7 | integer_multiplication###"}
-{"prompt":"If 6 birds each lay 4 eggs, how many eggs are laid in total?\n\n###\n", "completion":"6 * 4 | integer_multiplication_word###"}
-{"prompt":"A box contains 8 packs of pencils, and each pack has 12 pencils. How many pencils are there in total?\n\n###\n", "completion":"8 * 12 | integer_multiplication_word###"}
-{"prompt":"7 x 2 = ?\n\n###\n", "completion":"7 * 2 | integer_multiplication###"}
-{"prompt":"3 x 7 = ?\n\n###\n", "completion":"3 * 7 | integer_multiplication###"}
-{"prompt":"5 x 6 = ?\n\n###\n", "completion":"5 * 6 | integer_multiplication###"}
-{"prompt":"9 x 2 = ?\n\n###\n", "completion":"9 * 2 | integer_multiplication###"}
-{"prompt":"2 x 8 = ?\n\n###\n", "completion":"2 * 8 | integer_multiplication###"}
-{"prompt":"4 x 3 = ?\n\n###\n", "completion":"4 * 3 | integer_multiplication###"}
-{"prompt":"6 x 7 = ?\n\n###\n", "completion":"6 * 7 | integer_multiplication###"}
-{"prompt":"5 x 9 = ?\n\n###\n", "completion":"5 * 9 | integer_multiplication###"}
-{"prompt":"What is the product of 6 and 8?\n\n###\n", "completion":"6 * 8 | integer_multiplication###"}
-{"prompt":"What is the result of 9 multiplied by 12?\n\n###\n", "completion":"9 * 12 | integer_multiplication###"}
-{"prompt":"Calculate 4 multiplied by 5.\n\n###\n", "completion":"4 * 5 | integer_multiplication###"}
-{"prompt":"What is the value of 11 multiplied by 7?\n\n###\n", "completion":"11 * 7 | integer_multiplication###"}
-{"prompt":"What is the solution to 2 multiplied by 9?\n\n###\n", "completion":"2 * 9 | integer_multiplication###"}
-{"prompt":"Compute the product of 7 and 10.\n\n###\n", "completion":"7 * 10 | integer_multiplication###"}
-{"prompt":"Find the value of 3 times 15.\n\n###\n", "completion":"3 * 15 | integer_multiplication###"}
-{"prompt":"Multiply 5 by 6.\n\n###\n", "completion":"5 * 6 | integer_multiplication###"}
-{"prompt":"What is the answer to 4 times 8?\n\n###\n", "completion":"4 * 8 | integer_multiplication###"}
-{"prompt":"Calculate the product of 3 and 7.\n\n###\n", "completion":"3 * 7 | integer_multiplication###"}
-{"prompt":"6 x 2 = ?\n\n###\n", "completion":"6 * 2 | integer_multiplication###"}
-{"prompt":"8 x 5 = ?\n\n###\n", "completion":"8 * 5 | integer_multiplication###"}
-{"prompt":"7 x 4 = ?\n\n###\n", "completion":"7 * 4 | integer_multiplication###"}
-{"prompt":"2 x 9 = ?\n\n###\n", "completion":"2 * 9 | integer_multiplication###"}
-{"prompt":"3 x 7 = ?\n\n###\n", "completion":"3 * 7 | integer_multiplication###"}
-{"prompt":"4 x 8 = ?\n\n###\n", "completion":"4 * 8 | integer_multiplication###"}
-{"prompt":"10 x 2 = ?\n\n###\n", "completion":"10 * 2 | integer_multiplication###"}
-{"prompt":"9 x 6 = ?\n\n###\n", "completion":"9 * 6 | integer_multiplication###"}
-{"prompt": "If you have 10 candies and you want to divide them equally between 5 kids, how many candies will each kid get?\n\n###\n\n", "completion": "10 / 5 | integer_division###"}
-{"prompt": "What is the result of dividing 12 by 6?\n\n###\n\n", "completion": "12 / 6 | division###"}
-{"prompt": "If a cake has 16 slices, and you want to divide it equally among 4 people, how many slices will each person get?\n\n###\n\n", "completion": "16 / 4 | integer_division###"}
-{"prompt": "Solve the division: 50 / 10 = ?\n\n###\n\n", "completion": "50 / 10 | division###"}
-{"prompt": "In a pack of 24 pencils, if you want to divide them equally among 6 kids, how many pencils will each kid get?\n\n###\n\n", "completion": "24 / 6 | integer_division###"}
-{"prompt": "What is the result of dividing 27 by 9?\n\n###\n\n", "completion": "27 / 9 | division###"}
-{"prompt": "If you have 9 apples and want to divide them equally among 3 baskets, how many apples will each basket get?\n\n###\n\n", "completion": "9 / 3 | integer_division###"}
-{"prompt": "Evaluate the division: 72 / 8 = 9.\n\n###\n\n", "completion": "72 / 8 = 9 | evaluate_division###"}
-{"prompt": "If a company has 48 employees and they want to divide them equally into 6 teams, how many employees will be in each team?\n\n###\n\n", "completion": "48 / 6 | integer_division###"}
-{"prompt": "What is the result of dividing 100 by 5?\n\n###\n\n", "completion": "100 / 5 | division###"}
-{"prompt": "If you have 18 cookies and you want to divide them equally between 3 friends, how many cookies will each friend get?\n\n###\n\n", "completion": "18 / 3 | integer_division###"}
-{"prompt": "Solve the division: 35 / 5 = ?\n\n###\n\n", "completion": "35 / 5 | division###"}
-{"prompt": "If you have 60 marbles and want to distribute them equally between 10 jars, how many marbles will each jar get?\n\n###\n\n", "completion": "60 / 10 | integer_division###"}
-{"prompt": "What is the result of dividing 15 by 3?\n\n###\n\n", "completion": "15 / 3 | division###"}
-{"prompt": "If a book has 240 pages and you want to divide it equally among 8 people, how many pages will each person get?\n\n###\n\n", "completion": "240 / 8 | integer_division###"}
-{"prompt": "Evaluate the division: 84 / 12 = 7.\n\n###\n\n", "completion": "84 / 12 = 7 | evaluate_division###"}
-{"prompt": "If you have 21 balloons and you want to divide them equally between 7 kids, how many balloons will each kid get?\n\n###\n\n", "completion": "21 / 3 | integer_division###"}
-{"prompt": "What is the result of dividing 36 by 6?\n\n###\n\n", "completion": "36 / 6 | division###"}
-{"prompt": "If there are 30 candies and you want to divide them equally among 3 friends, how many candies will each friend get?\n\n###\n\n", "completion": "30 / 3 | integer_division###"}
-{"prompt": "Solve the division: 64 / 8 = ?\n\n###\n\n", "completion": "64 / 8 | division###"}
-{"prompt": "If you have 15 toys and want to divide them equally between 5 children, how many toys will each child get?\n\n###\n\n", "completion": "15 / 5 | integer_division###"}
-{"prompt": "What is the result of dividing 24 by 4?\n\n###\n\n", "completion": "24 / 4 | division###"}
-{"prompt": "If you have 12 pencils and want to divide them equally between 3 friends, how many pencils will each friend get?\n\n###\n\n", "completion": "12 / 3 | integer_division###"}
-{"prompt": "Evaluate the division: 54 / 9 = 6.\n\n###\n\n", "completion": "54 / 9 = 6 | evaluate_division###"}
-{"prompt": "If a company has 80 employees and they want to divide them equally into 10 teams, how many employees will be in each team?\n\n###\n\n", "completion": "80 / 10 | integer_division###"}
-{"prompt": "What is the result of dividing 90 by 6?\n\n###\n\n", "completion": "90 / 6 | division###"}
-{"prompt": "If you have 24 chocolates and you want to divide them equally between 4 friends, how many chocolates will each friend get?\n\n###\n\n", "completion": "24 / 4 | integer_division###"}
-{"prompt": "Solve the division: 42 / 6 = ?\n\n###\n\n", "completion": "42 / 6 | division###"}
-{"prompt": "If you have 50 stickers and want to divide them equally between 10 children, how many stickers will each child get?\n\n###\n\n", "completion": "50 / 10 | integer_division###"}
-{"prompt": "What is the result of 12 - 5?\n\n###\n\n", "completion": "12 - 5 | integer_subtraction###"}
-{"prompt": "Subtract 23 from 39.\n\n###\n\n", "completion": "39 - 23 | integer_subtraction###"}
-{"prompt": "If there are 15 apples on a table, and someone takes 7, how many apples are left?\n\n###\n\n", "completion": "15 - 7 | integer_subtraction_word###"}
-{"prompt": "What is the difference between 28 and 16?\n\n###\n\n", "completion": "28 - 16 | integer_subtraction_word###"}
-{"prompt": "What is the result of 99 - 57?\n\n###\n\n", "completion": "99 - 57 | integer_subtraction###"}
-{"prompt": "A store had 64 customers on Monday, and 42 customers on Tuesday. How many fewer customers were there on Tuesday than on Monday?\n\n###\n\n", "completion": "64 - 42 | integer_subtraction_word###"}
-{"prompt": "Evaluate the subtraction: 27 - 14 = 13.\n\n###\n\n", "completion": "27 - 14 = 13 | evaluate_integer_subtraction###"}
-{"prompt": "What is the result of 78 - 35?\n\n###\n\n", "completion": "78 - 35 | integer_subtraction###"}
-{"prompt": "If you have 24 pencils and you give 12 to your friend, how many pencils do you have left?\n\n###\n\n", "completion": "24 - 12 | integer_subtraction_word###"}
-{"prompt": "What is the difference between 60 and 48?\n\n###\n\n", "completion": "60 - 48 | integer_subtraction_word###"}
-{"prompt": "Subtract 67 from 89.\n\n###\n\n", "completion": "89 - 67 | integer_subtraction###"}
-{"prompt": "Evaluate the subtraction: 36 - 19 = 17.\n\n###\n\n", "completion": "36 - 19 = 17 | evaluate_integer_subtraction###"}
-{"prompt": "What is the result of 45 - 23?\n\n###\n\n", "completion": "45 - 23 | integer_subtraction###"}
-{"prompt": "If you have 30 marbles and you give 15 to your friend, how many marbles do you have left?\n\n###\n\n", "completion": "30 - 15 | integer_subtraction_word###"}
-{"prompt": "What is the difference between 72 and 60?\n\n###\n\n", "completion": "72 - 60 | integer_subtraction_word###"}
-{"prompt": "Evaluate the subtraction: 45 - 27 = 18.\n\n###\n\n", "completion": "45 - 27 = 18 | evaluate_integer_subtraction###"}
-{"prompt": "What is the result of 54 - 32?\n\n###\n\n", "completion": "54 - 32 | integer_subtraction###"}
-{"prompt": "If you have 40 balloons and you give 20 to your friend, how many balloons do you have left?\n\n###\n\n", "completion": "40 - 20 | integer_subtraction_word###"}
-{"prompt": "Evaluate the subtraction: 54 - 36 = 18.\n\n###\n\n", "completion": "54 - 36 = 18 | evaluate_integer_subtraction###"}
-{"prompt": "What is the result of 63 - 41?\n\n###\n\n", "completion": "63 - 41 | integer_subtraction###"}
-{"prompt": "If you have 50 stickers and you give 25 to your friend, how many stickers do you have left?\n\n###\n\n", "completion": "50 - 25 | integer_subtraction_word###"}
-{"prompt": "Evaluate the subtraction: 63 - 45 = 18.\n\n###\n\n", "completion": "63 - 45 = 18 | evaluate_integer_subtraction###"}
-{"prompt": "What is the result of 72 - 50?\n\n###\n\n", "completion": "72 - 50 | integer_subtraction###"}
+{"prompt": "What is the value of the ones digit in the number 68?\n\n###\n", "completion": " 68 | place_value_number_of_ones###", "result": "8"}
+{"prompt": "What is the value of the ones digit in the number 33?\n\n###\n", "completion": " 33 | place_value_number_of_ones###", "result": "3"}
+{"prompt": "What is the value of the ones digit in the number 55?\n\n###\n", "completion": " 55 | place_value_number_of_ones###", "result": "5"}
+{"prompt": "What is the value of the ones digit in the number 27?\n\n###\n", "completion": " 27 | place_value_number_of_ones###", "result": "7"}
+{"prompt": "What is the value of the ones digit in the number 62?\n\n###\n", "completion": " 62 | place_value_number_of_ones###", "result": "2"}
+{"prompt": "What is the value of the ones digit in the number 48?\n\n###\n", "completion": " 48 | place_value_number_of_ones###", "result": "8"}
+{"prompt": "What is the value of the ones digit in the number 77?\n\n###\n", "completion": " 77 | place_value_number_of_ones###", "result": "7"}
+{"prompt": "What is the value of the ones digit in the number 96?\n\n###\n", "completion": " 96 | place_value_number_of_ones###", "result": "6"}
+{"prompt": "What is the value of the tens digit in the number 77?\n\n###\n", "completion": " 77 | place_value_number_of_tens###", "result": "7"}
+{"prompt": "What is the value of the tens digit in the number 66?\n\n###\n", "completion": " 66 | place_value_number_of_tens###", "result": "6"}
+{"prompt": "What is the value of the tens digit in the number 89?\n\n###\n", "completion": " 89 | place_value_number_of_tens###", "result": "8"}
+{"prompt": "What is the value of the tens digit in the number 72?\n\n###\n", "completion": " 72 | place_value_number_of_tens###", "result": "7"}
+{"prompt": "What is the value of the tens digit in the number 94?\n\n###\n", "completion": " 94 | place_value_number_of_tens###", "result": "9"}
+{"prompt": "What is the value of the tens digit in the number 62?\n\n###\n", "completion": " 62 | place_value_number_of_tens###", "result": "6"}
+{"prompt": "What is the value of the tens digit in the number 85?\n\n###\n", "completion": " 85 | place_value_number_of_tens###", "result": "8"}
+{"prompt": "What is the value of the tens digit in the number 86?\n\n###\n", "completion": " 86 | place_value_number_of_tens###", "result": "8"}
+{"prompt": "What is the value of the ones digit in the number 72?\n\n###\n", "completion": " 72 | place_value_number_of_ones###", "result": "2"}
+{"prompt": "What is the value of the tens digit in the number 29?\n\n###\n", "completion": " 29 | place_value_number_of_tens###", "result": "2"}
+{"prompt": "What is the sum of 5 tens and 3 ones?\n\n###\n", "completion": " 5 * 10 + 3 * 1 | addition_with_place_value###", "result": "53"}
+{"prompt": "What is the sum of 2 tens and 8 ones?\n\n###\n", "completion": " 2 * 10 + 8 * 1 | addition_with_place_value###", "result": "28"}
+{"prompt": "What is the sum of 9 tens and 5 ones?\n\n###\n", "completion": " 9 * 10 + 5 * 1 | addition_with_place_value###", "result": "95"}
+{"prompt": "What is the sum of 3 tens and 7 ones?\n\n###\n", "completion": " 3 * 10 + 7 * 1 | addition_with_place_value###", "result": "37"}
+{"prompt": "What is the sum of 7 tens and 6 ones?\n\n###\n", "completion": " 7 * 10 + 6 * 1 | addition_with_place_value###", "result": "76"}
+{"prompt": "What is the sum of 1 ten and 4 ones?\n\n###\n", "completion": " 1 * 10 + 4 * 1 | addition_with_place_value###", "result": "14"}
+{"prompt": "What is the sum of 6 tens and 9 ones?\n\n###\n", "completion": " 6 * 10 + 9 * 1 | addition_with_place_value###", "result": "69"}
+{"prompt": "What is the sum of 8 tens and 2 ones?\n\n###\n", "completion": " 8 * 10 + 2 * 1 | addition_with_place_value###", "result": "82"}
+{"prompt": "What is the sum of 4 tens and 6 ones?\n\n###\n", "completion": " 4 * 10 + 6 * 1 | addition_with_place_value###", "result": "46"}
+{"prompt": "What is the sum of 1 ten and 7 ones?\n\n###\n", "completion": " 1 * 10 + 7 * 1 | addition_with_place_value###", "result": "17"}
+{"prompt": "What is the sum of 5 tens and 3 ones?\n\n###\n", "completion": " 5 * 10 + 3 * 1 | addition_with_place_value###", "result": "53"}
+{"prompt": "What is the sum of 2 tens and 8 ones?\n\n###\n", "completion": " 2 * 10 + 8 * 1 | addition_with_place_value###", "result": "28"}
+{"prompt": "What is the sum of 9 tens and 5 ones?\n\n###\n", "completion": " 9 * 10 + 5 * 1 | addition_with_place_value###", "result": "95"}
+{"prompt": "What is the sum of 3 tens and 7 ones?\n\n###\n", "completion": " 3 * 10 + 7 * 1 | addition_with_place_value###", "result": "37"}
+{"prompt": "What is the sum of 7 tens and 6 ones?\n\n###\n", "completion": " 7 * 10 + 6 * 1 | addition_with_place_value###", "result": "76"}
+{"prompt": "What is the sum of 1 ten and 4 ones?\n\n###\n", "completion": " 1 * 10 + 4 * 1 | addition_with_place_value###", "result": "14"}
+{"prompt": "What is the sum of 6 tens and 9 ones?\n\n###\n", "completion": " 6 * 10 + 9 * 1 | addition_with_place_value###", "result": "69"}
+{"prompt": "What is the sum of 8 tens and 2 ones?\n\n###\n", "completion": " 8 * 10 + 2 * 1 | addition_with_place_value###", "result": "82"}
+{"prompt": "What is the sum of 2 tens and 3 ones?\n\n###\n", "completion": " 2 * 10 + 3 * 1 | addition_with_place_value###", "result": "23"}
+{"prompt": "What is the sum of 4 tens and 9 ones?\n\n###\n", "completion": " 4 * 10 + 9 * 1 | addition_with_place_value###", "result": "49"}
+{"prompt": "What is the sum of 8 tens and 7 ones?\n\n###\n", "completion": " 8 * 10 + 7 * 1 | addition_with_place_value###", "result": "87"}
+{"prompt": "What is the sum of 1 ten and 8 ones?\n\n###\n", "completion": " 1 * 10 + 8 * 1 | addition_with_place_value###", "result": "18"}
+{"prompt": "What is the sum of 3 tens and 4 ones?\n\n###\n", "completion": " 3 * 10 + 4 * 1 | addition_with_place_value###", "result": "34"}
+{"prompt": "What is the sum of 6 tens and 5 ones?\n\n###\n", "completion": " 6 * 10 + 5 * 1 | addition_with_place_value###", "result": "65"}
+{"prompt": "What is the difference between 3 tens and 4 ones?\n\n###\n", "completion": " 3 * 10 - 4 * 1 | subtraction_with_place_value###", "result": "26"}
+{"prompt": "What is the difference between 1 ten and 9 ones?\n\n###\n", "completion": " 1 * 10 - 9 * 1 | subtraction_with_place_value###", "result": "1"}
+{"prompt": "What is the difference between 6 tens and 6 ones?\n\n###\n", "completion": " 6 * 10 - 6 * 1 | subtraction_with_place_value###", "result": "54"}
+{"prompt": "What is the difference between 7 tens and 4 ones?\n\n###\n", "completion": " 7 * 10 - 4 * 1 | subtraction_with_place_value###", "result": "66"}
+{"prompt": "What is the difference between 6 ones and 3 ones?\n\n###\n", "completion": " 6 * 1 - 3 * 1 | subtraction_with_place_value###", "result": "3"}
+{"prompt": "What is the difference between 8 tens and 6 tens?\n\n###\n", "completion": " 8 * 10 - 6 * 10 | subtraction_with_place_value###", "result": "20"}
+{"prompt": "What is the difference between 4 tens and 2 ones?\n\n###\n", "completion": " 4 * 10 - 2 * 1 | subtraction_with_place_value###", "result": "38"}
+{"prompt": "What is the difference between 5 ones and 1 one?\n\n###\n", "completion": " 5 * 1 - 1 * 1 | subtraction_with_place_value###", "result": "4"}
+{"prompt": "What is the difference between 9 tens and 7 ones?\n\n###\n", "completion": " 9 * 10 - 7 * 1 | subtraction_with_place_value###", "result": "83"}
+{"prompt": "What is the difference between 8 ones and 3 ones?\n\n###\n", "completion": " 8 * 1 - 3 * 1 | subtraction_with_place_value###", "result": "5"}
+{"prompt": "What is the difference between 6 tens and 2 tens?\n\n###\n", "completion": " 6 * 10 - 2 * 10 | subtraction_with_place_value###", "result": "40"}
+{"prompt": "What is the difference between 7 tens and 5 ones?\n\n###\n", "completion": " 7 * 10 - 5 * 1 | subtraction_with_place_value###", "result": "65"}
+{"prompt": "What is the difference between 5 tens and 4 ones?\n\n###\n", "completion": " 5 * 10 - 4 * 1 | subtraction_with_place_value###", "result": "46"}
+{"prompt": "What is the difference between 9 tens and 6 tens?\n\n###\n", "completion": " 9 * 10 - 6 * 10 | subtraction_with_place_value###", "result": "30"}
+{"prompt": "What is the difference between 5 ones and 2 ones?\n\n###\n", "completion": " 5 * 1 - 2 * 1 | subtraction_with_place_value###", "result": "3"}
+{"prompt": "What is the difference between 3 tens and 2 ones?\n\n###\n", "completion": " 3 * 10 - 2 * 1 | subtraction_with_place_value###", "result": "28"}
+{"prompt": "7 times 2 equals?\n\n###\n", "completion": " 7 * 2 | integer_multiplication_word###", "result": "14"}
+{"prompt": "What is 4 multiplied by 7?\n\n###\n", "completion": " 4 * 7 | integer_multiplication###", "result": "28"}
+{"prompt": "What is 9 times 5?\n\n###\n", "completion": " 9 * 5 | integer_multiplication###", "result": "45"}
+{"prompt": "Evaluate 6 multiplied by 2.\n\n###\n", "completion": " 6 * 2 | integer_multiplication###", "result": "12"}
+{"prompt": "What is the product of 11 and 3?\n\n###\n", "completion": " 11 * 3 | integer_multiplication###", "result": "33"}
+{"prompt": "Calculate 8 times 9.\n\n###\n", "completion": " 8 * 9 | integer_multiplication###", "result": "72"}
+{"prompt": "6 * 7 = ?\n\n###\n", "completion": " 6 * 7 | integer_multiplication###", "result": "42"}
+{"prompt": "8 * 4 = ?\n\n###\n", "completion": " 8 * 4 | integer_multiplication###", "result": "32"}
+{"prompt": "What is the product of 2 and 9?\n\n###\n", "completion": " 2 * 9 | integer_multiplication_word###", "result": "18"}
+{"prompt": "What is the result of multiplying 5 by 10?\n\n###\n", "completion": " 5 * 10 | integer_multiplication_word###", "result": "50"}
+{"prompt": "7 multiplied by 6 equals?\n\n###\n", "completion": " 7 * 6 | integer_multiplication_word###", "result": "42"}
+{"prompt": "2 x 4 = ?\n\n###\n", "completion": " 2 * 4 | integer_multiplication###", "result": "8"}
+{"prompt": "6 x 9 = ?\n\n###\n", "completion": " 6 * 9 | integer_multiplication###", "result": "54"}
+{"prompt": "7 multiplied by 9 equals how much?\n\n###\n", "completion": " 7 * 9 | integer_multiplication_word###", "result": "63"}
+{"prompt": "What is 4 times 8?\n\n###\n", "completion": " 4 * 8 | integer_multiplication###", "result": "32"}
+{"prompt": "Find the product of 2 and 10.\n\n###\n", "completion": " 2 * 10 | integer_multiplication_word###", "result": "20"}
+{"prompt": "If you have 3 groups of 5 apples, how many apples do you have in total?\n\n###\n", "completion": " 3 * 5 | integer_multiplication_word###", "result": "15"}
+{"prompt": "What is the result of 9 multiplied by 3?\n\n###\n", "completion": " 9 * 3 | integer_multiplication###", "result": "27"}
+{"prompt": "How much is 5 times 12?\n\n###\n", "completion": " 5 * 12 | integer_multiplication_word###", "result": "60"}
+{"prompt": "What is the product of 11 and 2?\n\n###\n", "completion": " 11 * 2 | integer_multiplication###", "result": "22"}
+{"prompt": "If you have 4 groups of 7 pencils, how many pencils do you have in total?\n\n###\n", "completion": " 4 * 7 | integer_multiplication_word###", "result": "28"}
+{"prompt": "What is 6 multiplied by 9?\n\n###\n", "completion": " 6 * 9 | integer_multiplication###", "result": "54"}
+{"prompt": "What is 7 times 8?\n\n###\n", "completion": " 7 * 8 | integer_multiplication###", "result": "56"}
+{"prompt": "What is 12 times 6?\n\n###\n", "completion": " 12 * 6 | integer_multiplication###", "result": "72"}
+{"prompt": "What is the product of 5 and 9?\n\n###\n", "completion": " 5 * 9 | integer_multiplication###", "result": "45"}
+{"prompt": "Calculate 4 multiplied by 11.\n\n###\n", "completion": " 4 * 11 | integer_multiplication###", "result": "44"}
+{"prompt": "What is the result of 9 times 7?\n\n###\n", "completion": " 9 * 7 | integer_multiplication###", "result": "63"}
+{"prompt": "If 6 birds each lay 4 eggs, how many eggs are laid in total?\n\n###\n", "completion": " 6 * 4 | integer_multiplication_word###", "result": "24"}
+{"prompt": "A box contains 8 packs of pencils, and each pack has 12 pencils. How many pencils are there in total?\n\n###\n", "completion": " 8 * 12 | integer_multiplication_word###", "result": "96"}
+{"prompt": "7 x 2 = ?\n\n###\n", "completion": " 7 * 2 | integer_multiplication###", "result": "14"}
+{"prompt": "3 x 7 = ?\n\n###\n", "completion": " 3 * 7 | integer_multiplication###", "result": "21"}
+{"prompt": "5 x 6 = ?\n\n###\n", "completion": " 5 * 6 | integer_multiplication###", "result": "30"}
+{"prompt": "9 x 2 = ?\n\n###\n", "completion": " 9 * 2 | integer_multiplication###", "result": "18"}
+{"prompt": "2 x 8 = ?\n\n###\n", "completion": " 2 * 8 | integer_multiplication###", "result": "16"}
+{"prompt": "4 x 3 = ?\n\n###\n", "completion": " 4 * 3 | integer_multiplication###", "result": "12"}
+{"prompt": "6 x 7 = ?\n\n###\n", "completion": " 6 * 7 | integer_multiplication###", "result": "42"}
+{"prompt": "5 x 9 = ?\n\n###\n", "completion": " 5 * 9 | integer_multiplication###", "result": "45"}
+{"prompt": "What is the product of 6 and 8?\n\n###\n", "completion": " 6 * 8 | integer_multiplication###", "result": "48"}
+{"prompt": "What is the result of 9 multiplied by 12?\n\n###\n", "completion": " 9 * 12 | integer_multiplication###", "result": "108"}
+{"prompt": "Calculate 4 multiplied by 5.\n\n###\n", "completion": " 4 * 5 | integer_multiplication###", "result": "20"}
+{"prompt": "What is the value of 11 multiplied by 7?\n\n###\n", "completion": " 11 * 7 | integer_multiplication###", "result": "77"}
+{"prompt": "What is the solution to 2 multiplied by 9?\n\n###\n", "completion": " 2 * 9 | integer_multiplication###", "result": "18"}
+{"prompt": "Compute the product of 7 and 10.\n\n###\n", "completion": " 7 * 10 | integer_multiplication###", "result": "70"}
+{"prompt": "Find the value of 3 times 15.\n\n###\n", "completion": " 3 * 15 | integer_multiplication###", "result": "45"}
+{"prompt": "Multiply 5 by 6.\n\n###\n", "completion": " 5 * 6 | integer_multiplication###", "result": "30"}
+{"prompt": "What is the answer to 4 times 8?\n\n###\n", "completion": " 4 * 8 | integer_multiplication###", "result": "32"}
+{"prompt": "Calculate the product of 3 and 7.\n\n###\n", "completion": " 3 * 7 | integer_multiplication###", "result": "21"}
+{"prompt": "6 x 2 = ?\n\n###\n", "completion": " 6 * 2 | integer_multiplication###", "result": "12"}
+{"prompt": "8 x 5 = ?\n\n###\n", "completion": " 8 * 5 | integer_multiplication###", "result": "40"}
+{"prompt": "7 x 4 = ?\n\n###\n", "completion": " 7 * 4 | integer_multiplication###", "result": "28"}
+{"prompt": "2 x 9 = ?\n\n###\n", "completion": " 2 * 9 | integer_multiplication###", "result": "18"}
+{"prompt": "3 x 7 = ?\n\n###\n", "completion": " 3 * 7 | integer_multiplication###", "result": "21"}
+{"prompt": "4 x 8 = ?\n\n###\n", "completion": " 4 * 8 | integer_multiplication###", "result": "32"}
+{"prompt": "10 x 2 = ?\n\n###\n", "completion": " 10 * 2 | integer_multiplication###", "result": "20"}
+{"prompt": "9 x 6 = ?\n\n###\n", "completion": " 9 * 6 | integer_multiplication###", "result": "54"}
+{"prompt": "If you have 10 candies and you want to divide them equally between 5 kids, how many candies will each kid get?\n\n###\n\n", "completion": " 10 / 5 | division###", "result": "2"}
+{"prompt": "What is the result of dividing 12 by 6?\n\n###\n\n", "completion": " 12 / 6 | division###", "result": "2"}
+{"prompt": "If a cake has 16 slices, and you want to divide it equally among 4 people, how many slices will each person get?\n\n###\n\n", "completion": " 16 / 4 | division###", "result": "4"}
+{"prompt": "Solve the division: 50 / 10 = ?\n\n###\n\n", "completion": " 50 / 10 | division###", "result": "5"}
+{"prompt": "In a pack of 24 pencils, if you want to divide them equally among 6 kids, how many pencils will each kid get?\n\n###\n\n", "completion": " 24 / 6 | division###", "result": "4"}
+{"prompt": "What is the result of dividing 27 by 9?\n\n###\n\n", "completion": " 27 / 9 | division###", "result": "3"}
+{"prompt": "If you have 9 apples and want to divide them equally among 3 baskets, how many apples will each basket get?\n\n###\n\n", "completion": " 9 / 3 | division###", "result": "3"}
+{"prompt": "Evaluate the division: 72 / 8 = 9.\n\n###\n\n", "completion": " 72 / 8 = 9 | evaluate_division###", "result": "True"}
+{"prompt": "If a company has 48 employees and they want to divide them equally into 6 teams, how many employees will be in each team?\n\n###\n\n", "completion": " 48 / 6 | division###", "result": "8"}
+{"prompt": "What is the result of dividing 100 by 5?\n\n###\n\n", "completion": " 100 / 5 | division###", "result": "20"}
+{"prompt": "If you have 18 cookies and you want to divide them equally between 3 friends, how many cookies will each friend get?\n\n###\n\n", "completion": " 18 / 3 | division###", "result": "6"}
+{"prompt": "Solve the division: 35 / 5 = ?\n\n###\n\n", "completion": " 35 / 5 | division###", "result": "7"}
+{"prompt": "If you have 60 marbles and want to distribute them equally between 10 jars, how many marbles will each jar get?\n\n###\n\n", "completion": " 60 / 10 | division###", "result": "6"}
+{"prompt": "What is the result of dividing 15 by 3?\n\n###\n\n", "completion": " 15 / 3 | division###", "result": "5"}
+{"prompt": "If a book has 240 pages and you want to divide it equally among 8 people, how many pages will each person get?\n\n###\n\n", "completion": " 240 / 8 | division###", "result": "30"}
+{"prompt": "Evaluate the division: 84 / 12 = 7.\n\n###\n\n", "completion": " 84 / 12 = 7 | evaluate_division###", "result": "True"}
+{"prompt": "If you have 21 balloons and you want to divide them equally between 7 kids, how many balloons will each kid get?\n\n###\n\n", "completion": " 21 / 3 | division###", "result": "7"}
+{"prompt": "What is the result of dividing 36 by 6?\n\n###\n\n", "completion": " 36 / 6 | division###", "result": "6"}
+{"prompt": "If there are 30 candies and you want to divide them equally among 3 friends, how many candies will each friend get?\n\n###\n\n", "completion": " 30 / 3 | division###", "result": "10"}
+{"prompt": "Solve the division: 64 / 8 = ?\n\n###\n\n", "completion": " 64 / 8 | division###", "result": "8"}
+{"prompt": "If you have 15 toys and want to divide them equally between 5 children, how many toys will each child get?\n\n###\n\n", "completion": " 15 / 5 | division###", "result": "3"}
+{"prompt": "What is the result of dividing 24 by 4?\n\n###\n\n", "completion": " 24 / 4 | division###", "result": "6"}
+{"prompt": "If you have 12 pencils and want to divide them equally between 3 friends, how many pencils will each friend get?\n\n###\n\n", "completion": " 12 / 3 | division###", "result": "4"}
+{"prompt": "Evaluate the division: 54 / 9 = 6.\n\n###\n\n", "completion": " 54 / 9 = 6 | evaluate_division###", "result": "True"}
+{"prompt": "If a company has 80 employees and they want to divide them equally into 10 teams, how many employees will be in each team?\n\n###\n\n", "completion": " 80 / 10 | division###", "result": "8"}
+{"prompt": "What is the result of dividing 90 by 6?\n\n###\n\n", "completion": " 90 / 6 | division###", "result": "15"}
+{"prompt": "If you have 24 chocolates and you want to divide them equally between 4 friends, how many chocolates will each friend get?\n\n###\n\n", "completion": " 24 / 4 | division###", "result": "6"}
+{"prompt": "Solve the division: 42 / 6 = ?\n\n###\n\n", "completion": " 42 / 6 | division###", "result": "7"}
+{"prompt": "If you have 50 stickers and want to divide them equally between 10 children, how many stickers will each child get?\n\n###\n\n", "completion": " 50 / 10 | division###", "result": "5"}
+{"prompt": "What is the result of 12 - 5?\n\n###\n\n", "completion": " 12 - 5 | integer_subtraction###", "result": "7"}
+{"prompt": "Subtract 23 from 39.\n\n###\n\n", "completion": " 39 - 23 | integer_subtraction###", "result": "16"}
+{"prompt": "If there are 15 apples on a table, and someone takes 7, how many apples are left?\n\n###\n\n", "completion": " 15 - 7 | integer_subtraction_word###", "result": "8"}
+{"prompt": "What is the difference between 28 and 16?\n\n###\n\n", "completion": " 28 - 16 | integer_subtraction_word###", "result": "12"}
+{"prompt": "What is the result of 99 - 57?\n\n###\n\n", "completion": " 99 - 57 | integer_subtraction###", "result": "42"}
+{"prompt": "A store had 64 customers on Monday, and 42 customers on Tuesday. How many fewer customers were there on Tuesday than on Monday?\n\n###\n\n", "completion": " 64 - 42 | integer_subtraction_word###", "result": "22"}
+{"prompt": "Evaluate the subtraction: 27 - 14 = 13.\n\n###\n\n", "completion": " 27 - 14 = 13 | evaluate_integer_subtraction###", "result": "True"}
+{"prompt": "What is the result of 78 - 35?\n\n###\n\n", "completion": " 78 - 35 | integer_subtraction###", "result": "43"}
+{"prompt": "If you have 24 pencils and you give 12 to your friend, how many pencils do you have left?\n\n###\n\n", "completion": " 24 - 12 | integer_subtraction_word###", "result": "12"}
+{"prompt": "What is the difference between 60 and 48?\n\n###\n\n", "completion": " 60 - 48 | integer_subtraction_word###", "result": "12"}
+{"prompt": "Subtract 67 from 89.\n\n###\n\n", "completion": " 89 - 67 | integer_subtraction###", "result": "22"}
+{"prompt": "Evaluate the subtraction: 36 - 19 = 17.\n\n###\n\n", "completion": " 36 - 19 = 17 | evaluate_integer_subtraction###", "result": "True"}
+{"prompt": "What is the result of 45 - 23?\n\n###\n\n", "completion": " 45 - 23 | integer_subtraction###", "result": "22"}
+{"prompt": "If you have 30 marbles and you give 15 to your friend, how many marbles do you have left?\n\n###\n\n", "completion": " 30 - 15 | integer_subtraction_word###", "result": "15"}
+{"prompt": "What is the difference between 72 and 60?\n\n###\n\n", "completion": " 72 - 60 | integer_subtraction_word###", "result": "12"}
+{"prompt": "Evaluate the subtraction: 45 - 27 = 18.\n\n###\n\n", "completion": " 45 - 27 = 18 | evaluate_integer_subtraction###", "result": "True"}
+{"prompt": "What is the result of 54 - 32?\n\n###\n\n", "completion": " 54 - 32 | integer_subtraction###", "result": "22"}
+{"prompt": "If you have 40 balloons and you give 20 to your friend, how many balloons do you have left?\n\n###\n\n", "completion": " 40 - 20 | integer_subtraction_word###", "result": "20"}
+{"prompt": "Evaluate the subtraction: 54 - 36 = 18.\n\n###\n\n", "completion": " 54 - 36 = 18 | evaluate_integer_subtraction###", "result": "True"}
+{"prompt": "What is the result of 63 - 41?\n\n###\n\n", "completion": " 63 - 41 | integer_subtraction###", "result": "22"}
+{"prompt": "If you have 50 stickers and you give 25 to your friend, how many stickers do you have left?\n\n###\n\n", "completion": " 50 - 25 | integer_subtraction_word###", "result": "25"}
+{"prompt": "Evaluate the subtraction: 63 - 45 = 18.\n\n###\n\n", "completion": " 63 - 45 = 18 | evaluate_integer_subtraction###", "result": "True"}
+{"prompt": "What is the result of 72 - 50?\n\n###\n\n", "completion": " 72 - 50 | integer_subtraction###", "result": "22"}

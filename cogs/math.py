@@ -69,7 +69,7 @@ class Math(commands.Cog):
         start_time = datetime.datetime.now()
 
         # run the prompt through the recognition model
-        completion = openai.Completion.create(engine="babbage:ft-personal:recognition-2023-02-13-07-36-19", prompt=prompt + "\n\n###\n\n", max_tokens=60, temperature=0.0, top_p=1.0, frequency_penalty=0.0, presence_penalty=0.0, stop=["###"])
+        completion = openai.Completion.create(engine="babbage:ft-mathgpt:recognition-2023-03-02-07-27-11", prompt=prompt + "\n\n###\n\n", max_tokens=60, temperature=0.0, top_p=1.0, frequency_penalty=0.0, presence_penalty=0.0, stop=["###"])
         # remove the "###" from the end of the response and split it into two variables with the "|" indice
         completion = completion["choices"][0]["text"]
         print(completion)
@@ -115,6 +115,8 @@ class Math(commands.Cog):
                                 response += str(k) + ", "
                     response += "\n"
                 # response = str(solution)
+            elif isinstance(solution, bool):
+                response = "True" if solution else "False"
             else:
                 response = "Invalid equation - " + str(type(solution))
 

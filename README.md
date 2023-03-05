@@ -1,2 +1,5 @@
 # MathGPT
-A integration of ChatGPT and CAS to create a seamles user experience.
+## Abstract
+Large language models are remarkable in many ways, especially when emulating many aspects of human-like speech and writing. However, a field that large language models such as GPT-3 or OPTT struggle in is the field of mathematics. LLMs (also know as Large Language Models) were never intended to be precise in mathematical calculations, but rather to understand concepts and relationships between words. We aim to improve upon this; through the combination of CAS (Computer Algebra System) and an LLM. We can transform the more complex humanlike language used to denote many mathematical problems into an expression the CAS is able to interpret, solving problems that CAS nor GPT-3 are able to understand alone.
+
+Read the full paper here -> [MathGPT - An Exploration Into the Field of Mathematics with LLMs](https://docs.google.com/document/d/1JSRx4ArHnNyaepVnzyYovBO3OSKnY3CnBVWS2KlXrAw/edit?usp=sharing)

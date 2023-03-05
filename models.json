@@ -2,36 +2,115 @@
     "text-davinci-003": {
         "id": "text-davinci-003",
         "desc": "Base davinci model for text",
-        "scores": {}
+        "scores": {
+            "poly_v1": {
+                "recognition": 0.0055248618784530384,
+                "final": 0.16022099447513813
+            },
+            "arith_v1": {
+                "recognition": 0.06666666666666667,
+                "final": 0.793939393939394
+            }
+        },
+        "tests": []
+    },
+    "gpt-3.5-turbo": {
+        "id": "gpt-3.5-turbo",
+        "desc": "ChatGPT-3.5 Turbo optimized for chat",
+        "scores": {
+            "arith_v1": {
+                "recognition": 0.6666666666666666,
+                "final": 0.8454545454545454
+            },
+            "poly_v1": {
+                "recognition": 0.2914285714285714,
+                "final": 0.5257142857142857
+            }
+        },
+        "tests": [
+            "poly_v1"
+        ]
     },
     "babbage:ft-personal:recognition-2023-01-19-06-09-11": {
         "id": "babbage:ft-personal:recognition-2023-01-19-06-09-11",
         "desc": "v0.1 Basic Polynomials",
-        "scores": {}
+        "scores": {
+            "poly_v1": {
+                "recognition": 0.15555555555555556,
+                "final": 0.38333333333333336
+            }
+        },
+        "tests": []
     },
     "babbage:ft-personal:recognition-2023-02-13-07-36-19": {
         "id": "babbage:ft-personal:recognition-2023-02-13-07-36-19",
         "desc": "v0.1.1 - Polynomial Revisions",
-        "scores": {}
+        "scores": {
+            "poly_v1": {
+                "recognition": 0.9555555555555556,
+                "final": 0.9555555555555556
+            }
+        },
+        "tests": []
     },
     "ada:ft-mathgpt:recognition-2023-03-02-07-16-10": {
         "id": "ada:ft-mathgpt:recognition-2023-03-02-07-16-10",
         "desc": "v0.2.x | base: ada- polynomials v2 + arithmetic - trained on 1000 lines",
-        "scores": {}
+        "scores": {
+            "poly_v1": {
+                "recognition": 0.988764045,
+                "final": 1.0
+            },
+            "arith_v1": {
+                "recognition": 0.23636363636363636,
+                "final": 0.9090909090909091
+            }
+        },
+        "tests": []
     },
     "babbage:ft-mathgpt:recognition-2023-03-02-07-27-11": {
         "id": "babbage:ft-mathgpt:recognition-2023-03-02-07-27-11",
         "desc": "v0.2.x | base: babbage- polynomials v2 + arithmetic - trained on 1000 lines",
-        "scores": {}
+        "scores": {
+            "poly_v1": {
+                "recognition": 0.994444444444444,
+                "final": 0.9888888888888889
+            },
+            "arith_v1": {
+                "recognition": 0.08484848484848485,
+                "final": 0.9333333333333333
+            }
+        },
+        "tests": []
     },
     "curie:ft-mathgpt:recognition-2023-03-02-07-36-58": {
         "id": "curie:ft-mathgpt:recognition-2023-03-02-07-36-58",
         "desc": "v0.2.x | base: curie- polynomials v2 + arithmetic - trained on 1000 lines",
-        "scores": {}
+        "scores": {
+            "poly_v1": {
+                "recognition": 0.9833333333333333,
+                "final": 1.0
+            },
+            "arith_v1": {
+                "recognition": 0.0,
+                "final": 0.8666666666666667
+            }
+        },
+        "tests": []
     },
-    "davinci:ft-personal:8i7whOpysDVljeckgYHvwpPH": {
-        "id": "davinci:ft-mathgpt:recognition-",
+    "davinci:ft-mathgpt:recognition-2023-03-02-08-04-50": {
+        "id": "davinci:ft-mathgpt:recognition-2023-03-02-08-04-50",
         "desc": "v0.2.x | base: davinci- polynomials v2 + arithmetic - trained on 1000 lines",
-        "scores": {}
+        "scores": {
+            "poly_v1": {
+                "recognition": 0.9944444444444445,
+                "final": 1.0
+            },
+            "arith_v1": {
+                "recognition": 0.13924050632911392,
+                "final": 0.9683544303797469
+            }
+        },
+        "tests": []
     }
 }
