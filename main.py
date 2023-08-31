@@ -9,7 +9,7 @@ import discord
 import utils
 
 # OpenAI API Key
-openai.api_key = "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"
+openai.api_key = ""
 
 logging.basicConfig(filename='discord.log', encoding='utf-8', level=logging.INFO)
 
@@ -74,4 +74,4 @@ except ClientConnectorError as e:
 logger.info('All cogs loaded!')
 
 
-bot.run('MTA2NDMyNjU5NjUzNTc5MTcwOA.GgrwEc.qAUtMbfSNc-zUBEh6cSiRX7Azn8mnhDYGCmZRM')
+bot.run('')
