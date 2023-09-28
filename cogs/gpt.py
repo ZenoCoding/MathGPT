@@ -1,3 +1,5 @@
+import os
+
 import discord
 from discord.ext import commands
 
@@ -13,7 +15,7 @@ class GPT(commands.Cog):
         self.bot = bot
 
     @discord.slash_command(name='gpt', description='Generate text using GPT-3!',
-                       guilds=[discord.Object(id=945903743319293992)])
+                           guilds=[discord.Object(id=os.environ.get("DISCORD_ID"))])
     @discord.option("prompt", description="Enter a prompt.")
     @discord.option("model", description="Select a model.",
                     choices=["text-davinci-003", "text-curie-001", "text-babbage-001", "text-ada-001"])

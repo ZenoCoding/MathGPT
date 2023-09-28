@@ -8,7 +8,6 @@ import discord
 
 import utils
 
-
 logging.basicConfig(filename='discord.log', encoding='utf-8', level=logging.INFO)
 
 # create logger
@@ -40,7 +39,8 @@ async def on_ready():
     logger.info(f'We have logged in as {bot.user}')
 
 
-@bot.slash_command(name='help', description='Receive some assistance!', guilds=[discord.Object(id=945903743319293992)])
+@bot.slash_command(name='help', description='Receive some assistance!',
+                   guilds=[discord.Object(id=os.environ.get("DISCORD_ID"))])
 async def help_command(interaction: discord.Interaction):
     embed = utils.create_embed(title="Command Help", description="Here are the commands you can use with MathGPT!")
     embed.add_field(name="help", value="Receive some assistance!", inline=False)
@@ -62,14 +62,13 @@ except ClientConnectorError as e:
             for cog in cogs:
                 bot.load_extension(f'cogs.{cog}')
         except ClientConnectorError as e:
-            logger.error("Reconnect failed. Now attempting to reconnect every 5 minutes." if delay == 30 else "Reconnect failed.")
+            logger.error(
+                "Reconnect failed. Now attempting to reconnect every 5 minutes." if delay == 30 else "Reconnect failed.")
             delay = 600
         else:
             logger.error("Reconnect and loading of cogs successful!")
             break
 
-
 logger.info('All cogs loaded!')
-
 
 bot.run('')
