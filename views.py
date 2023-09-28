@@ -7,8 +7,6 @@ import main
 from main import logger
 
 import openai # Import OpenAI API
-openai.api_key = "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" # Set OpenAI API key
-
 
 class MathView(discord.ui.View):
 

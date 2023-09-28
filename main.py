@@ -8,8 +8,6 @@ import discord
 
 import utils
 
-# OpenAI API Key
-openai.api_key = ""
 
 logging.basicConfig(filename='discord.log', encoding='utf-8', level=logging.INFO)
 

@@ -12,8 +12,6 @@ from jsonlines import jsonlines
 import generator
 import utils
 
-openai.api_key = "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"
-
 class Verifier:
     def __init__(self):
         pass

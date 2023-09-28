@@ -10,7 +10,6 @@ import openai
 
 import sympy as sp
 
-openai.api_key = "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"
 
 # Function that generates a random coefficient that isn't 1
 def random_coefficient() -> int:
